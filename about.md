@@ -1,6 +1,6 @@
 ---
 lang-ref: about
-title: About
+title: About the German Virtual Herbarium VH/de
 description: Lorem markdownum spatium limes indefessus neque at orat aestuat
 background: /assets/images/moss.jpg
 imageLicense: |
