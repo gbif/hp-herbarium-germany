@@ -99,6 +99,6 @@ defaults:
       lang: en
   -
     scope:
-      path: "da/"
+      path: "de/"
     values:
-      lang: da
+      lang: de
