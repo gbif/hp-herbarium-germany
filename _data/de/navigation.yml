@@ -17,4 +17,5 @@
   - text: Lær YAML
     href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
 - text: News
-  href: /de/nyheder/
+  href: /news/  
+        #  /de/news/
