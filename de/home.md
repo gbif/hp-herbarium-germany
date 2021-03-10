@@ -8,11 +8,11 @@ imageLicense: |
   *Xylaria hypoxylon* (L.) Grev. Photo by Alexis via [iNaturalist](https://www.gbif.org/occurrence/2542961803)
 cta:
   - text: Udforsk
-    href: /da/data
+    href: /de/data
     isPrimary: true
   - text: Om
-    href: /da/om
-permalink: /da
+    href: /de/om
+permalink: /de
 ---
 
 Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
