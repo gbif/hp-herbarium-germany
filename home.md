@@ -17,5 +17,5 @@ permalink: /
 
 ## Partner institutions 
 
-(hier die Logos der Partner)
+(hier die Liste der Partner ohne Logos)
 
