@@ -1,9 +1,9 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
+- text: Belege erforschen
+  href: /de/data
 - text: Über
   href: /de/about
-- text: Daten
-  href: /de/data
 - text: Links
   menu: # Dropdown menu (one level deep only)
   - text: Base tema demo
