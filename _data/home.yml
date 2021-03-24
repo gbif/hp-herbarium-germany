@@ -18,7 +18,7 @@
 stats:
   features:
       # we can also use the graphql API to allow richer queries
-    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?networkKey=3aee7756-565e-4dc5-b22c-f997fbd7105c">787,000</span>
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?networkKey=3aee7756-565e-4dc5-b22c-f997fbd7105c&limit=0">787,000</span>
       #klass: cifras
       description: Herbarium specimens
       #background: /assets/images/landing_page/iconos_cifras/registros_biologicos.png
@@ -33,8 +33,8 @@ stats:
       description: Publishing institutions
       #background: /assets/images/landing_page/iconos_cifras/fichas_de_especies.png
       href: https://www.gbif.org/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/publisher
-    - title: xxx
-      description: Images
+    - title: <span data-ajax-url="http://api.gbif.org/v1/occurrence/search?mediaType=StillImage&networkKey=3aee7756-565e-4dc5-b22c-f997fbd7105c&limit=0">260,000</span>
+      description: Occurrences with images
       #background: /assets/images/landing_page/iconos_cifras/publicadores.png
       href: /data?view=gallery
     
