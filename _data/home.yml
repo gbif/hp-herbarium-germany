@@ -21,68 +21,20 @@ stats:
     - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?networkKey=3aee7756-565e-4dc5-b22c-f997fbd7105c">787,000</span>
       #klass: cifras
       description: Herbarium specimens
-      background: /assets/images/landing_page/iconos_cifras/registros_biologicos.png
+      #background: /assets/images/landing_page/iconos_cifras/registros_biologicos.png
       href: /data
       # using a dynamic value from some endpoint. You can configure what field to look for using the path attribute
     - title: 21
       description: Datasets
-      background: /assets/images/landing_page/iconos_cifras/listas_de_especies.png
+      #background: /assets/images/landing_page/iconos_cifras/listas_de_especies.png
       href: https://www.gbif.org/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/dataset
       # using a dynamic value from some endpoint. It will default to look for a 'count' value in the response
     - title: 10
       description: Publishing institutions
-      background: /assets/images/landing_page/iconos_cifras/fichas_de_especies.png
+      #background: /assets/images/landing_page/iconos_cifras/fichas_de_especies.png
       href: https://www.gbif.org/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/publisher
-    - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=CO&limit=0&isEndorsed=true">100,000</span>
+    - title: xxx
       description: Images
-      background: /assets/images/landing_page/iconos_cifras/publicadores.png
+      #background: /assets/images/landing_page/iconos_cifras/publicadores.png
       href: /data?view=gallery
-      
-# productExample:
-  # align: right
-  # preTitle: Publicar  # optional
-  # title: Hola!  # required
-  # description: |      # required
-    # Also, in for from winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years firmament thing fly moving land, divide good spirit you’ll fruitful waters one land us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree, hath moved third saying years hath behold is kind moved. Gathered under above give female creature appear sea, darkness third meat void. Set spirit us of deep fourth. One unto made is.
-  img required
-  # background: /assets/img/product-right.png
-  
-# splitExample:
-  # reverse: true
-  # preTitle: Reporte  # optional
-  # title: Actividad de publicación
-  # description: |      # required
-    # Este reporte mensual entrega una serie de gráficos, cifras y estadísticas de la actividad de publicación y uso de datos sobre biodiversidad publicados a través del SiB Colombia.
- # img required
-  # background: /assets/images/landing_page/pieza_cf.jpg
-  # overlayColor: "#000033"
-  # href: https://sibcolombia.net/formacion/
-  # cta:
-  # - text: Explorar
-    # href: https://hp-colombian-biodiversity.gbif-staging.org/comunidad/ActividadPublicacion
-    # isPrimary: true
- 
-blank: 
-  klass: test
-  markdownContent: |
-    <style>
-      .my-headline {
-          margin: 0;
-          background-image: url('/assets/img/Haeckel_Siphoneae.jpg'); 
-          background-size: cover; 
-          -webkit-background-clip: text; 
-          -webkit-text-fill-color: transparent; 
-          font-size: 120px; 
-          text-align: center; 
-          text-transform: uppercase; 
-          font-weight: 900;
-      } 
-    </style>
-    <div style="background: #444440; color: white">
-      <h1 class="my-headline">A blank slate - do as you like here</h1>
-      <div style="text-align: center; padding: 24px">
-        <h2>type: blank</h2>
-        <p>See <a href="https://github.com/gbif/jekyll-theme-algae/blob/master/_data/compose/examples.yml"><code class="language-plaintext highlighter-rouge">_data/compose/markdownBlock.yml</code></a> for the content structure.</p>
-      </div>
-    </div>
     
