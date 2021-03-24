@@ -23,10 +23,7 @@ stats:
       description: Herbarium specimens
       #background: /assets/images/landing_page/iconos_cifras/registros_biologicos.png
       href: /data
-    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?mediaType=StillImage&networkKey=3aee7756-565e-4dc5-b22c-f997fbd7105c&limit=0">xx</span>
-      description: Specimens with images
-      #background: /assets/images/landing_page/iconos_cifras/publicadores.png
-      href: /data?view=gallery
+      # using a dynamic value from some endpoint. You can configure what field to look for using the path attribute
     - title: <span data-ajax-url="https://api.gbif.org/v1/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/constituents?limit=0">xx</span>
       description: Datasets
       #background: /assets/images/landing_page/iconos_cifras/listas_de_especies.png
@@ -36,4 +33,8 @@ stats:
       description: Publishing institutions
       #background: /assets/images/landing_page/iconos_cifras/fichas_de_especies.png
       href: https://www.gbif.org/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/publisher
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?mediaType=StillImage&networkKey=3aee7756-565e-4dc5-b22c-f997fbd7105c&limit=0">xx</span>
+      description: Specimens with images
+      #background: /assets/images/landing_page/iconos_cifras/publicadores.png
+      href: /data?view=gallery
     
