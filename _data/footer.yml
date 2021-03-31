@@ -5,7 +5,7 @@
 columns:
   
   - name: bla
-    description:
+    description: |
       [Imprint/Disclaimer] (https://www.bgbm.org/en/imprint)
 
   - name: Contact
