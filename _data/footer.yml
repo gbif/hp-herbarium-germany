@@ -3,9 +3,11 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: [Imprint/Disclaimer] (https://www.bgbm.org/en/imprint)
+  
+  - description:
+      [Imprint/Disclaimer] (https://www.bgbm.org/en/imprint)
 
-  - name: [xxxContactxxx]  
+  - name: Contact
   
 
   # EXAMPLE
