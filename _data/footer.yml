@@ -3,18 +3,9 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: Imprint
-    links:
-    - text: Name of project partner 1
-      href: http://example.com
-    - text: Name of project partner 2
-      href: http://example.com
+  - name: [Imprint/Disclaimer] (https://www.bgbm.org/en/imprint)
 
-  - name: Disclaimer
-    description: | # Can be Markdown
-      This project is open source. See `_data/footer.yml` to customize the footer.
-
-  - name: Contact
+  - name: [xxxContactxxx]  
   
 
   # EXAMPLE
