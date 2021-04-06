@@ -10,18 +10,18 @@ height: 70vh
 
 #### Community and Data Networks
 
-* Consortium of European Taxonomic Facilities (CETAF)
-* Global Biodiversity Information Facility (GBIF)
-* GBIF-Germany
-* German GBIF Node for Plants, Algae and Protists
-* Biological Collection Access Service
+* [Consortium of European Taxonomic Facilities - CETAF](https://cetaf.org/)
+* [Global Biodiversity Information Facility - GBIF](https://www.gbif.org/)
+* [GBIF-Germany](http://www.gbif.de)
+* [German GBIF Node for Plants, Algae and Protists](http://www.gbif.de/de/botanik)
+* [Biological Collection Access Service](https://www.biocase.org/)
 * [German Federation for Biological Data - GFBio](https://www.gfbio.org/)
-* National Research Data Infrastructure for Biodiversity https://www.nfdi4biodiversity.org/
-* Distributed System of Scientific Collections (DiSSCo)
-* Global Genome Biodiversity Network (GGBN)
-* Geological Collection Access Service (GeoCASe)
-* Gardens4science
-* Les Herbonauts / Die Herbonauten (Crowdsourcing projects)
+* [National Research Data Infrastructure for Biodiversity - NFDI4Biodiversity](https://www.nfdi4biodiversity.org/)
+* [Distributed System of Scientific Collections - DiSSCo](https://www.dissco.eu/)
+* [Global Genome Biodiversity Network - GGBN](http://www.ggbn.org/)
+* [Geological Collection Access Service - GeoCASe](https://geocase.eu/)
+* [Gardens4science](http://gardens4science.biocase.org/)
+* [Les Herbonauts](http://lesherbonautes.mnhn.fr/) / [Die Herbonauten](https://www.herbonauten.de/) (Crowdsourcing projects)
 
 
 #### Standards & Tools
