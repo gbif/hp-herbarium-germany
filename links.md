@@ -10,17 +10,11 @@ height: 70vh
 #### Community and Data Networks
 
 <div class="columns">
-  <div class="column">
-    First column
+  <div class="column is-one-quarter">
+    Logo
   </div>
-  <div class="column">
-    Second column
-  </div>
-  <div class="column">
-    Third column
-  </div>
-  <div class="column">
-    Fourth column
+  <div class="column is-one-quarter">
+    Consortium of European Taxonomic Facilities (CETAF)
   </div>
 </div>
 
@@ -36,7 +30,7 @@ height: 70vh
 
 dsfgsdfg | dfasdf
 --- | ---
-!(/assets/images/map.png)		| Consortium of European Taxonomic Facilities (CETAF)
+!(/assets/images/map.png)		| 
 blubb							| Global Biodiversity Information Facility (GBIF)
 
 GBIF-Germany
