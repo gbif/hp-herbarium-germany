@@ -25,8 +25,9 @@ Currently [<span data-ajax-url="https://api.gbif.org/v1/occurrence/search?networ
 ![Geo-referenced digital specimens of the German Virtual Herbarium](/assets/images/map.png){:standalone .has-text-centered}
 
 <table>
-		<tr>
-			<td>sadfasdfasdf</td>
-			<td>asdfgasdff</td>
-		</tr>
-	</table>
+	<tr>
+		<td>[Browse list](/data){: .button .is-primary}</td>
+		<td>[Explore in map](/data?view=map){: .button}</td>
+		<td> [View images](/data?view=gallery){: .button}</td>
+	</tr>
+</table>
