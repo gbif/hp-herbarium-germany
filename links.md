@@ -9,11 +9,12 @@ height: 70vh
 
 #### Community and Data Networks
 
+<div style="border: none;">
 dsfgsdfg | dfasdf
 --- | ---
 !(/assets/images/map.png)		| Consortium of European Taxonomic Facilities (CETAF)
 blubb							| Global Biodiversity Information Facility (GBIF)
-
+</div>
 
 GBIF-Germany
 
