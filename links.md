@@ -13,38 +13,23 @@ height: 70vh
 * Consortium of European Taxonomic Facilities (CETAF)
 * Global Biodiversity Information Facility (GBIF)
 * GBIF-Germany
-
-German GBIF Node for Plants, Algae and Protists
-
-Biological Collection Access Service
-
-German Federation for Biological Data (GFBio)
-
-National Research Data Infrastructure for Biodiversity https://www.nfdi4biodiversity.org/
-
-Distributed System of Scientific Collections (DiSSCo)
-
-Global Genome Biodiversity Network (GGBN)
-
-Geological Collection Access Service (GeoCASe)
-
-Gardens4science
-
-Les Herbonauts / Die Herbonauten
+* German GBIF Node for Plants, Algae and Protists
+* Biological Collection Access Service
+* German Federation for Biological Data (GFBio)
+* National Research Data Infrastructure for Biodiversity https://www.nfdi4biodiversity.org/
+* Distributed System of Scientific Collections (DiSSCo)
+* Global Genome Biodiversity Network (GGBN)
+* Geological Collection Access Service (GeoCASe)
+* Gardens4science
+* Les Herbonauts / Die Herbonauten (Crowdsourcing projects)
 
 
 #### Standards & Tools
 
-Biodiversity Information Standards (TDWG)
-
-Access to Biological Collections Data (ABCD standard)
-
-DarwinCore Standard
-
-BioCASe Provider Software (BioCASe)
-
-GBIF Integrated Publishing Toolkit
-
-Diversity Worbench (Collection managament system)
-
-Jacq (Joint herbarium management system)
+* Biodiversity Information Standards (TDWG)
+* Access to Biological Collections Data (ABCD standard)
+* DarwinCore Standard
+* BioCASe Provider Software (BioCASe)
+* GBIF Integrated Publishing Toolkit
+* Diversity Worbench (Collection managament system)
+* Jacq (Joint herbarium management system)
