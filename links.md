@@ -13,7 +13,7 @@ height: 70vh
   <div class="column is-one-quarter">
     Logo
   </div>
-  <div class="column is-one-quarter">
+  <div class="column is-three-quarters">
     Consortium of European Taxonomic Facilities (CETAF)
   </div>
 </div>
