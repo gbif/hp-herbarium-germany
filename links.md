@@ -11,7 +11,7 @@ height: 70vh
 
 <div class="columns">
   <div class="column is-one-quarter">
-    ![By adding <code>{:standalone .has-text-centered}</code> you can center it](https://via.placeholder.com/350x400)
+    (https://via.placeholder.com/350x400)
   </div>
   <div class="column is-three-quarters">
     Consortium of European Taxonomic Facilities (CETAF)
