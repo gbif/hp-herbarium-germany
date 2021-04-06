@@ -13,8 +13,6 @@ cta:
     isPrimary: true
   - text: About
     href: /about
-  - text: Links
-    href: /links
 permalink: /
 composition:
   - type: heroImage # the block type

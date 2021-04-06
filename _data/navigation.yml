@@ -7,6 +7,11 @@
 - text: Digitisation
   href: /digitisation
 - text: Links
+  href: /links
+- text: News
+  href: /news/
+
+- text: Links
   menu: # Dropdown menu (one level deep only)
   - text: Base theme demo
     href: https://hp-base-theme.gbif-staging.org/
@@ -18,5 +23,3 @@
     href: https://guides.github.com/features/mastering-markdown/
   - text: YAML tutorial
     href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
-- text: News
-  href: /news/
