@@ -18,4 +18,4 @@ Yet, most of them remain hidden in vaults and are invisible to the general publi
 
 The 70 herbaria in Germany house an estimated 22.2 million specimens, about 6% of the specimens worldwide and 13% of the specimens stored in European herbaria. Depending on the type of specimen (flat specimen mounted on cardboard sheet versus three-dimensional objects stored in boxes) the effort for digitisation is immense, so only a small portion is accessible online. As of April 2021, xxxxx records can be browsed in the Virtual Herbarium Germany, of which xxxx come with high-resolution images that allow for an in-depth study of the original specimen. The data accessible stem from xxx collections provided by xxx museums, botanical gardens or universities and cover botanical specimens from all over the world (Bild der Kartendarstellung; Zahlen jeweils verlinkt mit dem entsprechenden Tab).
 
-![Geo-referenced digital specimens of the German Virtual Herbarium](/assets/images/map.png){:standalone .has-text-centered}
+[ ![Geo-referenced digital specimens of the German Virtual Herbarium](/assets/images/map.png){:standalone .has-text-centered} ](/data?view=gallery)
