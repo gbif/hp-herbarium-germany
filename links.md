@@ -9,7 +9,7 @@ height: 70vh
 
 #### Community and Data Networks
 
-<div class="overflow-auto" style="white-space: nowrap;" markdown="block">
+<div class="overflow-auto" style="border:none;" markdown="block">
 
 | Tables        | Are           | Cool  | Tables        | Are           | Cool  | Tables        | Are           | Cool  | Tables        | Are           | Cool  
 | ------------- |:-------------:| -----:| ------------- |:-------------:| -----:| ------------- |:-------------:| -----:| ------------- |:-------------:| -----:
