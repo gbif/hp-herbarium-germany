@@ -1,13 +1,13 @@
 ---
 lang-ref: links
-title: Community, networks and useful links
+title: Community, Tetworks, Standards & Tools
 background: /assets/images/moss.jpg
 imageLicense: |
   Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
 height: 70vh
 ---
 
-## Community and Data Networks
+### Community and Data Networks
 
 Consortium of European Taxonomic Facilities (CETAF)
 
@@ -34,7 +34,7 @@ Gardens4science
 Les Herbonauts / Die Herbonauten
 
 
-## Tools & Standards
+### Standards && Tools
 
 Biodiversity Information Standards (TDWG)
 
