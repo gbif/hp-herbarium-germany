@@ -12,8 +12,8 @@ height: 70vh
 
 * [Consortium of European Taxonomic Facilities - CETAF](https://cetaf.org/)
 * [Global Biodiversity Information Facility - GBIF](https://www.gbif.org/)
-* [GBIF-Germany](http://www.gbif.de)
-* [German GBIF Node for Plants, Algae and Protists](http://www.gbif.de/de/botanik)
+* [GBIF-Germany](http://www.gbif.de/homeenglish)
+* [German GBIF Node for Plants, Algae and Protists](http://www.gbif.de/de/botany)
 * [Biological Collection Access Service](https://www.biocase.org/)
 * [German Federation for Biological Data - GFBio](https://www.gfbio.org/)
 * [National Research Data Infrastructure for Biodiversity - NFDI4Biodiversity](https://www.nfdi4biodiversity.org/)
@@ -26,10 +26,10 @@ height: 70vh
 
 #### Standards & Tools
 
-* Biodiversity Information Standards (TDWG)
-* Access to Biological Collections Data (ABCD standard)
-* DarwinCore Standard
-* BioCASe Provider Software (BioCASe)
-* GBIF Integrated Publishing Toolkit
-* Diversity Worbench (Collection managament system)
-* Jacq (Joint herbarium management system)
+* [Biodiversity Information Standards - formly TDWG](https://www.tdwg.org/)
+* [Access to Biological Collections Data - ABCD standard](https://abcd.tdwg.org/)
+* [DarwinCore Standard](https://dwc.tdwg.org/)
+* [BioCASe Provider Software](https://www.biocase.org/products/provider_software)
+* [GBIF Integrated Publishing Toolkit - IPT](https://www.gbif.org/ipt)
+* [Diversity Worbench (collection managament system)](https://diversityworkbench.net)
+* [Jacq (joint herbarium management system)](https://www.jacq.org/)
