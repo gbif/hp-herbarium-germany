@@ -11,7 +11,7 @@ height: 70vh
 
 <div class="columns">
   <div class="column is-one-quarter">
-    (https://via.placeholder.com/350x400)
+    ![Geo-referenced digital specimens of the German Virtual Herbarium](/assets/images/map.png)
   </div>
   <div class="column is-three-quarters">
     Consortium of European Taxonomic Facilities (CETAF)
