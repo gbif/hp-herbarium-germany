@@ -1,6 +1,7 @@
 ---
 lang-ref: links
-title: Community, Tetworks, Standards & Tools
+title: Links
+description: Community, networks, standards & tools
 background: /assets/images/moss.jpg
 imageLicense: |
   Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
