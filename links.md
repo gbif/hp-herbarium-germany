@@ -9,7 +9,7 @@ height: 70vh
 
 #### Community and Data Networks
 
-<div style="border: none;">
+<div class="overflow-auto" style="border: none;" markdown="block">
 dsfgsdfg | dfasdf
 --- | ---
 !(/assets/images/map.png)		| Consortium of European Taxonomic Facilities (CETAF)
