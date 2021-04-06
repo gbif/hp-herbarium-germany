@@ -1,92 +1,26 @@
 ---
 lang-ref: digitisation
-title: Digitisation of natural history collections
-description: Lorem markdownum spatium limes indefessus neque at orat aestuat
+title: Digitisation of German Herbaria
+description: A complete digitization of German herbaria is possible, sensible and should be started now!
 background: /assets/images/moss.jpg
 imageLicense: |
   Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
 height: 70vh
 ---
 
-## Procris quippe mentior urbes ubi
+In Germany, 70 herbaria store more than 22 million specimens, about 6% of the specimens worldwide and 13% of the specimens in Europe: 53% are objects mounted on cardboard sheet (mostly seed plants, ferns, lycophytes, macroalgae), another 21% are not mounted yet. 26% are stored in other forms, such as in boxes, in envelopes, on slides, or in liquids (mostly bryophytes, lichens, fungi, and algae). (noch ein schönes Bild)
 
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-pontum ut** avus quamquam de trabes vestemque cruorem tremor.
+Only 13% of the specimens held in German herbaria have been digitised so far; 69% of those digital specimens comprise only textual data (label information), whereas 31% include one or several images (Bild eines Herbariumsscans). An average of 48,000 specimens are digitized per year; given the figure of about 200,000 accessions per year, this implies that currently the ratio of digitisation is decreasing.
 
-Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
-Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
-profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
-neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
-tollebat altius](http://virgineusque.net/est.html).
+Increasing the level of digitisation has a multitude of benefits for both science and the wider public audience: 
+* Specimens usually locked away in vaults become accessible and usable for teaching and academic education.
+* Citizen science projects like the Herbonauts can use crowdsourcing approaches to capture metadata from labels attached to the specimens, thus increasing the richness and discoverability of the objects.
+* High-resolution images allow an in-depth scrutiny of specimens without physical access to the physical collections, eliminating the need for personal travel or potential damaging shipping of specimens by mail.
+* By connecting the digital specimens to biodiversity data networks like GBIF, BioCASe and DiSSCo (xxxlinks), they become findable and usable for researchers worldwide. This goes beyond the work with individual specimens and also includes cross-dataset analyses like biodiversity modelling and invasive species threat prediction.
+* The visibility of herbaria in the public is relatively low, compared to collections of other domains. By feeding natural history specimens into cultural data portals like Europeana, the European digital library, the awareness for these types of collections being part of the cultural heritage can be increased. (xxxlink)
 
-## Quam ex te videt
+Three of four objects in German herbaria are cardboard-mounted specimens (including the specimens yet unmounted). Compared to other natural history collections, such flat herbarium sheets are relatively easy to be digitised by using digital cameras, scanners and microscopes. (bild einer Digitalisierungsstation) However, the equipment currently available in German institutions allows only for a moderate throughput.
 
-Quam Erycina et celsoque trabes; torva, nec et alto egens. Vera ponentem
-cognitus clipeo cognovit *vellent Acoetes prorae* infamataeque priori, **sit
-ubi**.
-
-    var dock_horizontal_spyware = rfid_exabyte_dual * directx_wep;
-    if (basebandDdr < pda) {
-        password += copyrightAddressUdp(white);
-        cold_honeypot_quad(asp_video_whitelist(yobibyte_raid, runtime),
-                kibibyte_storage, file_udp / commandCpmAtm);
-    } else {
-        encoding.dragWhoisWww = lun_token * ram;
-        boxCpm(media_drag_southbridge);
-        url_key.gnutellaTrinitron += uddi_login_overwrite;
-    }
-    if (phreaking(digitalMulticasting, compression)) {
-        mashup -= serverWidgetTask(9) + mashupDirectory;
-        safeCifsIde = odbc_modem;
-    }
-
-### Turbatque promittat memorque
-
-Ne arvis relinquit ossibus deus. Superis et oppugnare suo armis? Adfata nec
-lavit sed disces cum surgimus peteret gladios; pabula. Quod vos fugit, manebat
-dum: fateor profugus renovatus exhalantem.
-
---------
-
-### In frustra albus
-
-Levia in bella idque Dianam instabilis illo contentus Oriens auctor non litat
-genitas trementi hoc bina tulisti! Tuae at aequor!
-
-### Turbatque promittat memorque
-
-Ne arvis relinquit ossibus deus. Superis et oppugnare suo armis? Adfata nec
-lavit sed disces cum surgimus peteret gladios; pabula. Quod vos fugit, manebat
-dum: fateor profugus renovatus exhalantem.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| tables        | are useful    |    $1 |
-
---------
-
-### In frustra albus
-
-Levia in bella idque Dianam instabilis illo contentus Oriens auctor non litat
-genitas trementi hoc bina tulisti! Tuae at aequor!
-
-* Level 1 a
-* Level 1 b
-  * Level 2 a
-  * Level 2 b
-
-## Est mea videndo
-
-Nec bene filia fraxineam flumina, praesens amici nitidaeque inguine infractaque!
-Non quae illuc! E alto cum quod: fessi fatum patulis ore actaque quaque, ore.
-Honor praemia veniunt violavit tu
-[aequore](http://pete-munere.com/caeneus-dare.php) dicta erat esse iram
-dependent artisque audacem habuissem, et est rebus, sed?
+Other countries like the Netherlands, France and Finland have used high-throughput digitisation methods using conveyor belts on an industrial scale to digitise millions of specimens (links). Their experiences show that whole herbaria can be comprehensively and cost-efficiently digitized in a relatively short time due to established workflows and protocols. For this reason, an appeal to increase the level of digitization by starting a wall-to-wall digitization of the flat objects stored in German herbaria has been initiated by 51 representatives from 30 institutions. For more details on this call and a complete survey of the situation in German herbaria, please refer to this paper (RIO link).
 
 [Call to action](/data){: .button .is-primary} [Other action](/data){: .button}
-
-Qua refert, orbataque a denique silentia. Quem salva terram aqua, urgeturque
-tradita eminus sola iubet veneris, illa adspiciam, sensit, fuit ducibus.
