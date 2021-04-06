@@ -9,6 +9,21 @@ height: 70vh
 
 #### Community and Data Networks
 
+<div class="columns">
+  <div class="column">
+    First column
+  </div>
+  <div class="column">
+    Second column
+  </div>
+  <div class="column">
+    Third column
+  </div>
+  <div class="column">
+    Fourth column
+  </div>
+</div>
+
 <div class="overflow-auto" style="border:none; border-collapse: collapse;" markdown="block">
 
 | Tables        | Are           | Cool  | Tables        | Are           | Cool  | Tables        | Are           | Cool  | Tables        | Are           | Cool  
