@@ -24,36 +24,9 @@ Currently [<span data-ajax-url="https://api.gbif.org/v1/occurrence/search?networ
 
 ![Geo-referenced digital specimens of the German Virtual Herbarium](/assets/images/map.png){:standalone .has-text-centered}
 
-
-
-<section name="" fontcolor="">
-	// To display a field
-	<field name="" titlecolor="" value="" detailcolor="" href=""> <![CDATA[  ]]> </field>
-
-	// To display a table
-	<table>
+<table>
 		<tr>
-			<td value="" bgcolor="" fontcolor="" title="" fontattribute="" href="" align="" width=""/>
-			<td value="" bgcolor="" fontcolor="" title="" fontattribute="" href="" align="" width=""/>
-		</tr>
-		<tr>
-			<td value="" bgcolor="" fontcolor="" title="" fontattribute="" href="" align="" width=""/>
-			<td value="" bgcolor="" fontcolor="" title="" fontattribute="" href="" align="" width=""/>
+			<td>sadfasdfasdf</td>
+			<td>asdfgasdff</td>
 		</tr>
 	</table>
-
-	// To display tabs
-	<tabs>
-		<tab name="">
-		// Only insert table or field in tab
-		</tab>
-		<tab name="">
-		// Only insert table or field in tab
-		</tab>
-	</tabs>
-
-	// To display an accordion
-	<accordion name="">
-	// Only insert table or field in tab
-	</accordion>
-</section>
