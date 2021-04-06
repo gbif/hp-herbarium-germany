@@ -9,12 +9,20 @@ height: 70vh
 
 #### Community and Data Networks
 
-<div class="overflow-auto" style="border: none;" markdown="block">
+<div class="overflow-auto" style="white-space: nowrap;" markdown="block">
+
+| Tables        | Are           | Cool  | Tables        | Are           | Cool  | Tables        | Are           | Cool  | Tables        | Are           | Cool  
+| ------------- |:-------------:| -----:| ------------- |:-------------:| -----:| ------------- |:-------------:| -----:| ------------- |:-------------:| -----:
+| col 3 is      | right-aligned | $1600 | col 3 is      | right-aligned | $1600 | col 3 is      | right-aligned | $1600 | col 3 is      | right-aligned | $1600 
+| col 2 is      | centered      |   $12 | col 2 is      | centered      |   $12 | col 2 is      | centered      |   $12 | col 2 is      | centered      |   $12 
+| zebra stripes | are neat      |    $1 | zebra stripes | are neat      |    $1 | zebra stripes | are neat      |    $1 | zebra stripes | are neat      |    $1 
+
+</div>
+
 dsfgsdfg | dfasdf
 --- | ---
 !(/assets/images/map.png)		| Consortium of European Taxonomic Facilities (CETAF)
 blubb							| Global Biodiversity Information Facility (GBIF)
-</div>
 
 GBIF-Germany
 
