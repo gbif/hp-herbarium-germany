@@ -15,7 +15,7 @@ height: 70vh
 * GBIF-Germany
 * German GBIF Node for Plants, Algae and Protists
 * Biological Collection Access Service
-* German Federation for Biological Data (GFBio)
+* [German Federation for Biological Data - GFBio](https://www.gfbio.org/)
 * National Research Data Infrastructure for Biodiversity https://www.nfdi4biodiversity.org/
 * Distributed System of Scientific Collections (DiSSCo)
 * Global Genome Biodiversity Network (GGBN)
