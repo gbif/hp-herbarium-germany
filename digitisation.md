@@ -5,7 +5,7 @@ description: A complete digitization of German herbaria is possible, sensible an
 background: /assets/images/Herbarscanner.jpg
 imageLicense: |
   Photo by [Wolf-Henning Kusber](https://www.bgbm.org/en/staff/wolf-henning-kusber)
-height: 70vh
+height: 50vh
 ---
 
 In Germany, 70 herbaria store more than 22 million specimens, about 6% of the specimens worldwide and 13% of the specimens in Europe: 53% are objects mounted on cardboard sheet (mostly seed plants, ferns, lycophytes, macroalgae), another 21% are not mounted yet. 26% are stored in other forms, such as in boxes, in envelopes, on slides, or in liquids (mostly bryophytes, lichens, fungi, and algae). (noch ein schönes Bild)
