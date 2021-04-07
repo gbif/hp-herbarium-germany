@@ -3,7 +3,7 @@ lang-ref: home
 layout: home
 title: Virtual Herbarium Germany
 description: A showcase for the hidden treasures of German herbaria.
-background: /assets/images/Cyclamen_hederifolium_1.jpg
+background: /assets/images/Cyclamen_hederifolium_2.jpg
 imageLicense: |
   *Xylaria hypoxylon* (L.) Grev. Photo by Alexis via [iNaturalist](https://www.gbif.org/occurrence/2542961803)
 height: 70vh
