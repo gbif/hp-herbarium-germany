@@ -2,9 +2,9 @@
 lang-ref: about
 title: The German Virtual Herbarium VH/de
 description: A showcase for the hidden treasures of German herbaria
-background: /assets/images/moss.jpg
+background: /assets/images/Xanthoria elegans.jpg
 imageLicense: |
-  Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
+  [*Xanthoria elegans* (Link) Th.Fr.](data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbMjYwOTk2N119fQ) by [Dr. Robert Lücking](https://www.bgbm.org/en/staff/dr-robert-lucking).
 height: 70vh
 ---
 
