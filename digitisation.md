@@ -2,9 +2,9 @@
 lang-ref: digitisation
 title: Digitisation of German Herbaria
 description: A complete digitization of German herbaria is possible, sensible and should be started now!
-background: /assets/images/moss.jpg
+background: /assets/images/Herbarscanner.jpg
 imageLicense: |
-  Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
+  Photo by [Wolf-Henning Kusber](https://www.bgbm.org/en/staff/wolf-henning-kusber)
 height: 70vh
 ---
 
