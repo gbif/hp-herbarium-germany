@@ -2,9 +2,9 @@
 lang-ref: links
 title: Links
 description: Community, networks, standards & tools
-background: /assets/images/moss.jpg
+background: /assets/images/Fucus_vesiculosus.jpg
 imageLicense: |
-  Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
+ [*Fucus vesiculosus* L.](data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbODIyMjU3NF19fQ); photo by [Thomas Dürbye](https://www.bgbm.org/en/staff/thomas-durbye) via [BoBO](https://www.gbif.org/occurrence/2960620323)
 height: 70vh
 ---
 
