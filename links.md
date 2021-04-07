@@ -5,7 +5,7 @@ description: Community, networks, standards & tools
 background: /assets/images/Fucus_vesiculosus.jpg
 imageLicense: |
  [*Fucus vesiculosus* L.](data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbODIyMjU3NF19fQ); photo by [Thomas Dürbye](https://www.bgbm.org/en/staff/thomas-durbye) via [BoBO](https://www.gbif.org/occurrence/2960620323)
-height: 70vh
+height: 50vh
 ---
 
 #### Community and Data Networks
