@@ -1,9 +1,9 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
-- text: Browse specimens
-  href: /data
 - text: About
   href: /about
+- text: Browse specimens
+  href: /data
 - text: Digitisation
   href: /digitisation
 - text: Links
