@@ -31,5 +31,14 @@ height: 50vh
 * [DarwinCore Standard](https://dwc.tdwg.org/)
 * [BioCASe Provider Software](https://www.biocase.org/products/provider_software)
 * [GBIF Integrated Publishing Toolkit - IPT](https://www.gbif.org/ipt)
+* [Technical documentation of collection management systems at the GFBio Collection Data Centers](https://gfbio.biowikifarm.net/wiki/Technical_documentation_of_collection_management_systems_at_the_GFBio_Collection_Data_Centers)
 * [Diversity Worbench (collection managament system)](https://diversityworkbench.net)
 * [Jacq (joint herbarium management system)](https://www.jacq.org/)
+
+
+#### Digitisation projects in other countries
+
+* [Digitarium Finland (Service centre for high performance digitisation)](http://www.digitarium.fi/en)
+* [iDigBio (Integrated Digitized Biocollections)](https://www.idigbio.org/)
+* [Naturalis](https://science.naturalis.nl/en/collection/digitization/)
+* [Muséum National d'Histoire Naturelle (Herbarium P)](http://science.mnhn.fr/institution/mnhn/collection/p/item/search/form)
