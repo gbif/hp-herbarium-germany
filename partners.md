@@ -9,11 +9,14 @@ height: 50vh
 ---
 
 **B**
-: Herbarium Berolinense, Botanischer Garten und Botanisches Museum Berlin-Dahlem, Freie Universität Berlin (including photographs of nomenclatural types from the 1930s provided by the Field Museum, Chicago [F])
-**BRM**
-: Alfred-Wegener-Institut für Polar- und Meeresforschung Bremerhaven
+: Herbarium Berolinense, [Botanischer Garten und Botanisches Museum Berlin-Dahlem, Freie Universität Berlin](https://www.gbif.org/publisher/57254bd0-8256-11d8-b7ed-b8a03c50a862) (including photographs of nomenclatural types from the 1930s provided by the Field Museum, Chicago [F])
 
-    ER - Herbarium Erlangense, Friedrich-Alexander University of Erlangen-Nürnberg
+**BRM**
+: [Alfred-Wegener-Institut für Polar- und Meeresforschung Bremerhaven](https://www.gbif.org/publisher/497688a0-59d6-11db-893e-b8a03c50a862)
+
+**ER**
+: Herbarium Erlangense, Friedrich-Alexander University of Erlangen-Nürnberg
+
     FR- Herbarium Senckenbergianum Frankfurt/M., Senckenberg Forschungsinstitut und Naturmuseum Frankfurt/Main
     GLM - Herbarium Senckenbergianum Görlitz, Senckenberg Museum für Naturkunde Görlitz
     GOET - Herbarium, Universität Göttingen
