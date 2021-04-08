@@ -2,7 +2,7 @@
 lang-ref: partners
 title: Partners
 description: Participating Herbaria
-background: /assets/images/Digitalis.jpg
+background: /assets/images/Digitalis.JPG
 imageLicense: |
  [*Digitalis purpurea* L.](data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNTQxNDk5NV19fQ); photo by [Thomas Dürbye](https://www.bgbm.org/en/staff/thomas-durbye) via [GBIF](https://www.gbif.org/occurrence/2960620323)
 height: 50vh
