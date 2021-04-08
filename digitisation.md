@@ -26,3 +26,4 @@ Successful digitisation initiatives in other countries like the Netherlands, Fra
 For this reason, an appeal to increase the level of digitization by starting a wall-to-wall digitization of the flat objects stored in German herbaria has been initiated by 51 representatives from 30 institutions. For more details on this call and a complete survey of the situation in German herbaria, please refer to this paper:
 
 [View the call for a complete digitsation of German herbaria](https://riojournal.com/article/50675/){: .button .is-primary}
+{: .has-text-centered}
