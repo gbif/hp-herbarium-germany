@@ -8,6 +8,9 @@ imageLicense: |
 height: 50vh
 ---
 
+You can also see a list of the [datasets included in the Virtual Herbarium, order by number of specimens](data?view=dataset).
+
+
 **B** - Herbarium Berolinense, [Botanischer Garten und Botanisches Museum Berlin-Dahlem, Freie Universität Berlin](https://www.gbif.org/publisher/57254bd0-8256-11d8-b7ed-b8a03c50a862) (including photographs of nomenclatural types from the 1930s provided by the Field Museum, Chicago [F])
 
 **BRM** - [Alfred-Wegener-Institut für Polar- und Meeresforschung Bremerhaven](https://www.gbif.org/publisher/497688a0-59d6-11db-893e-b8a03c50a862)
