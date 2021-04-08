@@ -8,11 +8,9 @@ imageLicense: |
 height: 50vh
 ---
 
-**B**
-: Herbarium Berolinense, [Botanischer Garten und Botanisches Museum Berlin-Dahlem, Freie Universität Berlin](https://www.gbif.org/publisher/57254bd0-8256-11d8-b7ed-b8a03c50a862) (including photographs of nomenclatural types from the 1930s provided by the Field Museum, Chicago [F])
+**B** - Herbarium Berolinense, [Botanischer Garten und Botanisches Museum Berlin-Dahlem, Freie Universität Berlin](https://www.gbif.org/publisher/57254bd0-8256-11d8-b7ed-b8a03c50a862) (including photographs of nomenclatural types from the 1930s provided by the Field Museum, Chicago [F])
 
-**BRM**
-: [Alfred-Wegener-Institut für Polar- und Meeresforschung Bremerhaven](https://www.gbif.org/publisher/497688a0-59d6-11db-893e-b8a03c50a862)
+**BRM** - [Alfred-Wegener-Institut für Polar- und Meeresforschung Bremerhaven](https://www.gbif.org/publisher/497688a0-59d6-11db-893e-b8a03c50a862)
 
 **ER**
 : [Herbarium Erlangense](https://www.gbif.org/dataset/ec81f6d4-e92f-480c-a73a-a4b71ba435cc), [Friedrich-Alexander University of Erlangen-Nürnberg](https://www.gbif.org/publisher/833f0d81-717d-4f11-95b0-0f738545adad)
@@ -26,6 +24,9 @@ height: 50vh
 **GOET**
 : Herbarium, [Universität Göttingen](https://www.gbif.org/publisher/59c81290-df0e-11d8-b22e-b8a03c50a862)
 
+**HAL**
+: Herbarium, Martin-Luther-Universität Halle-Wittenberg
+
 **HBG**
 : [Herbarium Hamburgense](https://www.gbif.org/dataset/85c667c8-f762-11e1-a439-00145eb45e9a), [Universität Hamburg](https://www.gbif.org/publisher/f739aef0-8a5b-11d9-bc8d-b8a03c50a862)
 
@@ -37,6 +38,9 @@ height: 50vh
 
 **M**
 : Botanische Staatssammlung München, [Staatliche Naturwissenschaftliche Sammlungen Bayerns](https://www.gbif.org/publisher/0674aea0-a7e1-11d8-9534-b8a03c50a862)
+
+**MJG**
+: Herbarium Johannes Gutenberg-Universität Mainz
 
 **MNHM**
 : Herbarium [Naturhistorisches Museum Mainz](https://www.gbif.org/publisher/33aecde5-7e13-4272-9cb7-f4f3b0eb820c)
@@ -52,10 +56,4 @@ height: 50vh
 
 **?**
 : [Flora exsiccata Bavarica](https://www.gbif.org/dataset/856f13d8-f762-11e1-a439-00145eb45e9a), Regensburgische Botanische Gesellschaft
-
-**MJG???**
-: Herbarium Johannes Gutenberg-Universität Mainz
-
-**HAL**
-: Herbarium, Martin-Luther-Universität Halle-Wittenberg
 
