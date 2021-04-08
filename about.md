@@ -21,7 +21,7 @@ The 70 herbaria in Germany house an estimated 22.2 million specimens, about 6% o
 [Browse list](/data){: .button .is-primary} [Explore in map](/data?view=map){: .button} [View images](/data?view=gallery){: .button}
 {: .has-text-centered}
 
-[![Provenance of geo-referenced digital specimens of the German Virtual Herbarium](/assets/images/map.png)](/data){: .has-text-centered} 
+[![Provenance of geo-referenced digital specimens of the German Virtual Herbarium](/assets/images/map.png)](/data?view=map){: .has-text-centered} 
 <i>Provenance of geo-referenced digital specimens of the German Virtual Herbarium</i>
 {: .has-text-centered}
 
