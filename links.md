@@ -2,7 +2,7 @@
 lang-ref: links
 title: Links
 description: Community, networks, standards & tools
-background: /assets/images/Digitalis.jpg
+background: /assets/images/Fucus_vesiculosus.jpg
 imageLicense: |
  [*Fucus vesiculosus* L.](data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbODIyMjU3NF19fQ); [Wolf-Henning Kusber](https://www.bgbm.org/en/staff/wolf-henning-kusber)
 height: 50vh
