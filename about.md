@@ -18,11 +18,12 @@ Yet, most of them remain hidden in vaults and are invisible to the general publi
 
 The 70 herbaria in Germany house an estimated 22.2 million specimens, about 6% of the specimens worldwide and 13% of the specimens stored in European herbaria. Depending on the type of specimen (flat specimen mounted on cardboard sheet versus three-dimensional objects stored in boxes) the effort for digitisation is immense, so only a small portion is accessible online.
 
-<!-- Example 1
+<!-- 
+## Example 1
 [Browse list](/data){: .button .is-primary} [Explore in map](/data?view=map){: .button} [View images](/data?view=gallery){: .button}
 {: .has-text-centered}
 
-<h2>Example 2</h2>
+##Example 2
 <p class="has-text-centered">
   <a href="/data" class="button is-primary">Browse list</a>
   <a href="/data?view=map" class="button">Explore in map</a>
@@ -30,7 +31,6 @@ The 70 herbaria in Germany house an estimated 22.2 million specimens, about 6% o
 </p>
 --!>
 
-<h2>Example 3</h2>
 <p style="text-align: center">
   <a href="/data" class="button is-primary">Browse list</a>
   <a href="/data?view=map" class="button">Explore in map</a>
