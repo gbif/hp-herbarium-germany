@@ -18,12 +18,9 @@ Only 13% of the specimens held in German herbaria have been digitised so far; 69
 <i>Provenance of geo-referenced digital specimens of the German Virtual Herbarium</i>
 {: .has-text-centered}
 
-![Digitised herbarium scan of Bignonia acutifolia Mart. ex DC.](assets/images/Bignonia_acutifolia.jpg)(https://ww2.bgbm.org/Herbarium/specimen.cfm?Barcode=BW11472010)
+![Digitised herbarium scan of Bignonia acutifolia Mart. ex DC.](assets/images/Bignonia_acutifolia.jpg){:standalone .has-text-centered}
 
 
-
-
->> Herbariumsscan Henning , https://ww2.bgbm.org/Herbarium/specimen.cfm?Barcode=BW11472010
 
 Increasing the level of digitisation has a multitude of benefits for both science and the wider public audience: 
 * Specimens usually locked away in vaults become accessible and usable for teaching and academic education.
