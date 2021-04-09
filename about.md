@@ -6,6 +6,7 @@ background: /assets/images/Xanthoria.jpg
 imageLicense: |
   [*Xanthoria elegans* (Link) Th.Fr.](data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbMjYwOTk2N119fQ) by [Dr. Robert Lücking](https://www.bgbm.org/en/staff/dr-robert-lucking)
 height: 50vh
+overlayColor: "#ff000055" # OPTIONAL: The default transparent. Example value: #00000055
 parallax: true # OPTION - default is false
 ---
 
