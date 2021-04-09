@@ -25,7 +25,7 @@ Increasing the level of digitisation has a multitude of benefits for both scienc
 
 Three of four objects in German herbaria are cardboard-mounted specimens (including the specimens yet unmounted). Compared to other natural history collections, such flat herbarium sheets are relatively easy to be digitised by using digital cameras, scanners and microscopes. However, the equipment currently available in German institutions allows only for a moderate throughput.
 
-![Iconella splendida Ehrenb., photo by FG Diatomeen](assets/images/Iconella_splendida.jpg){:standalone .has-text-centered}
+![Digitisation of lichens, mosses and fungi](BGBM_digitalisierung.jpg){:standalone .has-text-centered}
 (bild einer Digitalisierungsstation, BGBM_digitalisierung_flechten_moose_pilze_3685 von Lücking)
 
 Successful digitisation initiatives in other countries like the Netherlands, France and Finland have used high-throughput digitisation methods using conveyor belts on an industrial scale to digitise millions of specimens. Their experiences show that whole herbaria can be comprehensively and cost-efficiently digitized in a relatively short time due to established workflows and protocols.
