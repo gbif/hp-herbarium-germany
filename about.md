@@ -8,14 +8,17 @@ imageLicense: |
 height: 50vh
 ---
 
-Botanical collections of plantae, fungi and lichens are a humongous treasure of biodiversity knowledge stored in many museums and institutions throughout Germany. They’ve been compiled by botanists in the past centuries and continue to grow nowadays and are a valuably testimony the botanical wildlife in the past and the present, of species that can still be found or that have become extinct. (Bild eines Belegs – hier vielleicht KEIN Herbariumsbogen, sondern eine Alge?)
+Botanical collections of plantae, fungi and lichens are a humongous treasure of biodiversity knowledge stored in many museums and institutions throughout Germany. They’ve been compiled by botanists in the past centuries and continue to grow nowadays and are a valuably testimony the botanical wildlife in the past and the present, of species that can still be found or that have become extinct.
 
-![*Iconella splendida* Ehrenb., photo by FG Diatomeen](assets/images/Iconella_splendida){:standalone .has-text-centered}
+![Iconella splendida Ehrenb., photo by FG Diatomeen](assets/images/Iconella_splendida.jpg){:standalone .has-text-centered}
  
-The objects to be found in these collections are called specimens and are very diverse, ranging from dried plants mounted on herbarium sheets or kept in envelopes, algae), living collections of botanical gardens and seed banks, DNA and tissue collections, specimens preserved in fluids, wood, fruit, seed, fibre, and pollen collections, as well as micro-preparations on microscope slides. (noch ein Bild, kein Herbariumsbogen)
+The objects to be found in these collections are called specimens and are very diverse, ranging from dried plants mounted on herbarium sheets or kept in envelopes, algae), living collections of botanical gardens and seed banks, DNA and tissue collections, specimens preserved in fluids, wood, fruit, seed, fibre, and pollen collections, as well as micro-preparations on microscope slides. 
 
-These specimens are a valuable source of information and material for today’s biological research, for example for getting a better understanding of past and ongoing changes (and losses) of our biodiversity, for biodiversity modelling and conservation planning. They can be the starting point for automated image recognition by artificial intelligence, thus enabling provenance research as well as education, outreach and citizen science. (Bild von Forschung – vielleicht Mensch am REM?)
-  Nelida am REM
+(noch ein Bild, kein Herbariumsbogen)
+
+These specimens are a valuable source of information and material for today’s biological research, for example for getting a better understanding of past and ongoing changes (and losses) of our biodiversity, for biodiversity modelling and conservation planning. They can be the starting point for automated image recognition by artificial intelligence, thus enabling provenance research as well as education, outreach and citizen science.
+
+![Researcher working on a scanning electron microscope, photo by FG Diatomeen](assets/images/Nelida_Abarca.jpg){:standalone .has-text-centered}
 
 Yet, most of them remain hidden in vaults and are invisible to the general public; only a few objects become exhibits in museums (bild herbarium: Unmengen von Belegen in den Kompaktoren). The Virtual Herbarium aims at overcoming this constraint by enabling an easy discovery of the digitised specimens of German botanical collections. It can be used by both scientists to find specimens of interest based on a multitude of search criteria and by a wider audience through simple [browsing of records](/data) or [digital images](/data?view=gallery).
 
