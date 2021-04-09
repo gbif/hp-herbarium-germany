@@ -39,5 +39,5 @@ height: 50vh
 * [Flora exsiccata Bavarica](https://www.gbif.org/dataset/856f13d8-f762-11e1-a439-00145eb45e9a), Regensburgische Botanische Gesellschaft
 
 <div class="notification is-info">
-  You can also see a list of the datasets included in the Virtual Herbarium <a href="data?view=dataset">ordered by number of specimens</>.
+  You can also see a list of the datasets included in the Virtual Herbarium <br><a href="data?view=dataset">ordered by number of specimens</a>.
 </div>

@@ -4,6 +4,12 @@
   href: /about
 - text: Browse specimens
   href: /data
+- text: Taxgroups
+  menu:
+  - text: Plantae
+    href: data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNl19fQ
+  - text: Fungi
+    href: data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNl19fQ
 - text: Partners
   href: /partners
 - text: Digitisation
