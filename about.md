@@ -6,8 +6,6 @@ background: /assets/images/Xanthoria.jpg
 imageLicense: |
   [*Xanthoria elegans* (Link) Th.Fr.](data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbMjYwOTk2N119fQ) by [Dr. Robert Lücking](https://www.bgbm.org/en/staff/dr-robert-lucking)
 height: 50vh
-overlayColor: "#ff000055" # OPTIONAL: The default transparent. Example value: #00000055
-parallax: true # OPTION - default is false
 ---
 
 Botanical collections of plantae, fungi and lichens are a humongous treasure of biodiversity knowledge stored in many museums and institutions throughout Germany. They’ve been compiled by botanists in the past centuries and continue to grow nowadays and are a valuably testimony the botanical wildlife in the past and the present, of species that can still be found or that have become extinct. (Bild eines Belegs – hier vielleicht KEIN Herbariumsbogen, sondern eine Alge?)
