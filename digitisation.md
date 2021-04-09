@@ -18,7 +18,9 @@ Only 13% of the specimens held in German herbaria have been digitised so far; 69
 <i>Provenance of geo-referenced digital specimens of the German Virtual Herbarium</i>
 {: .has-text-centered}
 
-![Digitised herbarium scan of Bignonia acutifolia Mart. ex DC.](assets/images/Bignonia_acutifolia.jpg){:standalone .has-text-centered}
+<a href="https://ww2.bgbm.org/Herbarium/specimen.cfm?Barcode=BW11472010">
+ ![Digitised herbarium scan of Bignonia acutifolia Mart. ex DC.](assets/images/Bignonia_acutifolia.jpg){:standalone .has-text-centered}
+</a>
 
 
 
