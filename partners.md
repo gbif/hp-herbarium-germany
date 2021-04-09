@@ -7,6 +7,7 @@ imageLicense: |
  [*Digitalis purpurea* L.](data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNTQxNDk5NV19fQ); photo by [Wolf-Henning Kusber](https://www.bgbm.org/en/staff/wolf-henning-kusber)
 height: 50vh
 ---
+[List of datasets ordered by number of specimens](data?view=dataset)
 
 * **B** - Herbarium Berolinense, [Botanischer Garten und Botanisches Museum Berlin-Dahlem, Freie Universität Berlin](https://www.gbif.org/publisher/57254bd0-8256-11d8-b7ed-b8a03c50a862) (including photographs of nomenclatural types from the 1930s provided by the Field Museum, Chicago [F])
 
@@ -39,5 +40,5 @@ height: 50vh
 * [Flora exsiccata Bavarica](https://www.gbif.org/dataset/856f13d8-f762-11e1-a439-00145eb45e9a), Regensburgische Botanische Gesellschaft
 
 <div class="notification is-info">
-  You can also see a list of the datasets included in the Virtual Herbarium <br><a href="data?view=dataset">ordered by number of specimens</a>.
+  List of datasets <a href="data?view=dataset">ordered by number of specimens</a>.
 </div>
