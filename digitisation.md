@@ -14,7 +14,7 @@ In Germany, 70 herbaria store more than 22 million specimens, about 6% of the sp
 
 Only 13% of the specimens held in German herbaria have been digitised so far; 69% of those digital specimens comprise only textual data (label information), whereas 31% include one or several images (Bild eines Herbariumsscans). An average of 48,000 specimens are digitized per year; given the figure of about 200,000 accessions per year, this implies that currently the ratio of digitisation is decreasing.
 
-[![x](assets/images/Bignonia_acutifolia.jpg)](https://ww2.bgbm.org/Herbarium/specimen.cfm?Barcode=BW11472010){: .has-text-centered} 
+[![Digitised herbarium scan of Bignonia acutifolia Mart. ex DC.](assets/images/Bignonia_acutifolia.jpg)](https://ww2.bgbm.org/Herbarium/specimen.cfm?Barcode=BW11472010){: .has-text-centered} 
 <i>Digitised herbarium scan of Bignonia acutifolia Mart. ex DC.</i>
 {: .has-text-centered}
 
