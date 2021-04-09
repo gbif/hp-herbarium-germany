@@ -9,7 +9,8 @@ height: 50vh
 ---
 
 Botanical collections of plantae, fungi and lichens are a humongous treasure of biodiversity knowledge stored in many museums and institutions throughout Germany. They’ve been compiled by botanists in the past centuries and continue to grow nowadays and are a valuably testimony the botanical wildlife in the past and the present, of species that can still be found or that have become extinct. (Bild eines Belegs – hier vielleicht KEIN Herbariumsbogen, sondern eine Alge?)
-  Iconelle splendida. Credit: FG Diatomeen
+![*Iconella splendida* Ehrenb., photo by FG Diatomeen](assets/images/Iconella_splendida){:standalone .has-text-centered}
+  
 
 The objects to be found in these collections are called specimens and are very diverse, ranging from dried plants mounted on herbarium sheets or kept in envelopes, algae), living collections of botanical gardens and seed banks, DNA and tissue collections, specimens preserved in fluids, wood, fruit, seed, fibre, and pollen collections, as well as micro-preparations on microscope slides. (noch ein Bild, kein Herbariumsbogen)
 
