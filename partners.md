@@ -23,8 +23,6 @@ You can also see a list of the datasets included in the Virtual Herbarium [order
 
 * **GOET** - Herbarium, [Universität Göttingen](https://www.gbif.org/publisher/59c81290-df0e-11d8-b22e-b8a03c50a862)
 
-* **HAL** - Herbarium, Martin-Luther-Universität Halle-Wittenberg
-
 * **HBG** - [Herbarium Hamburgense](https://www.gbif.org/dataset/85c667c8-f762-11e1-a439-00145eb45e9a), [Universität Hamburg](https://www.gbif.org/publisher/f739aef0-8a5b-11d9-bc8d-b8a03c50a862)
 
 * **JE** - [Herbarium Haussknecht](https://www.gbif.org/dataset/ee0e7875-8fbc-4cd8-a6a8-65f4a871e2ea), Friedrich-Schiller-Universität Jena
@@ -32,8 +30,6 @@ You can also see a list of the datasets included in the Virtual Herbarium [order
 * **KONL** - [Leiner-Herbarium](https://www.gbif.org/dataset/81332e30-f762-11e1-a439-00145eb45e9a), [Bodensee-Naturmuseum Konstanz](https://www.gbif.org/publisher/bfb257e0-b415-11da-967e-b8a03c50a862)
 
 * **M** - Botanische Staatssammlung München, [Staatliche Naturwissenschaftliche Sammlungen Bayerns](https://www.gbif.org/publisher/0674aea0-a7e1-11d8-9534-b8a03c50a862)
-
-* **MJG** - Herbarium Johannes Gutenberg-Universität Mainz
 
 * **MNHM** - Herbarium [Naturhistorisches Museum Mainz](https://www.gbif.org/publisher/33aecde5-7e13-4272-9cb7-f4f3b0eb820c)
 

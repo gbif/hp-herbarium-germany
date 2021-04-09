@@ -11,6 +11,7 @@ height: 50vh
 In Germany, 70 herbaria store more than 22 million specimens, about 6% of the specimens worldwide and 13% of the specimens in Europe: 53% are objects mounted on cardboard sheet (mostly seed plants, ferns, lycophytes, macroalgae), another 21% are not mounted yet. 26% are stored in other forms, such as in boxes, in envelopes, on slides, or in liquids (mostly bryophytes, lichens, fungi, and algae). (noch ein schönes Bild)
 
 Only 13% of the specimens held in German herbaria have been digitised so far; 69% of those digital specimens comprise only textual data (label information), whereas 31% include one or several images (Bild eines Herbariumsscans). An average of 48,000 specimens are digitized per year; given the figure of about 200,000 accessions per year, this implies that currently the ratio of digitisation is decreasing.
+>> Herbariumsscan Henning Bignonia acutifolia, https://ww2.bgbm.org/Herbarium/specimen.cfm?Barcode=BW11472010
 
 Increasing the level of digitisation has a multitude of benefits for both science and the wider public audience: 
 * Specimens usually locked away in vaults become accessible and usable for teaching and academic education.
@@ -19,7 +20,7 @@ Increasing the level of digitisation has a multitude of benefits for both scienc
 * By connecting the digital specimens to biodiversity data networks like [GBIF](https://www.gbif.org/), [BioCASe](https://www.biocase.org/) and [DiSSCo](https://www.dissco.eu/), they become findable and usable for researchers worldwide. This goes beyond the work with individual specimens and also includes cross-dataset analyses like biodiversity modelling and invasive species threat prediction.
 * The visibility of herbaria in the public is relatively low, compared to collections of other domains. By feeding natural history specimens into cultural data portals like Europeana, the European digital library, the awareness for these [types of collections being part of the cultural heritage](https://classic.europeana.eu/portal/de/search?f%5BPROVIDER%5D%5B%5D=OpenUp!&view=grid) can be increased.
 
-Three of four objects in German herbaria are cardboard-mounted specimens (including the specimens yet unmounted). Compared to other natural history collections, such flat herbarium sheets are relatively easy to be digitised by using digital cameras, scanners and microscopes. (bild einer Digitalisierungsstation) However, the equipment currently available in German institutions allows only for a moderate throughput.
+Three of four objects in German herbaria are cardboard-mounted specimens (including the specimens yet unmounted). Compared to other natural history collections, such flat herbarium sheets are relatively easy to be digitised by using digital cameras, scanners and microscopes. (bild einer Digitalisierungsstation, BGBM_digitalisierung_flechten_moose_pilze_3685 von Lücking) However, the equipment currently available in German institutions allows only for a moderate throughput.
 
 Successful digitisation initiatives in other countries like the Netherlands, France and Finland have used high-throughput digitisation methods using conveyor belts on an industrial scale to digitise millions of specimens. Their experiences show that whole herbaria can be comprehensively and cost-efficiently digitized in a relatively short time due to established workflows and protocols.
 
