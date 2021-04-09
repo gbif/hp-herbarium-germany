@@ -39,7 +39,3 @@ height: 50vh
 * **TUB** - [Herbarium Tubingense](https://www.gbif.org/dataset/ab1de8e9-8a18-4ffe-b2c6-e13ffbec3e7e), Eberhard Karls Universität Tübingen
 
 * [Flora exsiccata Bavarica](https://www.gbif.org/dataset/856f13d8-f762-11e1-a439-00145eb45e9a), Regensburgische Botanische Gesellschaft
-
-<div class="notification is-info">
-  List of datasets <a href="data?view=dataset">ordered by number of specimens</a>.
-</div>
