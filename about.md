@@ -14,13 +14,15 @@ Botanical collections of plantae, fungi and lichens are a humongous treasure of 
  
 The objects to be found in these collections are called specimens and are very diverse, ranging from dried plants mounted on herbarium sheets or kept in envelopes, algae), living collections of botanical gardens and seed banks, DNA and tissue collections, specimens preserved in fluids, wood, fruit, seed, fibre, and pollen collections, as well as micro-preparations on microscope slides. 
 
-(noch ein Bild, kein Herbariumsbogen)
+<p style="text-align: center">(noch ein Bild, kein Herbariumsbogen)</p>
 
 These specimens are a valuable source of information and material for today’s biological research, for example for getting a better understanding of past and ongoing changes (and losses) of our biodiversity, for biodiversity modelling and conservation planning. They can be the starting point for automated image recognition by artificial intelligence, thus enabling provenance research as well as education, outreach and citizen science.
 
 ![Researcher working on a scanning electron microscope, photo by FG Diatomeen](assets/images/Nelida_Abarca.jpg){:standalone .has-text-centered}
 
-Yet, most of them remain hidden in vaults and are invisible to the general public; only a few objects become exhibits in museums (bild herbarium: Unmengen von Belegen in den Kompaktoren). The Virtual Herbarium aims at overcoming this constraint by enabling an easy discovery of the digitised specimens of German botanical collections. It can be used by both scientists to find specimens of interest based on a multitude of search criteria and by a wider audience through simple [browsing of records](/data) or [digital images](/data?view=gallery).
+Yet, most of them remain hidden in vaults and are invisible to the general public; only a few objects become exhibits in museums. The Virtual Herbarium aims at overcoming this constraint by enabling an easy discovery of the digitised specimens of German botanical collections. It can be used by both scientists to find specimens of interest based on a multitude of search criteria and by a wider audience through simple [browsing of records](/data) or [digital images](/data?view=gallery).
+
+<p style="text-align: center">(bild herbarium: Unmengen von Belegen in den Kompaktoren)</p>
 
 The 70 herbaria in Germany house an estimated 22.2 million specimens, about 6% of the specimens worldwide and 13% of the specimens stored in European herbaria. Depending on the type of specimen (flat specimen mounted on cardboard sheet versus three-dimensional objects stored in boxes) the effort for digitisation is immense, so only a small portion is accessible online.
 
