@@ -4,7 +4,7 @@
 # Columns (the more you add, the narrower they will be)
 columns:
 
-  - name: Global Biodiversity Information Facility
+  - name: GBIF Community
     links:
     - text: German GBIF Node for Plants, Algae and Protists
       href: http://www.gbif.de/de/botany
