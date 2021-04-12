@@ -6,10 +6,18 @@
   href: /data
 - text: Taxgroups
   menu:
-  - text: Plantae
-    href: data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNl19fQ
-  - text: Fungi
+  - text: Algae
+    href: data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNzA3MzU5MywxMDYsMzYsNzk0NzE4NCwzMzJdfX0
+  - text: Fungi and lichens
     href: data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNV19fQ
+  - text: Mosses
+    href: data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbMzUsOSwxM119fQ
+  - text: Ferns
+    href: data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNzIyODY4NCwyNDVdfX0
+  - text: Gymnosperms
+    href: data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbMTk0XX19
+  - text: Flowering plants
+    href: data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbMjIwXX19
 - text: Partners
   href: /partners
 - text: Digitisation
