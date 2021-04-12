@@ -3,13 +3,23 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  
-  - name: bla
-    description: |
-      [Imprint/Disclaimer](https://www.bgbm.org/en/imprint)
 
-  - name: Contact
-  
+  - name: Global Biodiversity Information Facility
+    links:
+    - text: German GBIF Node for Plants, Algae and Protists
+      href: http://www.gbif.de/de/botany
+    - text: GBIF Germany
+      href: http://www.gbif.de/homeenglish
+    - text: GBIF Internationalobal
+      href: https://www.gbif.org/
+
+  - name: Virtual Herbarium Germany
+    links:
+    - text: Contact
+      href: mailto:j.holetschek@bgbm.org
+    - text: Imprint/Disclaimer
+      href: https://www.bgbm.org/en/imprint
+
 
   # EXAMPLE
   #- name: Group name
