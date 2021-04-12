@@ -1,6 +1,9 @@
 @import "theme/_main";
 
 // You can add additional styling here
-.boxHero .feature-content {
-  opacity: 0.85;
+
+.boxHero .feature-content { 
+  background: #ffffffee;
+  border: 1px solid #88888822;
+  margin-bottom: 2rem;
 }
