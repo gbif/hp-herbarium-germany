@@ -1,7 +1,6 @@
 @import "theme/_main";
 
-// You can add additional styling here
-
+// part of the text that overlaps the background image
 .boxHero .feature-content { 
   background: #ffffffdd;
   //border: 1px solid #88888822;
@@ -10,4 +9,8 @@
 
 .footer-column {
   flex-basis: 300px
+}
+
+.navbar-dropdown {
+  opacity: 0.9
 }
