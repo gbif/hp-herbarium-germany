@@ -2,7 +2,7 @@
 lang-ref: digitisation
 title: Digitisation of German Herbaria
 description: A complete digitization of German herbaria is possible, sensible and should be started now!
-background: /assets/images/SannTech.jpg
+background: /assets/images/ScannTech.jpg
 imageLicense: |
   Photo by [Wolf-Henning Kusber; GBIF-D](http://www.gbif.de)
 height: 50vh
