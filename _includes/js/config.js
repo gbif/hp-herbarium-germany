@@ -7,5 +7,3 @@ var siteConfig = {
   occurrenceSearchTabs: ['MAP', 'TABLE', 'GALLERY', 'DATASETS'], // define which tabs to show and in which order
   blacklistedFilters: ['basisOfRecord', 'depth', 'establishmentMeans', 'eventId', 'hostKey']
 };
-
-#  highlightedFilters: ['collectionCode', 'taxonKey']
