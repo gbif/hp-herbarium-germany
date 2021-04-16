@@ -22,7 +22,7 @@ stats:
       #klass: cifras
       description: Herbarium specimens
       #background: /assets/images/landing_page/iconos_cifras/registros_biologicos.png
-      href: /data
+      href: /data?view=TABLE
       # using a dynamic value from some endpoint. You can configure what field to look for using the path attribute
     - title: <span data-ajax-url="https://api.gbif.org/v1/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/constituents?limit=0">xx</span>
       description: Datasets
