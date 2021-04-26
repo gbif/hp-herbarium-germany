@@ -5,7 +5,7 @@ categories: ["Getting started", "VH/de website"]
 lang-ref: new vh online
 background: http://via.placeholder.com/600x300
 ---
-Since 2015, the German Virtual Herbarium offers online access to specimens held in German herbaria that have been digitised to this day. Even though the [old data portal](https://search.biocase.de/vh) allowed to search specimens based on a wide range of criteria, the software was beginning to show its age in respects to both functionality and usability. For this reason, a new website has been established: Founded on software developed by and hosted on servers of the [Global Biodiversity Information Facility](https://www.gbif.org), it offers state-of-the-art views of the specimens as lists, map or in a gallery as well as filters on **all** data items (more on the features can be found in [this news item](post/2020/features-explained/).
+Since 2015, the German Virtual Herbarium offers online access to specimens held in German herbaria that have been digitised to this day. Even though the [old data portal](https://search.biocase.de/vh) allowed to search specimens based on a wide range of criteria, the software was beginning to show its age in respects to both functionality and usability. For this reason, a new website has been established: Founded on software developed by and hosted on servers of the [Global Biodiversity Information Facility](https://www.gbif.org), it offers state-of-the-art views of the specimens as lists, map or in a gallery as well as filters on **all** data items (more on the features can be found in [this news item](/post/2020/features-explained/).
 
 (screenshot Einstiegsseite mit den aktuellen Zahlen drunter).
 
