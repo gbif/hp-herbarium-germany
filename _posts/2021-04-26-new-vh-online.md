@@ -1,6 +1,6 @@
 ---
 title: "New German Virtual Herbarium Online"
-date:  2021-05-17 15:42:00 +0100
+date:  2021-04-26 13:00:00 +0100
 categories: ["Getting started", "VH/de website"]
 lang-ref: new vh online
 background: http://via.placeholder.com/600x300
