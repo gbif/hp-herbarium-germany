@@ -11,6 +11,6 @@ Since 2015, the German Virtual Herbarium offers online access to specimens held 
 
 The German Virtual herbarium is a showcase for German herbaria. At its launch in May 2021, it allows access to almost one million digitised specimens held in 22 herbaria (see the full list of participating herbaria [here](/data?view=DATASETS)). The data portal is based on GBIF’s index database, meaning that all GBIF-mediated specimens of German herbaria will also be accessible through the Virtual Herbarium. Almost 300,000 of the records come with at least one digital image of the specimen.
 
-(screenshot gallery view)
+![Gallery view of the German Virtual Herbarium](assets/images/gallery_view.jpg){:standalone .has-text-centered}
 
 The underlying software is still in its development phase, with new features being added occasionally. Hence, we strongly encourage users to send feedback on the data portal, especially comments on usability and suggestions for potential additional features. But we’re happy to hear any opinion about the new website, just send us an [email](mailto:contact@gbif.de)!
