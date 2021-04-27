@@ -14,7 +14,6 @@ Botanical collections of plantae, fungi and lichens are a humongous treasure of 
 <i>Actinocephalus bongardii (A.St.-Hil.) Sano</i>
 {: .has-text-centered}
 
-<!--a href="/data?entity=2981268752&filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNTI4NzQyNV19fQ&view=TABLE"-->
 	<figure class="has-text-centered">
 		<img src="assets/images/Actinocephalus_bongardii.jpg" alt="Image of Actinocephalus bongardii" />
 		<figcaption>Actinocephalus bongardii (A.St.-Hil.) Sano</figcaption>
