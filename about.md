@@ -13,8 +13,6 @@ Botanical collections of plantae, fungi and lichens are a humongous treasure of 
 [![Actinocephalus bongardii (A.St.-Hil.) Sano](/assets/images/Actinocephalus_bongardii.jpg)](/data?entity=2981268752&filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNTI4NzQyNV19fQ&view=TABLE){: .has-text-centered} 
 <i>Actinocephalus bongardii (A.St.-Hil.) Sano</i>
 {: .has-text-centered}
-
-![](assets/images/Actinocephalus_bongardii.jpg){:standalone .has-text-centered}
  
 The objects to be found in these collections are called specimens and are very diverse, ranging from dried plants mounted on herbarium sheets or kept in envelopes, algae), living collections of botanical gardens and seed banks, DNA and tissue collections, specimens preserved in fluids, wood, fruit, seed, fibre, and pollen collections, as well as micro-preparations on microscope slides. 
 
