@@ -43,10 +43,9 @@ You can combine as many filters as you like by adding them consecutively. Severa
 
 The seven filters listed directly above the records are the most commonly used filters: Keyword search, Scientific name, Recorded by, Locality, Country and Year. Clicking on “more” will show a list of all filters available (as of May 2021, there are 27 filters); just choose an item to add the respective filter. Clicking the three dots in the small pop-up window will tell you more about the filter.
 
-(Screenshot mit aufgeklapptem “more”)
 <figure class="has-text-centered">
-	<img src="/assets/images/map_cluster.jpg" />
-	<figcaption>Specimens grouped together in a map cluster</figcaption>
+	<img src="/assets/images/filter_list.jpg" />
+	<figcaption>Clicking on the "more" button allows to choose from 27 different filters</figcaption>
 </figure>
 
 You can save complex filters by simply adding a browser bookmark. Using the bookmark later will load the stored filter with the saved filter values. The results, however, will always be up-to-date, meaning that new specimens that have been added after the bookmark has been saved will show up in the list. The menu item Taxgroups in the navigation bar at the top uses such saved filters and can be used as a shortcut to find specimens of common taxonomic groups.
