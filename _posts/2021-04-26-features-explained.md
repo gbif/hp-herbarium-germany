@@ -3,9 +3,8 @@ title:  "Features of the new German Virtual Herbarium"
 date:   2021-04-23 15:42:42 +0200
 categories: ["Getting started", "VH/de website"]
 lang-ref: feature explained
-background: http://via.placeholder.com/600x300
+background: /assets/images/filter_scientific_name.jpg
 ---
-Features the New VH/de
 
 The new portal of the German Virtual Herbarium grants access to all GBIF-mediated specimens held in German herbaria that have been digitised up to date. As of May 2021, this is almost one million records; about one third have at least one digital image attached.
 
