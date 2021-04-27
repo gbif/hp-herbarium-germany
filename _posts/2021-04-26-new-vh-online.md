@@ -29,61 +29,35 @@ The German Virtual herbarium is a showcase for German herbaria. At its launch in
 		  </div>
 		</div>	
 	</td>
+
 	<td>
 		<h3 class="feature-title">
-		  <a href="/data?view=TABLE"><span data-ajax-url="https://api.gbif.org/v1/occurrence/search?networkKey=3aee7756-565e-4dc5-b22c-f997fbd7105c&limit=0">787,000</span></a>
+		  <a href="/data?view=TABLE"><span data-ajax-url="https://api.gbif.org/v1/occurrence/search?networkKey=3aee7756-565e-4dc5-b22c-f997fbd7105c&limit=0">xx</span></a>
 		</h3>
-		<div class="feature-description">
-			Herbarium specimens
-		 </div>
+		<div class="feature-description">Herbarium specimens</div>
 	</td>
-	
+
+    <td>
+		<h3 class="feature-title">
+		  <a href="https://www.gbif.org/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/dataset"><span data-ajax-url="https://api.gbif.org/v1/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/constituents?limit=0">xx</span></a>
+		</h3>
+		<div class="feature-description">Datasets</div>
+    </td>
+    
+    <td>
+		<h3 class="feature-title">
+		  <a href="https://www.gbif.org/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/publisher"><span data-ajax-url="https://api.gbif.org/v1/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/organization?limit=0">xx</span></a>
+		</h3>
+		<div class="feature-description">Publishing institutions</div>
+    </td>
+    
+    <td>
+		<h3 class="feature-title">
+		  <a href="/data?view=GALLERY"><span data-ajax-url="https://api.gbif.org/v1/occurrence/search?mediaType=StillImage&networkKey=3aee7756-565e-4dc5-b22c-f997fbd7105c&limit=0">xx</span></a>
+		</h3>
+		<div class="feature-description">Specimens with images</div>
+    </td>
+
 </tr></table>
 
 The underlying software is still in its development phase, with new features being added occasionally. Hence, we strongly encourage users to send feedback on the data portal, especially comments on usability and suggestions for potential additional features. But we’re happy to hear any opinion about the new website, just send us an [email](mailto:contact@gbif.de)!
-
-
-    
-    <!--div class="statistic">
-		<div class="feature-content ">
-		  <div class="feature-text">
-			<a href="https://www.gbif.org/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/dataset" class="feature-overlay"></a>
-			<h3 class="feature-title">
-			  <a href="https://www.gbif.org/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/dataset"><span data-ajax-url="https://api.gbif.org/v1/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/constituents?limit=0">xx</span></a>
-			</h3>
-		  </div>
-		  <div class="feature-description">
-			<p>Datasets</p>
-		  </div>
-		</div>
-    </div>
-    
-    <div class="statistic">
-		<div class="feature-content ">
-		  <div class="feature-text">
-			<a href="https://www.gbif.org/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/publisher" class="feature-overlay"></a>
-			<h3 class="feature-title">
-			  <a href="https://www.gbif.org/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/publisher"><span data-ajax-url="https://api.gbif.org/v1/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/organization?limit=0">xx</span></a>
-			</h3>
-		  </div>
-		  <div class="feature-description">
-			<p>Publishing institutions</p>
-		  </div>
-		</div>
-    </div>
-    
-    <div class="statistic">
-		<div class="feature-content ">
-		  <div class="feature-text">
-			<a href="/data?view=GALLERY" class="feature-overlay"></a>
-			<h3 class="feature-title">
-			  <a href="/data?view=GALLERY"><span data-ajax-url="https://api.gbif.org/v1/occurrence/search?mediaType=StillImage&networkKey=3aee7756-565e-4dc5-b22c-f997fbd7105c&limit=0">xx</span></a>
-			</h3>
-		  </div>
-		  <div class="feature-description">
-			<p>Specimens with images</p>
-		  </div>
-		</div>
-    </div>
-  </div>
-</section-->
