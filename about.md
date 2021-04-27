@@ -27,8 +27,6 @@ These specimens are a valuable source of information and material for today’s 
 
 Yet, most of them remain hidden in vaults and are invisible to the general public; only a few objects become exhibits in museums. The Virtual Herbarium aims at overcoming this constraint by enabling an easy discovery of the digitised specimens of German botanical collections. It can be used by both scientists to find specimens of interest based on a multitude of search criteria and by a wider audience through simple [browsing of records](/data) or [digital images](/data?view=GALLERY).
 
-![Herbarium specimen cabinets, photo by BSM](assets/images/BSM_Herbar_Henssel.jpg){:standalone .has-text-centered}
-
 The 70 herbaria in Germany house an estimated 22.2 million specimens, about 6% of the specimens worldwide and 13% of the specimens stored in European herbaria. Depending on the type of specimen (flat specimen mounted on cardboard sheet versus three-dimensional objects stored in boxes) the effort for digitisation is immense, so only a small portion is accessible online.
 
 [Browse list](/data?view=TABLE){: .button .is-primary} [Explore in map](/data?view=MAP){: .button} [View images](/data?view=GALLERY){: .button}

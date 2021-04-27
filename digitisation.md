@@ -10,7 +10,7 @@ height: 50vh
 
 In Germany, 70 herbaria store more than 22 million specimens, about 6% of the specimens worldwide and 13% of the specimens in Europe: 53% are objects mounted on cardboard sheet (mostly seed plants, ferns, lycophytes, macroalgae), another 21% are not mounted yet. 26% are stored in other forms, such as in boxes, in envelopes, on slides, or in liquids (mostly bryophytes, lichens, fungi, and algae).
 
-<p style="text-align: center">(noch ein schönes Bild)</p>
+![Herbarium specimen cabinets, photo by BSM](assets/images/BSM_Herbar_Henssel.jpg){:standalone .has-text-centered}
 
 Only 13% of the specimens held in German herbaria have been digitised so far; 69% of those digital specimens comprise only textual data (label information), whereas 31% include one or several images. An average of 48,000 specimens are digitized per year; given the figure of about 200,000 accessions per year, this implies that currently the ratio of digitisation is decreasing.
 
