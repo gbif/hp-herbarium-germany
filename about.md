@@ -34,11 +34,11 @@ The 70 herbaria in Germany house an estimated 22.2 million specimens, about 6% o
 [Browse list](/data?view=TABLE){: .button .is-primary} [Explore in map](/data?view=MAP){: .button} [View images](/data?view=GALLERY){: .button}
 {: .has-text-centered}
 
+Currently <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?networkKey=3aee7756-565e-4dc5-b22c-f997fbd7105c&limit=0">787,000</span> records can be browsed in the Virtual Herbarium Germany, of which <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?mediaType=StillImage&networkKey=3aee7756-565e-4dc5-b22c-f997fbd7105c&limit=0">xx</span> come with high-resolution images that allow for an in-depth study of the original specimen. The data accessible stem from [<span data-ajax-url="https://api.gbif.org/v1/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/constituents?limit=0">xx</span> collections provided by <span data-ajax-url="https://api.gbif.org/v1/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/organization?limit=0">xx</span> museums, botanical gardens or universities](/data?view=DATASETS) and cover botanical specimens from all over the world.
+
 <figure class="has-text-centered">
 	<a href="/data?view=MAP">
-		<img src="map.png" />
+		<img src="assets/images/map.png" />
 		<figcaption>Provenance of geo-referenced digital specimens of the German Virtual Herbarium</figcaption>
 	</a>
 </figure>
-
-Currently <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?networkKey=3aee7756-565e-4dc5-b22c-f997fbd7105c&limit=0">787,000</span> records can be browsed in the Virtual Herbarium Germany, of which <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?mediaType=StillImage&networkKey=3aee7756-565e-4dc5-b22c-f997fbd7105c&limit=0">xx</span> come with high-resolution images that allow for an in-depth study of the original specimen. The data accessible stem from [<span data-ajax-url="https://api.gbif.org/v1/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/constituents?limit=0">xx</span> collections provided by <span data-ajax-url="https://api.gbif.org/v1/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/organization?limit=0">xx</span> museums, botanical gardens or universities](/data?view=DATASETS) and cover botanical specimens from all over the world.
