@@ -19,15 +19,6 @@ composition:
   - type: heroImage # the block type
   - data: home.stats
     type: stats
-  - data: home.bannerExample2
-    type: floatingText
-  - data: home.splitExample
-    type: split
   - type: latestPosts
     data: we_do_not_want_any_header # weird hack as the block layout looks for a data element and falls back to the page if none is present
 ---
-
-## Partner institutions 
-
-(hier die Liste der Partner ohne Logos)
-
