@@ -1,5 +1,5 @@
 ---
-title:  "Feature of the new German Virtual Herbarium"
+title:  "Features of the new German Virtual Herbarium"
 date:   2021-04-23 15:42:42 +0200
 categories: ["Getting started", "VH/de website"]
 lang-ref: feature explained
@@ -11,7 +11,7 @@ The new portal of the German Virtual Herbarium grants access to all GBIF-mediate
 
 <figure class="has-text-centered">
 	<a href="/data?view=MAP">
-		<img src="assets/images/map.png" />
+		<img src="/assets/images/map.png" />
 		<figcaption>Geo-referenced digital specimens of the German Virtual Herbarium</figcaption>
 	</a>
 </figure>
@@ -20,7 +20,7 @@ The link “Browse specimens” takes you right to the map view which shows all 
 
 <figure class="has-text-centered">
 	<a href="/data?view=MAP">
-		<img src="assets/images/map_cluster.jpg" />
+		<img src="/assets/images/map_cluster.jpg" />
 		<figcaption>Specimens grouped together in a map cluster</figcaption>
 	</a>
 </figure>
