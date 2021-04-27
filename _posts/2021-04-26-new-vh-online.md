@@ -6,7 +6,7 @@ lang-ref: new vh online
 background: /assets/images/entry_page2.jpg
 composition:
   - type: postHeader # the block type
-  - data: mySpecialPost.stats
+  - data: home.stats
     type: stats
   - type: pageMarkdown # This will render the markdown in this file
 
