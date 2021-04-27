@@ -29,19 +29,19 @@ The German Virtual herbarium is a showcase for German herbaria. At its launch in
 		<h3 class="feature-title">
 		  <a href="https://www.gbif.org/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/dataset"><span data-ajax-url="https://api.gbif.org/v1/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/constituents?limit=0">xx</span></a>
 		</h3>
-		<div class="feature-description">Datasets</div>
+		Datasets
     </td>
     <td>
 		<h3 class="feature-title">
 		  <a href="https://www.gbif.org/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/publisher"><span data-ajax-url="https://api.gbif.org/v1/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/organization?limit=0">xx</span></a>
 		</h3>
-		<div class="feature-description">Publishing institutions</div>
+		Publishing institutions
     </td>
     <td>
 		<h3 class="feature-title">
 		  <a href="/data?view=GALLERY"><span data-ajax-url="https://api.gbif.org/v1/occurrence/search?mediaType=StillImage&networkKey=3aee7756-565e-4dc5-b22c-f997fbd7105c&limit=0">xx</span></a>
 		</h3>
-		<div class="feature-description">Specimens with images</div>
+		Specimens with images
     </td>
 </tr></table>
 
