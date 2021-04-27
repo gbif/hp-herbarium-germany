@@ -34,7 +34,7 @@ The German Virtual herbarium is a showcase for German herbaria. At its launch in
 			<h3 class="feature-title">
 			  <a href="/data?view=TABLE"><span data-ajax-url="https://api.gbif.org/v1/occurrence/search?networkKey=3aee7756-565e-4dc5-b22c-f997fbd7105c&limit=0">787,000</span></a>
 			</h3>
-		  </div>
+		  <!--/div-->
 		  <div class="feature-description">
 			Herbarium specimens
 		  </div>
