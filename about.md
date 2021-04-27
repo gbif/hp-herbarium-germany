@@ -10,11 +10,15 @@ height: 50vh
 
 Botanical collections of plantae, fungi and lichens are a humongous treasure of biodiversity knowledge stored in many museums and institutions throughout Germany. They’ve been compiled by botanists in the past centuries and continue to grow nowadays and are a valuably testimony the botanical wildlife in the past and the present, of species that can still be found or that have become extinct.
 
-![Iconella splendida Ehrenb., photo by FG Diatomeen](assets/images/Iconella_splendida.jpg){:standalone .has-text-centered}
+[![Actinocephalus bongardii (A.St.-Hil.) Sano](/assets/images/Actinocephalus_bongardii.jpg)](/data?entity=2981268752&filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNTI4NzQyNV19fQ&view=TABLE){: .has-text-centered} 
+<i>Actinocephalus bongardii (A.St.-Hil.) Sano</i>
+{: .has-text-centered}
+
+![](assets/images/Actinocephalus_bongardii.jpg){:standalone .has-text-centered}
  
 The objects to be found in these collections are called specimens and are very diverse, ranging from dried plants mounted on herbarium sheets or kept in envelopes, algae), living collections of botanical gardens and seed banks, DNA and tissue collections, specimens preserved in fluids, wood, fruit, seed, fibre, and pollen collections, as well as micro-preparations on microscope slides. 
 
-<p style="text-align: center">(noch ein Bild, kein Herbariumsbogen)</p>
+![Iconella splendida Ehrenb., photo by FG Diatomeen](assets/images/Iconella_splendida.jpg){:standalone .has-text-centered}
 
 These specimens are a valuable source of information and material for today’s biological research, for example for getting a better understanding of past and ongoing changes (and losses) of our biodiversity, for biodiversity modelling and conservation planning. They can be the starting point for automated image recognition by artificial intelligence, thus enabling provenance research as well as education, outreach and citizen science.
 
