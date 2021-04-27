@@ -4,7 +4,7 @@ title: Partners
 description: Participating Herbaria
 background: /assets/images/Digitalis.JPG
 imageLicense: |
- [*Digitalis purpurea* L.](data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNTQxNDk5NV19fQ); photo by [Wolf-Henning Kusber](https://www.bgbm.org/en/staff/wolf-henning-kusber)
+ [*Digitalis purpurea* L.](data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNTQxNDk5NV19fQ&view=TABLE); photo by [Wolf-Henning Kusber](https://www.bgbm.org/en/staff/wolf-henning-kusber)
 height: 50vh
 ---
 
