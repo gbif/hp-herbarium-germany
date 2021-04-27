@@ -1,25 +1,9 @@
 # The home landing page
-
-# Feature cards
-# bannerExample2:
-#   preTitle: Alianza ANDI  # optional
-#   href: /assets/images/logos/BannerwebAlianzaAZUL_Mesa-de-trabajo-1.png
-#   title: Un aporte del sector empresarial al conocimiento de la biodiversidad
-#   description: |      # required
-#    Esta alianza cree en la construcción, uso y democratización del conocimiento a partir de los datos sobre biodiversidad compartidos por el sector empresarial, mejorando la toma de decisiones y la calidad de vida de las personas.
-#   background: /assets/theme/img/patterns/wavy-dots.png
-#   overlayColor: "#ffffff55"
-#   hasWhiteText: false
-#   cta:                # optional
-#   - text: Consultar
-#     # href: https://hp-colombian-biodiversity.gbif-staging.org/acercade/Aliados/ANDI
-#     isPrimary: true
     
 stats:
   features:
       # we can also use the graphql API to allow richer queries
     - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?networkKey=3aee7756-565e-4dc5-b22c-f997fbd7105c&limit=0">787,000</span>
-      #klass: cifras
       description: Herbarium specimens
       #background: /assets/images/landing_page/iconos_cifras/registros_biologicos.png
       href: /data?view=TABLE
@@ -36,5 +20,4 @@ stats:
     - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?mediaType=StillImage&networkKey=3aee7756-565e-4dc5-b22c-f997fbd7105c&limit=0">xx</span>
       description: Specimens with images
       #background: /assets/images/landing_page/iconos_cifras/publicadores.png
-      href: /data?view=GALLERY
-    
+      href: /data?view=GALLERY    
