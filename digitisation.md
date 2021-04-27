@@ -14,7 +14,12 @@ In Germany, 70 herbaria store more than 22 million specimens, about 6% of the sp
 
 Only 13% of the specimens held in German herbaria have been digitised so far; 69% of those digital specimens comprise only textual data (label information), whereas 31% include one or several images. An average of 48,000 specimens are digitized per year; given the figure of about 200,000 accessions per year, this implies that currently the ratio of digitisation is decreasing.
 
-![Digitised herbarium scan of Bignonia acutifolia Mart. ex DC.](assets/images/Bignonia_acutifolia.jpg){:standalone .has-text-centered}
+<figure class="has-text-centered">
+	<a href="/data?entity=864884844&filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNDA5MTE1MF19fQ&view=TABLE">
+		<img src="assets/images/Bignonia_acutiflora.jpg" alt="Image of Bignonia acutiflora" />
+		<figcaption>Herbarium scan of Bignonia acutiflora Mart. ex DC.</figcaption>
+	</a>
+</figure>
 
 Increasing the level of digitisation has a multitude of benefits for both science and the wider public audience: 
 * Specimens usually locked away in vaults become accessible and usable for teaching and academic education.
