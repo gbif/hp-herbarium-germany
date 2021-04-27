@@ -51,10 +51,11 @@ The seven filters listed directly above the records are the most commonly used f
 
 You can save complex filters by simply adding a browser bookmark. Using the bookmark later will load the stored filter with the saved filter values. The results, however, will always be up-to-date, meaning that new specimens that have been added after the bookmark has been saved will show up in the list. The menu item Taxgroups in the navigation bar at the top uses such saved filters and can be used as a shortcut to find specimens of common taxonomic groups.
 
-(scrennshot taxgroups Algae)
 <figure class="has-text-centered">
-	<img src="/assets/images/map_cluster.jpg" />
-	<figcaption>Specimens grouped together in a map cluster</figcaption>
+	<a href="/data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNzA3MzU5MywxMDYsMzYsNzk0NzE4NCwzMzJdfX0&view=GALLERY">
+		<img src="/assets/images/algae_gallery.jpg" />
+		<figcaption>The "Algae" shortcut includes five taxonomic groups</figcaption>
+	</a>
 </figure>
 
 The underlying software for this portal is still in development phase, and the team at GBIF is happy about feedback - suggestions for useful features that should be added, ideas for improving the usability or general comments. Please direct any of this to [contact@gbif.de](mailto:contact@gbif.de) .
