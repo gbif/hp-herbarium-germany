@@ -31,7 +31,7 @@ Remember that the map only shows geo-referenced records and the gallery only spe
 	</a>
 </figure>
 
-You can combine as many filters as you like by adding them consecutively. Several values for one field will be combined by a logical OR (allowing you to search for several species or taxon groups at the same time, for example), whereas filters on different fields will be combined using a logical AND. The filter shown in the screenshot below will find all isotypes and lectotypes in the Pinaceae family.
+You can combine as many filters as you like by adding them consecutively. Several values for one field will be combined by a logical OR (allowing you to search for several species or taxon groups at the same time, for example), whereas filters on different fields will be combined using a logical AND. The filter shown in the screenshot below will find all isotypes and lectotypes in the *Pinaceae* family.
 
 <figure class="has-text-centered">
 	<a href="/data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbMzkyNV0sInR5cGVTdGF0dXMiOlsiTEVDVE9UWVBFIiwiSVNPVFlQRSJdfX0&view=TABLE">
@@ -40,7 +40,7 @@ You can combine as many filters as you like by adding them consecutively. Severa
 	</a>
 </figure>
 
-The seven filters listed directly above the records are the most commonly used filters: Keyword search, Scientific name, Recorded by, Locality, Country and Year. Clicking on “more” will show a list of all filters available (as of May 2021, there are 27 filters); just choose an item to add the respective filter. Clicking the three dots in the small pop-up window will tell you more about the filter.
+The seven filters listed directly above the records are the most commonly used filters: *Keyword search*, *Scientific name*, *Recorded by*, *Locality*, *Country* and *Year*. Clicking on *more* will show a list of all filters available (as of May 2021, there are 27 filters); just choose an item to add the respective filter. Clicking the three dots in the small pop-up window will tell you more about the filter.
 
 <figure class="has-text-centered">
 	<img src="/assets/images/filter_list.jpg" />
