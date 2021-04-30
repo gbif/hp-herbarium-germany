@@ -22,8 +22,8 @@ Only 13% of the specimens held in German herbaria have been digitised so far; 69
 </figure>
 
 Increasing the level of digitisation has a multitude of benefits for both science and the wider public audience: 
-* Specimens usually locked away in vaults become accessible and usable for teaching and academic education.
-* Citizen science projects like [Les herbonautes (fr)](http://lesherbonautes.mnhn.fr/) and [Die Herbonauten (de)](https://herbonauten.de/) can use crowdsourcing approaches to capture metadata from labels attached to the specimens, thus increasing the richness and discoverability of the objects.
+* Specimens usually locked away in vaults become accessible and usable for research, teaching and academic education.
+* Citizen science projects like [Les herbonautes (fr)](http://lesherbonautes.mnhn.fr/) and [Die Herbonauten (de)](https://herbonauten.de/) can use crowdsourcing approaches to capture metadata from labels attached to the specimens, thus increasing their richness and discoverability and at the same time the engagement of the public with these fascinating objects.
 * High-resolution images allow an in-depth scrutiny of specimens without physical access to the physical collections, eliminating the need for personal travel or potential damaging shipping of specimens by mail.
 * By connecting the digital specimens to biodiversity data networks like [GBIF](https://www.gbif.org/), [BioCASe](https://www.biocase.org/) and [DiSSCo](https://www.dissco.eu/), they become findable and usable for researchers worldwide. This goes beyond the work with individual specimens and also includes cross-dataset analyses like biodiversity modelling and invasive species threat prediction.
 * The visibility of herbaria in the public is relatively low, compared to collections of other domains. By feeding natural history specimens into cultural data portals like Europeana, the European digital library, the awareness for these [types of collections being part of the cultural heritage](https://classic.europeana.eu/portal/de/search?f%5BPROVIDER%5D%5B%5D=OpenUp!&view=grid) can be increased.

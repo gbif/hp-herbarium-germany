@@ -15,6 +15,7 @@ height: 50vh
 * [GBIF-Germany](http://www.gbif.de/homeenglish)
 * [German GBIF Node for Plants, Algae and Protists](http://www.gbif.de/de/botany)
 * [Biological Collection Access Service](https://www.biocase.org/)
+* [Living Atlases community](https://living-atlases.gbif.org/)
 * [German Federation for Biological Data - GFBio](https://www.gfbio.org/)
 * [National Research Data Infrastructure for Biodiversity - NFDI4Biodiversity](https://www.nfdi4biodiversity.org/)
 * [Distributed System of Scientific Collections - DiSSCo](https://www.dissco.eu/)
@@ -32,7 +33,7 @@ height: 50vh
 * [BioCASe Provider Software](https://www.biocase.org/products/provider_software)
 * [GBIF Integrated Publishing Toolkit - IPT](https://www.gbif.org/ipt)
 * [Technical documentation of collection management systems at the GFBio Collection Data Centers](https://gfbio.biowikifarm.net/wiki/Technical_documentation_of_collection_management_systems_at_the_GFBio_Collection_Data_Centers)
-* [Diversity Worbench (collection managament system)](https://diversityworkbench.net)
+* [Diversity Workbench (collection management system)](https://diversityworkbench.net)
 * [Jacq (joint herbarium management system)](https://www.jacq.org/)
 
 
@@ -41,4 +42,5 @@ height: 50vh
 * [Digitarium Finland (Service centre for high performance digitisation)](http://www.digitarium.fi/en)
 * [iDigBio (Integrated Digitized Biocollections)](https://www.idigbio.org/)
 * [Naturalis](https://science.naturalis.nl/en/collection/digitization/)
+* [Atlas of Living Australia](https://www.ala.org.au/)
 * [Muséum National d'Histoire Naturelle (Herbarium P)](http://science.mnhn.fr/institution/mnhn/collection/p/item/search/form)

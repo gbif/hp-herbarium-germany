@@ -8,7 +8,7 @@ imageLicense: |
 height: 50vh
 ---
 
-Botanical collections of plantae, fungi and lichens are a humongous treasure of biodiversity knowledge stored in many museums and institutions throughout Germany. They’ve been compiled by botanists in the past centuries and continue to grow nowadays and are a valuably testimony the botanical wildlife in the past and the present, of species that can still be found or that have become extinct.
+Botanical collections of plants, fungi and algae are a humongous treasure of biodiversity knowledge stored in many museums and institutions throughout Germany. They’ve been compiled by botanists in the past centuries and continue to grow nowadays and are a valuable testimony of the botanical wildlife in the past and the present, of species that can still be found or that have become extinct.
 
 <figure class="has-text-centered">
 	<a href="/data?entity=2981268752&filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNTI4NzQyNV19fQ&view=TABLE">
@@ -17,7 +17,7 @@ Botanical collections of plantae, fungi and lichens are a humongous treasure of 
 	</a>
 </figure>
  
-The objects to be found in these collections are called specimens and are very diverse, ranging from dried plants mounted on herbarium sheets or kept in envelopes, algae), living collections of botanical gardens and seed banks, DNA and tissue collections, specimens preserved in fluids, wood, fruit, seed, fibre, and pollen collections, as well as micro-preparations on microscope slides. 
+The objects to be found in these collections are called specimens and are very diverse, ranging from dried plants mounted on herbarium sheets or kept in envelopes (algae), specimens preserved in fluids, wood, fruit, seed, fibre, and pollen collections, as well as micro-preparations on microscope slides. Other collections, such as DNA and tissue collections, as well as  living collections of botanical gardens and seed banks are not yet included into the Virtual Herbarium.
 
 ![Iconella splendida Ehrenb., photo by FG Diatomeen](assets/images/Iconella_splendida.jpg){:standalone .has-text-centered}
 
