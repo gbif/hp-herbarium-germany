@@ -4,7 +4,7 @@ title: Digitisation of German Herbaria
 description: A complete digitization of German herbaria is possible, sensible and should be started now!
 background: /assets/images/ScannTech.jpg
 imageLicense: |
-  Photo by [Wolf-Henning Kusber; GBIF-D](http://www.gbif.de)
+  Photo by [Wolf-Henning Kusber, GBIF-D](http://www.gbif.de)
 height: 50vh
 ---
 
@@ -30,7 +30,7 @@ Increasing the level of digitisation has a multitude of benefits for both scienc
 
 Three of four objects in German herbaria are cardboard-mounted specimens (including the specimens yet unmounted). Compared to other natural history collections, such flat herbarium sheets are relatively easy to be digitised by using digital cameras, scanners and microscopes. However, the equipment currently available in German institutions allows only for a moderate throughput.
 
-![Digitisation of lichens, mosses and fungi](assets/images/BGBM_digitalisierung.jpg){:standalone .has-text-centered}
+![Digitisation of lichens, mosses and fungi; photo by BGBM](assets/images/BGBM_digitalisierung.jpg){:standalone .has-text-centered}
 
 Successful digitisation initiatives in other countries like the Netherlands, France and Finland have used high-throughput digitisation methods using conveyor belts on an industrial scale to digitise millions of specimens. Their experiences show that whole herbaria can be comprehensively and cost-efficiently digitized in a relatively short time due to established workflows and protocols.
 
