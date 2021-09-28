@@ -3,24 +3,23 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: Partnere
-    links:
-    - text: Navn på projektpartner
-      href: http://example.com
-    - text: Name of project partner 2
-      href: http://example.com
 
-  - name: Code
-    description: | # Can be Markdown
-      This project is open source. See `_data/footer.yml` to customize the footer.
-  
-  - name: Contact
-    description: | # Can be Markdown
-      Social icons links defined in `_config.yml`
-      * Street name
-      * 1234 postal code
-      * Country
-    connectIcons: true
+  - name: GBIF Community
+    links:
+    - text: Deutscher GBIF-Knoten für Pflanzen, Algen und Protisten
+      href: http://www.gbif.de/de/botany
+    - text: GBIF Deutschland
+      href: http://www.gbif.de/
+    - text: GBIF International
+      href: https://www.gbif.org/
+
+  - name: Virtuelles Herbarium Deutschland
+    links:
+    - text: Kontact
+      href: mailto:contact@gbif.de
+    - text: Impressum/Disclaimer
+      href: https://www.bo.berlin/impressum
+
 
   # EXAMPLE
   #- name: Group name
