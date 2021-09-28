@@ -15,7 +15,7 @@ columns:
 
   - name: Virtuelles Herbarium Deutschland
     links:
-    - text: Kontact
+    - text: Kontakt
       href: mailto:contact@gbif.de
     - text: Impressum/Disclaimer
       href: https://www.bo.berlin/impressum
