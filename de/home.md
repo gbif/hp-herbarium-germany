@@ -14,7 +14,7 @@ cta:
     isPrimary: true
   - text: Über das Projekt
     href: de/about
-permalink: /
+permalink: /de/
 composition:
   - type: heroImage # the block type
   - data: home.stats
