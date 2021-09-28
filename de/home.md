@@ -13,7 +13,7 @@ cta:
     href: de/data
     isPrimary: true
   - text: Über das Projekt
-    href: de/about
+    href: de/uber-das-projekt
 permalink: /de/
 composition:
   - type: heroImage # the block type
