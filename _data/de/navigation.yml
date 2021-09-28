@@ -1,9 +1,9 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
 - text: Über das Projekt 
-  href: de/about
+  href: /de/about
 - text: Belege erkunden
-  href: de/data
+  href: /de/data
 - text: Taxgruppen
   menu:
   - text: Algen
