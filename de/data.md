@@ -1,6 +1,6 @@
 ---
 lang-ref: data
-title: Data
+title: Belege erkunden
 description: We publish open data
 layout: occurrence
 ---
