@@ -1,6 +1,6 @@
 ---
 lang-ref: home
-layout: de/home
+layout: home
 title: Virtuelles Herbarium Deutschland
 description: Ein Blick in die Schatzkammern der deutschen Herbarien.
 background: /assets/images/Cyclamen_hederifolium.jpg
