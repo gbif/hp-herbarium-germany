@@ -7,17 +7,17 @@
 - text: Taxgruppen
   menu:
   - text: Algen
-    href: data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNzA3MzU5MywxMDYsMzYsNzk0NzE4NCwzMzJdfX0
+    href: de/data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNzA3MzU5MywxMDYsMzYsNzk0NzE4NCwzMzJdfX0
   - text: Pilze und Flechten
-    href: data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNV19fQ
+    href: de/data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNV19fQ
   - text: Moose
-    href: data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbMzUsOSwxM119fQ
+    href: de/data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbMzUsOSwxM119fQ
   - text: Farne
-    href: data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNzIyODY4NCwyNDVdfX0
+    href: de/data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNzIyODY4NCwyNDVdfX0
   - text: Nacktsamer
-    href: data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbMTk0XX19
+    href: de/data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbMTk0XX19
   - text: Blütenpflanzen
-    href: data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbMjIwXX19
+    href: de/data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbMjIwXX19
 - text: Partner
   href: /partners
 - text: Digitalisierung
