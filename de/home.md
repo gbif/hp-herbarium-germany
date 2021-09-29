@@ -17,7 +17,7 @@ cta:
 permalink: /de/
 composition:
   - type: heroImage # the block type
-  - data: home.stats
+  - data: de.home.stats
     type: stats
   - type: latestPosts
     data: we_do_not_want_any_header # weird hack as the block layout looks for a data element and falls back to the page if none is present
