@@ -8,7 +8,7 @@ imageLicense: |
 height: 50vh
 ---
 
-Botanical collections of plants, fungi and algae are a humongous treasure of biodiversity knowledge stored in many museums and institutions throughout Germany. They’ve been compiled by botanists in the past centuries and continue to grow nowadays and are a valuable testimony of the botanical wildlife in the past and the present, of species that can still be found or that have become extinct.
+Botanical collections of plants, fungi and algae are a humongous treasure of biodiversity knowledge stored in many museums and institutions throughout Germany. They’ve been compiled by botanists in the past centuries and continue to grow. They are testimony of the plant diversity in the past and the present, of species that can still be found or that have become extinct.
 
 <figure class="has-text-centered">
 	<a href="/data?entity=2981268752&filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNTI4NzQyNV19fQ&view=TABLE">
@@ -17,7 +17,7 @@ Botanical collections of plants, fungi and algae are a humongous treasure of bio
 	</a>
 </figure>
  
-The objects to be found in these collections are called specimens and are very diverse, ranging from dried plants mounted on herbarium sheets or kept in envelopes (algae), specimens preserved in fluids, wood, fruit, seed, fibre, and pollen collections, as well as micro-preparations on microscope slides. Other collections, such as DNA and tissue collections, as well as  living collections of botanical gardens and seed banks are not yet included into the Virtual Herbarium.
+The objects in these collections are called specimens and are very diverse, ranging from dried plants mounted on herbarium sheets or kept in envelopes (mosses and fungi), specimens preserved in fluids, wood samples, fruits, seeds, fibres, and pollen, as well as preparations on microscope slides. Other collections, such as DNA and tissue collections, as well as  living collections of botanical gardens and seed banks are not yet included into the Virtual Herbarium.
 
 ![Iconella splendida Ehrenb., photo by RG Diatomeen, BGBM](assets/images/Iconella_splendida.jpg){:standalone .has-text-centered}
 
