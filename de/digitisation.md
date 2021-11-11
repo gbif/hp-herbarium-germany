@@ -1,40 +1,40 @@
 ---
 lang-ref: digitisation
-title: Digitisation of German Herbaria
-description: A complete digitization of German herbaria is possible, sensible and should be started now!
+title: Digitalisierung der deutschen Herbarien
+description: Eine vollständige Digitalisierung der deutschen Herbarien ist möglich, sinnvoll und sollte jetzt begonnen werden!
 background: /assets/images/ScannTech.jpg
 imageLicense: |
-  Photo by [Wolf-Henning Kusber, GBIF-D](http://www.gbif.de)
+  Foto: [Wolf-Henning Kusber, GBIF-D](http://www.gbif.de)
 height: 50vh
 ---
 
-In Germany, 70 herbaria store more than 22 million specimens, about 6% of the specimens worldwide and 13% of the specimens in Europe: 53% are objects mounted on cardboard sheet (mostly seed plants, ferns, lycophytes, macroalgae), another 21% are not mounted yet. 26% are stored in other forms, such as in boxes, in envelopes, on slides, or in liquids (mostly bryophytes, lichens, fungi, and algae).
+In Deutschland lagern in 70 Herbarien mehr als 22 Millionen Belegexemplare, das sind etwa 6% der Belege weltweit und 13% der Belege in Europa: 53% sind auf Pappbögen montierte Objekte (meist Samenpflanzen, Farne, Bärlappe, Makroalgen), weitere 21% sind noch nicht montiert. 26 % werden in ander Form aufbewahrt, z. B. in Boxen, in Umschlägen, auf Dias oder in Flüssigkeiten (vor allem Moose, Flechten, Pilze und Algen).
 
-![Herbarium specimen cabinets, photo by BSM](assets/images/BSM_Herbar_Henssel.jpg){:standalone .has-text-centered}
+![Herbariumsschränke, Foto: BSM](assets/images/BSM_Herbar_Henssel.jpg){:standalone .has-text-centered}
 
-Only 13% of the specimens held in German herbaria have been digitised so far; 69% of those digital specimens comprise only textual data (label information), whereas 31% include one or several images. An average of 48,000 specimens are digitized per year; given the figure of about 200,000 accessions per year, this implies that currently the ratio of digitisation is decreasing.
+Lediglich 13% der in deutschen Herbarien aufbewahrten Belege sind bisher digitalisiert worden; 69% dieser digitalen Belege umfassen nur Textdaten (Etiketteninformationen), während 31% ein oder mehrere Bilder enthalten. Durchschnittlich werden 48.000 Belege pro Jahr digitalisiert, was bei etwa 200.000 Neuzugängen pro Jahr bedeutet, dass die Digitalisierungsrate derzeit rückläufig ist.
 
 <figure class="has-text-centered">
-	<a href="/data?entity=864884844&filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNDA5MTE1MF19fQ&view=TABLE">
-		<img src="assets/images/Bignonia_acutiflora.jpg" alt="Image of Bignonia acutiflora" />
-		<figcaption>Herbarium scan of Bignonia acutiflora Mart. ex DC.</figcaption>
+	<a href="/de/data?entity=864884844&filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNDA5MTE1MF19fQ&view=TABLE">
+		<img src="../assets/images/Bignonia_acutiflora.jpg" alt="Bild von Bignonia acutiflora" />
+		<figcaption>Herbariumsscan von Bignonia acutiflora Mart. ex DC.</figcaption>
 	</a>
 </figure>
 
-Increasing the level of digitisation has a multitude of benefits for both science and the wider public audience: 
-* Specimens usually locked away in vaults become accessible and usable for research, teaching and academic education.
-* Citizen science projects like [Les herbonautes (fr)](http://lesherbonautes.mnhn.fr/) and [Die Herbonauten (de)](https://herbonauten.de/) can use crowdsourcing approaches to capture metadata from labels attached to the specimens, thus increasing their richness and discoverability and at the same time the engagement of the public with these fascinating objects.
-* High-resolution images allow an in-depth scrutiny of specimens without physical access to the physical collections, eliminating the need for personal travel or potential damaging shipping of specimens by mail.
-* By connecting the digital specimens to biodiversity data networks like [GBIF](https://www.gbif.org/), [BioCASe](https://www.biocase.org/) and [DiSSCo](https://www.dissco.eu/), they become findable and usable for researchers worldwide. This goes beyond the work with individual specimens and also includes cross-dataset analyses like biodiversity modelling and invasive species threat prediction.
-* The visibility of herbaria in the public is relatively low, compared to collections of other domains. By feeding natural history specimens into cultural data portals like Europeana, the European digital library, the awareness for these [types of collections being part of the cultural heritage](https://classic.europeana.eu/portal/de/search?f%5BPROVIDER%5D%5B%5D=OpenUp!&view=grid) can be increased.
+Die Steigerung des Digitalisierungsgrades hat eine Vielzahl von Vorteilen sowohl für die Wissenschaft als auch für die breite Öffentlichkeit:
+* Belegexemplare, die normalerweise in Depots aufbewahrt werden, werden für die Allgemeinheit zugänglich gemacht und können für Forschung, Lehre und akademische Ausbildung genutzt werden.
+* Citizen-Science-Projekte wie [Les herbonautes (fr)](http://lesherbonautes.mnhn.fr/) und [Die Herbonauten (de)](https://herbonauten.de/) können mit Hilfe von Crowdsourcing-Ansätzen Metadaten von den Etiketten, die an den Belegen angebracht sind, erfassen und so den Informationsgehalt und die Nutzbarkeit der Belege erhöhen und gleichzeitig das Interesse der Öffentlichkeit an diesen einzigartigen Objekten wecken.
+* Hochaufgelöste Bilder ermöglichen eine genaue Erforschung der Belege ohne physischen Zugang zu den Sammlungen, so dass persönliche Reisen oder der potentiell riskante Versand von Belegen per Post entfallen.
+* Durch die Anbindung der digitalen Belege an Biodiversitätsdatennetze wie [GBIF](https://www.gbif.org/), [BioCASe](https://www.biocase.org/) und [DiSSCo](https://www.dissco.eu/) werden sie für Forscher weltweit auffind- und nutzbar. Dies geht über die Arbeit mit einzelnen Belegen hinaus und umfasst auch datenbankübergreifende Analysen wie die Modellierung der biologischen Vielfalt und die Vorhersage der Bedrohung durch invasive Arten.
+* Die Sichtbarkeit von Herbarien in der Öffentlichkeit ist im Vergleich zu Sammlungen aus anderen Bereichen relativ gering. Durch die Einstellung von naturkundlichen Belegen in kulturelle Datenportale wie Europeana, die europäische digitale Bibliothek, kann das Bewusstsein dafür geschärft werden, dass auch [diese Art von Sammlungen](https://classic.europeana.eu/portal/de/search?f%5BPROVIDER%5D%5B%5D=OpenUp!&view=grid) Teil des kulturellen Erbes sind.
 
-Three of four objects in German herbaria are cardboard-mounted specimens (including the specimens yet unmounted). Compared to other natural history collections, such flat herbarium sheets are relatively easy to be digitised by using digital cameras, scanners and microscopes. However, the equipment currently available in German institutions allows only for a moderate throughput.
+Drei von vier Objekten in deutschen Herbarien sind auf Karton montierte Exemplare (einschließlich der noch unmontierten Belege). Im Vergleich zu anderen naturkundlichen Sammlungen sind solche flachen Herbarblätter relativ einfach mit Digitalkameras, Scannern und Mikroskopen zu digitalisieren. Allerdings erlaubt die derzeit in deutschen Institutionen vorhandene Ausstattung nur einen mäßigen Digitalisierungsdurchsatz.
 
-![Digitisation of lichens, mosses and fungi; photo by BGBM](assets/images/BGBM_digitalisierung.jpg){:standalone .has-text-centered}
+![Digitalisierung von Flechten, Moosen und Pilzen; Foto: BGBM](/de/assets/images/BGBM_digitalisierung.jpg){:standalone .has-text-centered}
 
-Successful digitisation initiatives in other countries like the Netherlands, France and Finland have used high-throughput digitisation methods using conveyor belts on an industrial scale to digitise millions of specimens. Their experiences show that whole herbaria can be comprehensively and cost-efficiently digitized in a relatively short time due to established workflows and protocols.
+Erfolgreiche Digitalisierungsinitiativen in anderen Ländern wie den Niederlanden, Frankreich und Finnland haben Hochdurchsatz-Digitalisierungsmethoden mit Fließbandtechnik im industriellen Maßstab eingesetzt, um Millionen von Belegen zu digitalisieren. Ihre Erfahrungen zeigen, dass ganze Herbarien dank ausgefeilter Arbeitsabläufe und Verfahren in relativ kurzer Zeit vollständig und kosteneffizient digitalisiert werden können.
 
-For this reason, an appeal to increase the level of digitization by starting a wall-to-wall digitization of the flat objects stored in German herbaria has been initiated by 51 representatives from 30 institutions. For more details on this call and a complete survey of the situation in German herbaria, please refer to this paper:
+Aus diesem Grund haben 51 Vertreter aus 30 Institutionen einen Aufruf zur Erhöhung des Digitalisierungsgrades durch den Beginn einer durchgehenden Digitalisierung der in deutschen Herbarien gelagerten flachen Objekte initiiert. Weitere Details zu diesem Aufruf und einen umfassenden Überblick über die Situation in deutschen Herbarien sind in diesem Positionspapier zu finden:
 
-[View the call for a complete digitsation of German herbaria](https://riojournal.com/article/50675/){: .button .is-primary}
+[Aufruf für eine vollständige Digitalisierung der deutschen Herbarien](https://riojournal.com/article/50675/){: .button .is-primary}
 {: .has-text-centered}
