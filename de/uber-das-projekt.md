@@ -1,7 +1,7 @@
 ---
 lang-ref: about
 title: Virtuelles Herbarium Deutschland VH/de
-description: Ein Blick in die verborgenen Schätze der deutschen Herbarien
+description: Ein Blick auf die verborgenen Schätze deutscher Herbarien
 background: /assets/images/Xanthoria.jpg
 imageLicense: |
   [*Xanthoria elegans* (Link) Th.Fr.](data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbMjYwOTk2N119fQ&view=TABLE) by [Dr. Robert Lücking, BGBM](https://www.bgbm.org/en/staff/dr-robert-lucking)
@@ -12,7 +12,7 @@ Die botanischen Sammlungen von Pflanzen, Pilzen und Algen in den vielen Museen u
 
 <figure class="has-text-centered">
 	<a href="/data?entity=2981268752&filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNTI4NzQyNV19fQ&view=TABLE">
-		<img src="assets/images/Actinocephalus_bongardii.jpg" alt="Herbariumsbeleg von Actinocephalus bongardii" />
+		<img src="../assets/images/Actinocephalus_bongardii.jpg" alt="Herbariumsbeleg von Actinocephalus bongardii" />
 		<figcaption>Actinocephalus bongardii (A.St.-Hil.) Sano; Scan duch BSM</figcaption>
 	</a>
 </figure>
