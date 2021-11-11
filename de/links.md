@@ -33,7 +33,7 @@ height: 50vh
 * [BioCASe Provider Software](https://www.biocase.org/products/provider_software)
 * [GBIF Integrated Publishing Toolkit - IPT](https://www.gbif.org/ipt)
 * [Dokumentation der Sammlungsverwaltungssysteme der GFBio Daten-Center](https://gfbio.biowikifarm.net/wiki/Technical_documentation_of_collection_management_systems_at_the_GFBio_Collection_Data_Centers)
-* [Diversity Workbench (collection management system)](https://diversityworkbench.net)
+* [Diversity Workbench (Sammlungsverwaltungssystem)](https://diversityworkbench.net)
 * [Jacq (Gemeinschaftliches Herbariumsverwaltungssystem)](https://www.jacq.org/)
 
 
