@@ -1,5 +1,5 @@
 ---
-title: "Neues Virtuelles Herbarium  Deutschland Online"
+title: "Neues Virtuelles Herbarium Deutschland Online"
 date:  2021-04-26 12:00:00 +0200
 categories: ["Einführung", "VH/de-Seite"]
 lang-ref: new_vh
