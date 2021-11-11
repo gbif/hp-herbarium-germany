@@ -1,7 +1,7 @@
 ---
-title: "New German Virtual Herbarium Online"
+title: "Neues Virtuelles Herbarium  Deutschland Online"
 date:  2021-04-26 12:00:00 +0200
-categories: ["Getting started", "VH/de website"]
+categories: ["Einführung", "VH/de-Seite"]
 lang-ref: new vh online
 background: /assets/images/entry_page2.jpg
 #composition:
