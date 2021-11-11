@@ -11,7 +11,7 @@ height: 50vh
 Die botanischen Sammlungen von Pflanzen, Pilzen und Algen in den vielen Museen und Institutionen Deutschlands bilden einen enormen Wissensschatz über die biologische Vielfalt unserer Umwelt. Von Botanikern der vergangenen Jahrhunderte zusammengetragen, wächst die Zahl der Objekte noch heute an. Jedes einzelne davon ist ein wertvolles Zeugnis der botanischen Vielfalt in Vergangenheit und Gegenwart, von noch existierenden Arten und von solchen, die bereits ausgestorben sind.
 
 <figure class="has-text-centered">
-	<a href="de/data?entity=2981268752&filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNTI4NzQyNV19fQ&view=TABLE">
+	<a href="/de/data?entity=2981268752&filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNTI4NzQyNV19fQ&view=TABLE">
 		<img src="../assets/images/Actinocephalus_bongardii.jpg" alt="Herbariumsbeleg von Actinocephalus bongardii" />
 		<figcaption>Actinocephalus bongardii (A.St.-Hil.) Sano; Scan durch BSM</figcaption>
 	</a>
