@@ -2,7 +2,7 @@
 title:  "Features des neuen Virtuellen Herbariums Deutschland"
 date:   2021-04-23 15:42:42 +0200
 categories: ["Einführung", "VH/de-Seite"]
-lang-ref: feature explained
+lang-ref: features
 background: /assets/images/filter_scientific_name.jpg
 ---
 

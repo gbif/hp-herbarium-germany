@@ -2,7 +2,7 @@
 title:  "Features of the new German Virtual Herbarium"
 date:   2021-04-23 15:42:42 +0200
 categories: ["Getting started", "VH/de website"]
-lang-ref: feature explained
+lang-ref: features
 background: /assets/images/filter_scientific_name.jpg
 ---
 
