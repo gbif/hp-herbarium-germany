@@ -1,7 +1,7 @@
 ---
 lang-ref: about
 title: Virtuelles Herbarium Deutschland VH/de
-description: Ein Blick auf die verborgenen Schätze deutscher Herbarien
+description: Ein Blick in die Schatzkammern der deutschen Herbarien
 background: /assets/images/Xanthoria.jpg
 imageLicense: |
   [*Xanthoria elegans* (Link) Th.Fr.](data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbMjYwOTk2N119fQ&view=TABLE) by [Dr. Robert Lücking, BGBM](https://www.bgbm.org/en/staff/dr-robert-lucking)
