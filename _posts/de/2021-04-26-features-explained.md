@@ -10,7 +10,7 @@ Das neue Portal des Virtuellen Herbariums Deutschland bietet Zugriff auf alle Be
 
 <figure class="has-text-centered">
 	<a href="/de/data?view=MAP">
-		<img src="../../assets/images/map.png" />
+		<img src="/assets/images/map.png" />
 		<figcaption>Georeferenzierte digitale Belege des Virtuellen Herbariums Deutschland</figcaption>
 	</a>
 </figure>
