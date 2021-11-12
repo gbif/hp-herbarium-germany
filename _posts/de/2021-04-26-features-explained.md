@@ -10,7 +10,7 @@ Das neue Portal des Virtuellen Herbariums Deutschland bietet Zugriff auf alle Be
 
 <figure class="has-text-centered">
 	<a href="/de/data?view=MAP">
-		<img src="../assets/images/map.png" />
+		<img src="../../assets/images/map.png" />
 		<figcaption>Georeferenzierte digitale Belege des Virtuellen Herbariums Deutschland</figcaption>
 	</a>
 </figure>
@@ -44,7 +44,7 @@ Die acht am häufigsten verwendeten Filter werden direkt über den Datensätzen 
 
 <figure class="has-text-centered">
 	<img src="../assets/images/filter_list.jpg" />
-	<figcaption>Über die Schaltfläche *mehr* können weitere Filter ausgewählt werden</figcaption>
+	<figcaption>Über die Schaltfläche mehr können weitere Filter ausgewählt werden</figcaption>
 </figure>
 
 Komplexe Filter lassen sich mithilfe eines Browser-Lesezeichens speichern. Beim späteren Aufruf des Lesezeichens wird der gespeicherte Filter mit den gesicherten Filterwerten geladen. Die Ergebnisliste ist jedoch immer aktuell, d.h. neue Belege, die nach dem Speichern des Lesezeichens hinzugekommen sind, werden in der Liste angezeigt. Der Menüpunkt Taxgruppen in der oberen Navigationsleiste verwendet solche gespeicherten Filter für die schnelle Suche nach Belegen gängiger taxonomischer Gruppen.
@@ -52,7 +52,7 @@ Komplexe Filter lassen sich mithilfe eines Browser-Lesezeichens speichern. Beim 
 <figure class="has-text-centered">
 	<a href="/de/data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNzA3MzU5MywxMDYsMzYsNzk0NzE4NCwzMzJdfX0&view=GALLERY">
 		<img src="../assets/images/algae_gallery.jpg" />
-		<figcaption>Die Schnellsuche *Algen* beinhaltet fünf taxonomische Gruppen</figcaption>
+		<figcaption>Die Schnellsuche Algen beinhaltet fünf taxonomische Gruppen</figcaption>
 	</a>
 </figure>
 
