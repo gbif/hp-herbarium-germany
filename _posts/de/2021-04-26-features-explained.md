@@ -1,59 +1,59 @@
 ---
-title:  "Funktionen des neuen Virtuellen Herbariums Deutschland"
+title:  "Funktionalitäten des neuen Virtuellen Herbariums Deutschland"
 date:   2021-04-23 15:42:42 +0200
-categories: ["Einführung", "VH/de-Seite"]
+categories: ["Einführung", "VH/de"]
 lang-ref: features
-background: /assets/images/filter_scientific_name.jpg
+background: ../assets/images/filter_scientific_name.jpg
 ---
 
-The new portal of the German Virtual Herbarium grants access to all GBIF-mediated specimens held in German herbaria that have been digitised up to date. As of May 2021, this is almost one million records; about one third have at least one digital image attached.
+Das neue Portal des Virtuellen Herbariums Deutschland bietet Zugriff auf alle Belege der teilnehmenden Herbarien, die bis heute digitalisiert und über das GBIF-Netzwerk veröffentlicht wurden. Mit Stand November 2021 sind dies fast eine Million Belege, von denen etwa ein Drittel mit mindestens einem digitalen Bild verknüpft ist.
 
 <figure class="has-text-centered">
-	<a href="/data?view=MAP">
-		<img src="/assets/images/map.png" />
-		<figcaption>Geo-referenced digital specimens of the German Virtual Herbarium</figcaption>
+	<a href="/de/data?view=MAP">
+		<img src="../assets/images/map.png" />
+		<figcaption>Georeferenzierte digitale Belege des Virtuellen Herbariums Deutschland</figcaption>
 	</a>
 </figure>
 
-The link [Browse specimens](/data) takes you right to the map view which shows all geo-referenced records. Alternatively, you can choose the [table](/data?view=TABLE) (showing all records) or the [gallery view](/data?view=GALLERY) (showing all records with image) by clicking on the respective tabs. The table and gallery views can be browsed by paging through records or scrolling down and clicking on *Load more*. The map view, in contrast, allows to explore specimens geographically by zooming into a region of interest using your scroll wheel or the +/- buttons in the top left corner of the map. After a short delay, clusters will refresh – with size and colour indicating the number of records forming the respective cluster. Clicking a cluster will list the specimens in a cluster; clicking on an item will slide in the details for this specimen.
+Der Link [Belege erkunden](/de/data) führt direkt zur Kartenansicht, die alle georeferenzierten Belege enthält. Alternativ kann auch die [Tabellenansicht](/de/data?view=TABLE) (mit allen Datensätzen) oder die [Galerieansicht](/de/data?view=GALLERY) (mit allen Bildern) durch Anklicken der jeweiligen Registerkarten gewählt werden. Die Tabellen- und die Galerieansicht können durch Blättern in den Datensätzen oder durch Scrollen nach unten und Klicken auf *Mehr* durchsucht werden. In der Kartenansicht hingegen können Belege näher betrachtet werden, indem mit dem Scrollrad der Maus oder den Schaltflächen +/- in der oberen linken Ecke der Karte in eine bestimmte Region gezoomt wird. Nach einer kurzen Verzögerung werden die Cluster aktualisiert - Größe und Farbe zeigen die Anzahl der Datensätze an, die den jeweiligen Cluster bilden. Durch Klicken auf einen Cluster werden die darin enthaltenen Belege aufgelistet; durch Anklicken eines Eintrags werden die Details zu diesem Beleg eingeblendet.
 
 <figure class="has-text-centered">
-	<img src="/assets/images/map_cluster.jpg" />
-	<figcaption>Specimens grouped together in a map cluster</figcaption>
+	<img src="../assets/images/map_cluster.jpg" />
+	<figcaption>Belege, die zu einem Kartencluster zusammengefasst sind</figcaption>
 </figure>
 
-Remember that the map only shows geo-referenced records and the gallery only specimens with images; for a list of all specimens, you will need the table view. To find specimens of interest in this view, you can use the filters at the top: Just click on the respective field you want to filter on and enter your search value(s). Depending on the search field the filter will behave differently: Some filters will show a list of suggested values that you can click on to select (such as *Scientific name*, *Recorded by* or *Country*); others will give you a list of items to tick (like *Type status* or *Continent*). Some filters will present nothing but a text box and will perform a full text search on the respective field, e.g. *Keyword search* or *Locality*. 
+In der Karte sind nur die georeferenzierten Belege und in der Galerie nur die Belege mit Bildern zu sehen. Für eine Liste aller Belege wird die Tabellenansicht benötigt. Mit den Filtern am oberen Rand lassen sich die für Sie interessanten Belege in dieser Ansicht suchen: Einfach auf das jeweilige Feld klicken, nach dem gefiltert werden soll, und einen oder mehrere Suchwerte eingeben. Je nach Art des Suchfeldes verhält sich der Filter unterschiedlich: Einige Filter zeigen eine Liste mit Vorschlagswerten an, die per Mausklick ausgewählt werden können (z. B. *wissenschaftlicher Name*, *Sammler* oder *Land*); andere bestehen aus einer festen Liste von Werten (z. B. *Typstatus* oder *Lizenz*). Andere wiederum zeigen nur ein Textfeld an und führen eine Volltextsuche in dem entsprechenden Feld durch, z.B. *Volltextsuche* oder *Fundort*.
 
 <figure class="has-text-centered">
-	<a href="/data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbMjY4NTQ4NCwyNjg1NTE5LDI2ODU0MDAsMjY4NTQxNCwyNjg1NTUyXX19&view=TABLE">
-		<img src="/assets/images/filter_scientific_name.jpg" />
-		<figcaption>The filter on scientific name allows to tick several taxa to be included in the search</figcaption>
+	<a href="/de/data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbMjY4NTQ4NCwyNjg1NTE5LDI2ODU0MDAsMjY4NTQxNCwyNjg1NTUyXX19&view=TABLE">
+		<img src="../assets/images/filter_scientific_name.jpg" />
+		<figcaption>Mit dem Filter für wissenschaftliche Namen lässt sich nach mehreren Taxa gleichzeitig suchen</figcaption>
 	</a>
 </figure>
 
-You can combine as many filters as you like by adding them consecutively. Several values for one field will be combined by a logical OR (allowing you to search for several species or taxon groups at the same time, for example), whereas filters on different fields will be combined using a logical AND. The filter shown in the screenshot below will find all isotypes and lectotypes in the *Pinaceae* family.
+Es lassen sich beliebig viele Filter kombinieren, indem sie nacheinander hinzugefügt werden. Mehrere Werte für ein Suchfeld werden mit einem logischen ODER verknüpft (so kann z. B. nach mehreren Arten oder Taxongruppen gleichzeitig gesucht werden), während Filter für verschiedene Felder mit einem logischen UND verknüpft werden. Der in der nachstehenden Abbildung gezeigte Filter sucht nach allen Isotypen und Lectotypen innerhalb der Familie der *Pinaceae*.
 
 <figure class="has-text-centered">
-	<a href="/data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbMzkyNV0sInR5cGVTdGF0dXMiOlsiTEVDVE9UWVBFIiwiSVNPVFlQRSJdfX0&view=TABLE">
-		<img src="/assets/images/mutliple_filters.jpg" />
-		<figcaption>Searching for isotypes and lectotypes in the Pinaceae family</figcaption>
+	<a href="/de/data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbMzkyNV0sInR5cGVTdGF0dXMiOlsiTEVDVE9UWVBFIiwiSVNPVFlQRSJdfX0&view=TABLE">
+		<img src="../assets/images/mutliple_filters.jpg" />
+		<figcaption>Suche nach Isotypen und Lectotypen innerhalb der Familie Pinaceae</figcaption>
 	</a>
 </figure>
 
-The seven filters listed directly above the records are the most commonly used filters: *Keyword search*, *Scientific name*, *Recorded by*, *Locality*, *Country* and *Year*. Clicking on *more* will show a list of all filters available (as of May 2021, there are 27 filters); just choose an item to add the respective filter. Clicking the three dots in the small pop-up window will tell you more about the filter.
+Die acht am häufigsten verwendeten Filter werden direkt über den Datensätzen angezeigt: *Volltextsuche*, *wissenschaftlicher Name*, *Typstatus*, *Sammlernummer*, *Sammler*, *Fundort*, *Land* und *Sammeljahr*. Ein Klick auf *mehr* zeigt eine Liste aller verfügbaren Filter; einfach ein Element auswählen, um den entsprechenden Filter hinzuzufügen. Ein Klick auf die drei Punkte in dem kleinen Pop-up-Fenster verrät mehr über den Filter.
 
 <figure class="has-text-centered">
-	<img src="/assets/images/filter_list.jpg" />
-	<figcaption>Clicking on the "more" button allows to choose from 27 different filters</figcaption>
+	<img src="../assets/images/filter_list.jpg" />
+	<figcaption>Über die Schaltfläche *mehr* können weitere Filter ausgewählt werden</figcaption>
 </figure>
 
-You can save complex filters by simply adding a browser bookmark. Using the bookmark later will load the stored filter with the saved filter values. The results, however, will always be up-to-date, meaning that new specimens that have been added after the bookmark has been saved will show up in the list. The menu item Taxgroups in the navigation bar at the top uses such saved filters and can be used as a shortcut to find specimens of common taxonomic groups.
+Komplexe Filter lassen sich mithilfe eines Browser-Lesezeichens speichern. Beim späteren Aufruf des Lesezeichens wird der gespeicherte Filter mit den gesicherten Filterwerten geladen. Die Ergebnisliste ist jedoch immer aktuell, d.h. neue Belege, die nach dem Speichern des Lesezeichens hinzugekommen sind, werden in der Liste angezeigt. Der Menüpunkt Taxgruppen in der oberen Navigationsleiste verwendet solche gespeicherten Filter für die schnelle Suche nach Belegen gängiger taxonomischer Gruppen.
 
 <figure class="has-text-centered">
-	<a href="/data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNzA3MzU5MywxMDYsMzYsNzk0NzE4NCwzMzJdfX0&view=GALLERY">
-		<img src="/assets/images/algae_gallery.jpg" />
-		<figcaption>The "Algae" shortcut includes five taxonomic groups</figcaption>
+	<a href="/de/data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNzA3MzU5MywxMDYsMzYsNzk0NzE4NCwzMzJdfX0&view=GALLERY">
+		<img src="../assets/images/algae_gallery.jpg" />
+		<figcaption>Die Schnellsuche *Algen* beinhaltet fünf taxonomische Gruppen</figcaption>
 	</a>
 </figure>
 
-The underlying software for this portal is still in development phase, and the team at GBIF is happy about feedback - suggestions for useful features that should be added, ideas for improving the usability or general comments. Please direct any of this to [contact@gbif.de](mailto:contact@gbif.de) .
+Die dem Portal unterlegte Software befindet sich noch in der Entwicklungsphase, und das Team von GBIF freut sich über Feedback - Vorschläge für nützliche Funktionalitäten, die hinzugefügt werden sollten, Ideen zur Verbesserung der Benutzerfreundlichkeit oder allgemeine Kommentare. Bitte senden Sie solche Rückmeldungen an [contact@gbif.de](mailto:contact@gbif.de).
