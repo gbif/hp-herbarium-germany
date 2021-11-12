@@ -22,7 +22,7 @@ The link [Browse specimens](/data) takes you right to the map view which shows a
 	<figcaption>Specimens grouped together in a map cluster</figcaption>
 </figure>
 
-Remember that the map only shows geo-referenced records and the gallery only specimens with images; for a list of all specimens, you will need the table view. To find specimens of interest in this view, you can use the filters at the top: Just click on the respective field you want to filter on and enter your search value(s). Depending on the search field the filter will behave differently: Some filters will show a list of suggested values that you can click on to select (such as *Scientific name*, *Recorded by* or *Country*); others will give you a list of items to tick (like *Type status* or *Continent*). Some filters will present nothing but a text box and will perform a full text search on the respective field, e.g. *Keyword search* or *Locality*. 
+Remember that the map only shows geo-referenced records and the gallery only specimens with images; for a list of all specimens, you will need the table view. To find specimens of interest in this view, you can use the filters at the top: Just click on the respective field you want to filter on and enter your search value(s). Depending on the search field the filter will behave differently: Some filters will show a list of suggested values that you can click on to select (such as *Scientific name*, *Recorded by* or *Country*); others will give you a list of items to tick (like *Type status* or *License*). Some filters will present nothing but a text box and will perform a full text search on the respective field, e.g. *Text search* or *Locality*. 
 
 <figure class="has-text-centered">
 	<a href="/data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbMjY4NTQ4NCwyNjg1NTE5LDI2ODU0MDAsMjY4NTQxNCwyNjg1NTUyXX19&view=TABLE">
@@ -40,11 +40,11 @@ You can combine as many filters as you like by adding them consecutively. Severa
 	</a>
 </figure>
 
-The seven filters listed directly above the records are the most commonly used filters: *Keyword search*, *Scientific name*, *Recorded by*, *Locality*, *Country* and *Year*. Clicking on *more* will show a list of all filters available (as of May 2021, there are 27 filters); just choose an item to add the respective filter. Clicking the three dots in the small pop-up window will tell you more about the filter.
+The eight filters listed directly above the records are the most commonly used filters: *Text search*, *Scientific name*, *Type status*, *Record number*, *Recorded by*, *Locality*, *Country* and *Year*. Clicking on *more* will show a list of all filters available; just choose an item to add the respective filter. Clicking the three dots in the small pop-up window will tell you more about the filter.
 
 <figure class="has-text-centered">
 	<img src="/assets/images/filter_list.jpg" />
-	<figcaption>Clicking on the "more" button allows to choose from 27 different filters</figcaption>
+	<figcaption>Clicking on the "more" button allows to choose additional filters</figcaption>
 </figure>
 
 You can save complex filters by simply adding a browser bookmark. Using the bookmark later will load the stored filter with the saved filter values. The results, however, will always be up-to-date, meaning that new specimens that have been added after the bookmark has been saved will show up in the list. The menu item Taxgroups in the navigation bar at the top uses such saved filters and can be used as a shortcut to find specimens of common taxonomic groups.
