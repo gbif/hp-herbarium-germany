@@ -6,7 +6,7 @@ lang-ref: features
 background: /assets/images/filter_scientific_name.jpg
 ---
 
-Das neue Portal des Virtuellen Herbariums Deutschland bietet Zugriff auf alle Belege der teilnehmenden Herbarien, die bis heute digitalisiert und über das GBIF-Netzwerk veröffentlicht wurden. Mit Stand November 2021 sind dies fast eine Million Belege, von denen etwa ein Drittel mit mindestens einem digitalen Bild verknüpft ist.
+Das neue Portal des Virtuellen Herbariums Deutschland bietet Zugriff auf alle Belege der [teilnehmenden Herbarien](/de/partners), die bis heute digitalisiert und über das GBIF-Netzwerk veröffentlicht wurden. Mit Stand November 2021 sind dies fast eine Million Belege, von denen etwa ein Drittel mit mindestens einem digitalen Bild verknüpft ist.
 
 <figure class="has-text-centered">
 	<a href="/de/data?view=MAP">
