@@ -18,7 +18,7 @@ Das neue Portal des Virtuellen Herbariums Deutschland bietet Zugriff auf alle Be
 Der Link [Belege erkunden](/de/data) führt direkt zur Kartenansicht, die alle georeferenzierten Belege enthält. Alternativ kann auch die [Tabellenansicht](/de/data?view=TABLE) (mit allen Datensätzen) oder die [Galerieansicht](/de/data?view=GALLERY) (mit allen Bildern) durch Anklicken der jeweiligen Registerkarten gewählt werden. Die Tabellen- und die Galerieansicht können durch Blättern in den Datensätzen oder durch Scrollen nach unten und Klicken auf *Mehr* durchsucht werden. In der Kartenansicht hingegen können Belege näher betrachtet werden, indem mit dem Scrollrad der Maus oder den Schaltflächen +/- in der oberen linken Ecke der Karte in eine bestimmte Region gezoomt wird. Nach einer kurzen Verzögerung werden die Cluster aktualisiert - Größe und Farbe zeigen die Anzahl der Datensätze an, die den jeweiligen Cluster bilden. Durch Klicken auf einen Cluster werden die darin enthaltenen Belege aufgelistet; durch Anklicken eines Eintrags werden die Details zu diesem Beleg eingeblendet.
 
 <figure class="has-text-centered">
-	<img src="/assets/images/map_cluster.jpg" />
+	<img src="/assets/images/map_cluster_de.jpg" />
 	<figcaption>Belege, die zu einem Kartencluster zusammengefasst sind</figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ In der Karte sind nur die georeferenzierten Belege und in der Galerie nur die Be
 
 <figure class="has-text-centered">
 	<a href="/de/data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbMjY4NTQ4NCwyNjg1NTE5LDI2ODU0MDAsMjY4NTQxNCwyNjg1NTUyXX19&view=TABLE">
-		<img src="/assets/images/filter_scientific_name.jpg" />
+		<img src="/assets/images/filter_scientific_name_de.jpg" />
 		<figcaption>Mit dem Filter für wissenschaftliche Namen lässt sich nach mehreren Taxa gleichzeitig suchen</figcaption>
 	</a>
 </figure>
@@ -35,7 +35,7 @@ Es lassen sich beliebig viele Filter kombinieren, indem sie nacheinander hinzuge
 
 <figure class="has-text-centered">
 	<a href="/de/data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbMzkyNV0sInR5cGVTdGF0dXMiOlsiTEVDVE9UWVBFIiwiSVNPVFlQRSJdfX0&view=TABLE">
-		<img src="/assets/images/mutliple_filters.jpg" />
+		<img src="/assets/images/mutliple_filters_de.jpg" />
 		<figcaption>Suche nach Isotypen und Lectotypen innerhalb der Familie Pinaceae</figcaption>
 	</a>
 </figure>
@@ -43,7 +43,7 @@ Es lassen sich beliebig viele Filter kombinieren, indem sie nacheinander hinzuge
 Die acht am häufigsten verwendeten Filter werden direkt über den Datensätzen angezeigt: *Volltextsuche*, *wissenschaftlicher Name*, *Typstatus*, *Sammlernummer*, *Sammler*, *Fundort*, *Land* und *Sammeljahr*. Ein Klick auf *mehr* zeigt eine Liste aller verfügbaren Filter; einfach ein Element auswählen, um den entsprechenden Filter hinzuzufügen. Ein Klick auf die drei Punkte in dem kleinen Pop-up-Fenster verrät mehr über den Filter.
 
 <figure class="has-text-centered">
-	<img src="/assets/images/filter_list.jpg" />
+	<img src="/assets/images/filter_list_de.jpg" />
 	<figcaption>Über die Schaltfläche mehr können weitere Filter ausgewählt werden</figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ Komplexe Filter lassen sich mithilfe eines Browser-Lesezeichens speichern. Beim 
 
 <figure class="has-text-centered">
 	<a href="/de/data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNzA3MzU5MywxMDYsMzYsNzk0NzE4NCwzMzJdfX0&view=GALLERY">
-		<img src="/assets/images/algae_gallery.jpg" />
+		<img src="/assets/images/algae_gallery_de.jpg" />
 		<figcaption>Die Schnellsuche Algen beinhaltet fünf taxonomische Gruppen</figcaption>
 	</a>
 </figure>
