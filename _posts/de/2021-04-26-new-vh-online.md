@@ -12,9 +12,9 @@ background: /assets/images/entry_page2_de.jpg
 
 ---
 
-Seit 2015 bietet das Virtuelle Herbarium Deutschland einen Online-Zugang zu den bis heute digitalisierten Belegen deutscher Herbarien. Zwar erlaubte auch schon das [bisherige Datenportal](https://search.biocase.de/vh) die Suche nach Belegen nach einer Vielzahl von Kriterien, war aber in puncto Funktionalität und Benutzerfreundlichkeit in die Jahre gekommen. Aus diesem Grund entstand eine neue Website: Diese basiert auf einer von der [Global Biodiversity Information Facility](https://www.gbif.org) entwickelten und auf deren Servern gehosteten Software und bietet eine zeitgemäße Präsentation der Belege als Liste, Karte oder in einer Galerie sowie umfassende Filtermöglichkeiten (mehr zu den Funktionalitäten [hier](/de/post/2020/features-explained/)).
+Seit 2015 bietet das Virtuelle Herbarium Deutschland einen Online-Zugang zu den bis heute digitalisierten Belegen deutscher Herbarien. Zwar erlaubte auch schon das [bisherige Datenportal](https://search.biocase.de/vh) die Suche nach Belegen nach einer Vielzahl von Kriterien, war aber in puncto Funktionalität und Benutzerfreundlichkeit in die Jahre gekommen. Aus diesem Grund entstand eine neue Website: Diese basiert auf einer von der [Global Biodiversity Information Facility](https://www.gbif.org) entwickelten und auf deren Servern gehosteten Software und bietet eine zeitgemäße Präsentation der Belege als Liste, Karte oder in einer Galerie sowie umfassende Filtermöglichkeiten (mehr zu den Funktionalitäten [hier](/de/post/2021/features-explained/)).
 
-![Galerieansicht der Virtuellen Herbariums Deutschland](/assets/images/gallery_view.jpg){:standalone .has-text-centered}
+![Galerieansicht des Virtuellen Herbariums Deutschland](/assets/images/gallery_view.jpg){:standalone .has-text-centered}
 
 Das Virtuelle Herbarium Deutschland soll einen Einblick in die deutschen Herbarien bieten. Zum Start im Dezember 2021 werden fast [eine Million digitalisierte Belege](/de/data?view=TABLE) aus [22 Herbarien](/de/data?view=DATASETS) abrufbar sein. Das Portal basiert auf der GBIF-Indexdatenbank, so dass sämtliche an GBIF angebundenen Belege der teilnehmenden deutschen Herbarien auch über das Virtuelle Herbarium abgerufen werden können. Mehr als 300.000 der Datensätze sind mit mindestens einem [digitalen Bild des Beleges](/de/data?view=GALLERY) versehen.
 
