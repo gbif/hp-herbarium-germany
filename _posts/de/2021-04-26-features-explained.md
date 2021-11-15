@@ -1,7 +1,7 @@
 ---
 title:  "Funktionalitäten des neuen Virtuellen Herbariums Deutschland"
 date:   2021-04-23 15:42:42 +0200
-categories: ["Einführung", "VH/de"]
+#categories: ["Einführung", "VH/de"]
 lang-ref: features
 background: /assets/images/filter_scientific_name.jpg
 ---
