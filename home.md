@@ -5,7 +5,7 @@ title: Virtual Herbarium Germany
 description: A showcase for the hidden treasures of German herbaria.
 background: /assets/images/Cyclamen_hederifolium.jpg
 imageLicense: |
-  [*Cyclamen hederifolium* Aiton](/data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNzEyNzgxMF19fQ&view=TABLE); photo by [Thomas Dürbye](https://www.bgbm.org/en/staff/thomas-durbye) via [GBIF](https://www.gbif.org/occurrence/2556888823)
+  [*Cyclamen hederifolium* Aiton](data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNzEyNzgxMF19fQ&view=TABLE); photo by [Thomas Dürbye](https://www.bgbm.org/en/staff/thomas-durbye) via [GBIF](https://www.gbif.org/occurrence/2556888823)
 height: 75vh
 overlayColor: "#5f3d3d55"
 cta:
