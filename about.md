@@ -19,11 +19,11 @@ Botanical collections of plants, fungi and algae are a humongous treasure of bio
  
 The objects in these collections are called specimens and are very diverse, ranging from dried plants mounted on herbarium sheets or kept in envelopes (mosses and fungi), specimens preserved in fluids, wood samples, fruits, seeds, fibres, and pollen, as well as preparations on microscope slides. Other collections, such as DNA and tissue collections, as well as  living collections of botanical gardens and seed banks are not yet included into the Virtual Herbarium.
 
-![Iconella splendida Ehrenb., photo by RG Diatomeen, BGBM](assets/images/Iconella_splendida.jpg){:standalone .has-text-centered}
+![Iconella splendida Ehrenb., photo by RG Diatomeen, Bo Berlin](assets/images/Iconella_splendida.jpg){:standalone .has-text-centered}
 
 These specimens are a valuable source of information and material for today’s biological research, for example for getting a better understanding of past and ongoing changes (and losses) of our biodiversity, for biodiversity modelling and conservation planning. They can be the starting point for automated image recognition by artificial intelligence, thus enabling provenance research as well as education, outreach and citizen science.
 
-![Researcher working on a scanning electron microscope, photo by RG Diatomeen, BGBM](assets/images/Nelida_Abarca.jpg){:standalone .has-text-centered}
+![Researcher working on a scanning electron microscope, photo by RG Diatomeen, Bo Berlin](assets/images/Nelida_Abarca.jpg){:standalone .has-text-centered}
 
 Yet, most of them remain hidden in vaults and are invisible to the general public; only a few objects become exhibits in museums. The Virtual Herbarium aims at overcoming this constraint by enabling an easy discovery of the digitised specimens of German botanical collections. It can be used by both scientists to find specimens of interest based on a multitude of search criteria and by a wider audience through simple [browsing of records](/data) or [digital images](/data?view=GALLERY).
 

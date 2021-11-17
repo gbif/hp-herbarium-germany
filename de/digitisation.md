@@ -30,7 +30,7 @@ Die Steigerung des Digitalisierungsgrades hat eine Vielzahl von Vorteilen sowohl
 
 Drei von vier Objekten in deutschen Herbarien sind auf Karton montierte Belege (einschließlich der noch unmontierten Belege). Im Vergleich zu anderen naturkundlichen Sammlungen sind solche flachen Herbarblätter relativ einfach mit Digitalkameras, Scannern und Mikroskopen zu digitalisieren. Allerdings erlaubt die derzeit in deutschen Institutionen vorhandene Ausstattung nur einen mäßigen Digitalisierungsdurchsatz.
 
-![Digitalisierung von Flechten, Moosen und Pilzen; Foto: BGBM](../assets/images/BGBM_digitalisierung.jpg){:standalone .has-text-centered}
+![Digitalisierung von Flechten, Moosen und Pilzen; Foto: Bo Berlin](../assets/images/BGBM_digitalisierung.jpg){:standalone .has-text-centered}
 
 Erfolgreiche Digitalisierungsinitiativen in anderen Ländern wie den Niederlanden, Frankreich und Finnland haben Hochdurchsatz-Digitalisierungsmethoden mit Fließbandtechnik im industriellen Maßstab eingesetzt, um Millionen von Belegen zu digitalisieren. Ihre Erfahrungen zeigen, dass ganze Herbarien dank ausgefeilter Arbeitsabläufe und Verfahren in relativ kurzer Zeit vollständig und kosteneffizient digitalisiert werden können.
 
