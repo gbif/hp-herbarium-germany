@@ -29,8 +29,8 @@ Das Virtuelle Herbarium Deutschland soll einen Einblick in die deutschen Herbari
 		Datasets</a>
     </td>
     <td style="text-align:center">
-		<a href="https://www.gbif.org/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/publisher"><h3><span data-ajax-url="https://api.gbif.org/v1/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/organization?limit=0">xx</span></h3></a>
-		Publisher
+		<a href="https://www.gbif.org/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/publisher"><h3><span data-ajax-url="https://api.gbif.org/v1/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/organization?limit=0">xx</span></h3>
+		Publisher</a>
     </td>
     <td style="text-align:center">
 		<a href="/de/data?view=GALLERY"><h3><span data-ajax-url="https://api.gbif.org/v1/occurrence/search?mediaType=StillImage&networkKey=3aee7756-565e-4dc5-b22c-f997fbd7105c&limit=0">xx</span></h3>
