@@ -25,16 +25,16 @@ The German Virtual herbarium is a showcase for German herbaria. At its launch in
 		Herbarium specimens</a>
 	</td>
     <td style="text-align:center">
-		<h3><a href="https://www.gbif.org/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/dataset"><span data-ajax-url="https://api.gbif.org/v1/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/constituents?limit=0">xx</span></a></h3>
-		Datasets
+		<a href="https://www.gbif.org/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/dataset"><h3><span data-ajax-url="https://api.gbif.org/v1/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/constituents?limit=0">xx</span></h3>
+		Datasets</a>
     </td>
     <td style="text-align:center">
-		<h3><a href="https://www.gbif.org/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/publisher"><span data-ajax-url="https://api.gbif.org/v1/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/organization?limit=0">xx</span></a></h3>
-		Publishing institutions
+		<a href="https://www.gbif.org/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/publisher"><h3><span data-ajax-url="https://api.gbif.org/v1/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/organization?limit=0">xx</span></h3>
+		Publishing institutions</a>
     </td>
     <td style="text-align:center">
-		<h3><a href="/data?view=GALLERY"><span data-ajax-url="https://api.gbif.org/v1/occurrence/search?mediaType=StillImage&networkKey=3aee7756-565e-4dc5-b22c-f997fbd7105c&limit=0">xx</span></a></h3>
-		Specimens with images
+		<a href="/data?view=GALLERY"><h3><span data-ajax-url="https://api.gbif.org/v1/occurrence/search?mediaType=StillImage&networkKey=3aee7756-565e-4dc5-b22c-f997fbd7105c&limit=0">xx</span></h3>
+		Specimens with images</a>
     </td>
   </tr>
 </table>
