@@ -21,20 +21,20 @@ Das Virtuelle Herbarium Deutschland soll einen Einblick in die deutschen Herbari
 <table>
   <tr>
 	<td style="text-align:center">
-		<h3><a href="/de/data?view=TABLE"><span data-ajax-url="https://api.gbif.org/v1/occurrence/search?networkKey=3aee7756-565e-4dc5-b22c-f997fbd7105c&limit=0">xx</span></a></h3>
-		Herbariumsbelege
+		<a href="/de/data?view=TABLE"><span data-ajax-url="https://api.gbif.org/v1/occurrence/search?networkKey=3aee7756-565e-4dc5-b22c-f997fbd7105c&limit=0"><h3>xx</span></a></h3>
+		Herbariumsbelege</a>
 	</td>
     <td style="text-align:center">
-		<h3><a href="https://www.gbif.org/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/dataset"><span data-ajax-url="https://api.gbif.org/v1/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/constituents?limit=0">xx</span></a></h3>
-		Datasets
+		<a href="https://www.gbif.org/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/dataset"><h3><span data-ajax-url="https://api.gbif.org/v1/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/constituents?limit=0">xx</span></h3>
+		Datasets</a>
     </td>
     <td style="text-align:center">
-		<h3><a href="https://www.gbif.org/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/publisher"><span data-ajax-url="https://api.gbif.org/v1/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/organization?limit=0">xx</span></a></h3>
+		<a href="https://www.gbif.org/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/publisher"><h3><span data-ajax-url="https://api.gbif.org/v1/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/organization?limit=0">xx</span></h3></a>
 		Publisher
     </td>
     <td style="text-align:center">
-		<h3><a href="/de/data?view=GALLERY"><span data-ajax-url="https://api.gbif.org/v1/occurrence/search?mediaType=StillImage&networkKey=3aee7756-565e-4dc5-b22c-f997fbd7105c&limit=0">xx</span></a></h3>
-		Belege mit Bildern
+		<a href="/de/data?view=GALLERY"><h3><span data-ajax-url="https://api.gbif.org/v1/occurrence/search?mediaType=StillImage&networkKey=3aee7756-565e-4dc5-b22c-f997fbd7105c&limit=0">xx</span></h3>
+		Belege mit Bildern</a>
     </td>
   </tr>
 </table>
