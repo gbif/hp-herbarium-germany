@@ -7,6 +7,6 @@ var siteConfig = {
   occurrenceSearchTabs: ['MAP', 'TABLE', 'GALLERY', 'DATASETS'], // define which tabs to show and in which order
   excludedFilters: ['continent', 'basisOfRecord', 'depth', 'establishmentMeans', 'eventId', 'hostingOrganizationKey', 'identifiedById', 'occurrenceStatus', 'organismId', 'organismQuantity', 'protocol', 'publishingCountryCode', 'recordedById', 'relativeOrganismQuantity', 'sampleSizeUnit', 'sampleSizeValue', 'samplingProtocol', 'dwcaExtension'],
   highlightedFilters: ['q', 'taxonKey', 'typeStatus', 'recordNumber', 'recordedBy', 'locality', 'country',  'year'],
-  defaultTableColumns: ['features', 'country', 'coordinates', 'year', 'recordedBy', 'catalogNumber', 'dataset', 'publisher']
+  defaultTableColumns: ['features', 'country', 'coordinates', 'year', 'recordedBy', 'dataset', 'publisher', 'catalogNumber']
   // defaultTableColumns: ['features', 'country', 'coordinates', 'year', 'basisOfRecord', 'dataset', 'publisher', 'catalogNumber', 'recordedBy', 'identifiedBy']
 };
