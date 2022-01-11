@@ -17,7 +17,7 @@ Botanical collections of plants, fungi and algae are a humongous treasure of bio
 	</a>
 </figure>
  
-The objects in these collections are called specimens and are very diverse, ranging from dried plants mounted on herbarium sheets or kept in envelopes (mosses and fungi), specimens preserved in fluids, wood samples, fruits, seeds, fibres, and pollen, as well as preparations on microscope slides. Other collections, such as DNA and tissue collections, as well as  living collections of botanical gardens and seed banks are not included in the Virtual Herbarium.
+The objects in these collections are called specimens and are very diverse, ranging from dried plants mounted on cardboard sheets or kept in envelopes (mosses and fungi), specimens preserved in fluids, wood samples, fruits, seeds, fibres, and pollen, as well as preparations on microscope slides. Other collections, such as DNA and tissue collections, as well as  living collections of botanical gardens and seed banks are not included in the Virtual Herbarium.
 
 ![Iconella splendida Ehrenb., photo by RG Diatomeen, Bo Berlin](assets/images/Iconella_splendida.jpg){:standalone .has-text-centered}
 
