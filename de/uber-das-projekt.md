@@ -12,18 +12,18 @@ Die botanischen Sammlungen von Pflanzen, Pilzen und Algen in den vielen Museen u
 
 <figure class="has-text-centered">
 	<a href="/de/data?entity=2981268752&filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNTI4NzQyNV19fQ&view=TABLE">
-		<img src="../assets/images/Actinocephalus_bongardii.jpg" alt="Herbariumsbeleg von Actinocephalus bongardii" />
+		<img src="/assets/images/Actinocephalus_bongardii.jpg" alt="Herbariumsbeleg von Actinocephalus bongardii" />
 		<figcaption>Actinocephalus bongardii (A.St.-Hil.) Sano; Scan durch BSM</figcaption>
 	</a>
 </figure>
  
 Die in Objekte dieser Sammlungen werden als Belege bezeichnet und sind von vielfältiger Art. Sie reichen von getrockneten Pflanzen, die auf Herbariumsblättern aufgeklebt oder in Umschlägen aufbewahrt werden (Algen), über in Alkohol konservierte Belege, Holz-, Frucht-, Samen-, Faser- und Pollensammlungen bis hin zu Mikropräparaten auf Objektträgern. Andere Sammlungen wie DNA- und Gewebesammlungen sowie die Lebendsammlungen der botanischen Gärten und Saatgutbanken sind noch nicht in das Virtuelle Herbarium aufgenommen worden.
 
-![Iconella splendida Ehrenb., Foto FG Diatomeen, Bo Berlin](../assets/images/Iconella_splendida.jpg){:standalone .has-text-centered}
+![Iconella splendida Ehrenb., Foto FG Diatomeen, Bo Berlin](/assets/images/Iconella_splendida.jpg){:standalone .has-text-centered}
 
 Die Belege sind eine wertvolle Informations- und Materialquelle für die heutige biologische Forschung, z. B. um ein besseres Verständnis der Veränderungen und Verluste unserer biologischen Vielfalt zu erlangen oder für die Modellierung der biologischen Vielfalt und die Naturschutzplanung. Sie können der Ausgangspunkt für automatische Bilderkennung mittels künstlicher Intelligenz sein und so Herkunftsforschung sowie Bildung, Öffentlichkeitsarbeit und Bürgerwissenschaft unterstützen.
 
-![Forscherin am Rasterelektronenmikroskop, Foto FG Diatomeen, Bo Berlin](../assets/images/Nelida_Abarca.jpg){:standalone .has-text-centered}
+![Forscherin am Rasterelektronenmikroskop, Foto FG Diatomeen, Bo Berlin](/assets/images/Nelida_Abarca.jpg){:standalone .has-text-centered}
 
 Jedoch bleiben die meisten dieser Belege in den Lagerräumen verborgen und sind für die Öffentlichkeit unzugänglich; nur wenige Objekte werden in Museen ausgestellt. Das Virtuelle Herbarium zielt darauf ab, dies zu überwinden und ein Betrachten der digitalisierten Exemplare der botanischen Sammlungen am eigenen Computer zu ermöglichen. Es kann sowohl von Wissenschaftlern genutzt werden, um anhand einer Vielzahl von Suchkriterien gezielt bestimmte Belege für die Forschung zu finden, als auch von einem breiteren Publikum zum bequemen Durchstöbern von [Datensätzen](/de/data?view=TABLE) oder [digitalen Bildern](/de/data?view=GALLERY).
 
@@ -36,7 +36,7 @@ Derzeit können im Virtuellen Herbarium Deutschland <span data-ajax-url="https:/
 
 <figure class="has-text-centered">
 	<a href="/de/data?view=MAP">
-		<img src="../assets/images/map.png" />
+		<img src="/assets/images/map.png" />
 		<figcaption>Herkunftsorte der georeferenzierten Belege im Virtuellen Herbarium Deutschland</figcaption>
 	</a>
 </figure>

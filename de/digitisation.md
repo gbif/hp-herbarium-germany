@@ -10,13 +10,13 @@ height: 50vh
 
 In Deutschland lagern in 70 Herbarien mehr als 22 Millionen Belegexemplare, das sind etwa 6% der Belege weltweit und 13% der Belege in Europa: 53% sind auf Pappbögen montierte Objekte (meist Samenpflanzen, Farne, Bärlappe, Makroalgen), weitere 21% sind noch nicht montiert. 26 % werden in ander Form aufbewahrt, z. B. in Boxen, in Umschlägen, auf Dias oder in Flüssigkeiten (vor allem Moose, Flechten, Pilze und Algen).
 
-![Herbariumsschränke, Foto: BSM](../assets/images/BSM_Herbar_Henssel.jpg){:standalone .has-text-centered}
+![Herbariumsschränke, Foto: BSM](/assets/images/BSM_Herbar_Henssel.jpg){:standalone .has-text-centered}
 
 Lediglich 13% der in deutschen Herbarien aufbewahrten Belege sind bisher digitalisiert worden; 69% dieser digitalen Belege umfassen nur Textdaten (Etiketteninformationen), während 31% ein oder mehrere Bilder enthalten. Durchschnittlich werden 48.000 Belege pro Jahr digitalisiert, was bei etwa 200.000 Neuzugängen pro Jahr bedeutet, dass die Digitalisierungsrate derzeit rückläufig ist.
 
 <figure class="has-text-centered">
 	<a href="/de/data?entity=864884844&filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNDA5MTE1MF19fQ&view=TABLE">
-		<img src="../assets/images/Bignonia_acutiflora.jpg" alt="Bild von Bignonia acutiflora" />
+		<img src="/assets/images/Bignonia_acutiflora.jpg" alt="Bild von Bignonia acutiflora" />
 		<figcaption>Herbariumsscan von Bignonia acutiflora Mart. ex DC.</figcaption>
 	</a>
 </figure>
@@ -30,7 +30,7 @@ Die Steigerung des Digitalisierungsgrades hat eine Vielzahl von Vorteilen sowohl
 
 Drei von vier Objekten in deutschen Herbarien sind auf Karton montierte Belege (einschließlich der noch unmontierten Belege). Im Vergleich zu anderen naturkundlichen Sammlungen sind solche flachen Herbarblätter relativ einfach mit Digitalkameras, Scannern und Mikroskopen zu digitalisieren. Allerdings erlaubt die derzeit in deutschen Institutionen vorhandene Ausstattung nur einen mäßigen Digitalisierungsdurchsatz.
 
-![Digitalisierung von Flechten, Moosen und Pilzen; Foto: Bo Berlin](../assets/images/BGBM_digitalisierung.jpg){:standalone .has-text-centered}
+![Digitalisierung von Flechten, Moosen und Pilzen; Foto: Bo Berlin](/assets/images/BGBM_digitalisierung.jpg){:standalone .has-text-centered}
 
 Erfolgreiche Digitalisierungsinitiativen in anderen Ländern wie den Niederlanden, Frankreich und Finnland haben Hochdurchsatz-Digitalisierungsmethoden mit Fließbandtechnik im industriellen Maßstab eingesetzt, um Millionen von Belegen zu digitalisieren. Ihre Erfahrungen zeigen, dass ganze Herbarien dank ausgefeilter Arbeitsabläufe und Verfahren in relativ kurzer Zeit vollständig und kosteneffizient digitalisiert werden können.
 
