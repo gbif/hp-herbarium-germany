@@ -10,13 +10,13 @@ height: 50vh
 
 In Germany, 70 herbaria store more than 22 million specimens, about 6% of the specimens worldwide and 13% of the specimens in Europe: 53% are objects mounted on stiff paper sheets (mostly seed plants, ferns, lycophytes, macroalgae), another 21% are not mounted yet, and 26% are stored in other forms, such as in boxes, in envelopes, on slides, or in liquids (mostly bryophytes, lichens, fungi, and algae).
 
-![Herbarium specimen cabinets, photo by BSM](assets/images/BSM_Herbar_Henssel.jpg){:standalone .has-text-centered}
+![Herbarium specimen cabinets, photo by BSM](/assets/images/BSM_Herbar_Henssel.jpg){:standalone .has-text-centered}
 
 Only 13% of the specimens held in German herbaria have been digitised so far; 69% of those digital specimens comprise only textual data (label information), whereas 31% include one or several images. An average of 48,000 specimens are digitised per year; given the figure of about 200,000 accessions per year, this implies that the proportion of digitised specimens is decreasing over time.
 
 <figure class="has-text-centered">
 	<a href="/data?entity=864884844&filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNDA5MTE1MF19fQ&view=TABLE">
-		<img src="assets/images/Bignonia_acutiflora.jpg" alt="Image of Bignonia acutiflora" />
+		<img src="/assets/images/Bignonia_acutiflora.jpg" alt="Image of Bignonia acutiflora" />
 		<figcaption>Herbarium scan of Bignonia acutiflora Mart. ex DC.</figcaption>
 	</a>
 </figure>
@@ -30,7 +30,7 @@ Increasing the level of digitisation has a multitude of benefits for both scienc
 
 Three of four objects in German herbaria are paper-mounted specimens (or those yet unmounted). Compared to other natural history collections, these flat herbarium sheets are relatively easy to digitise by using digital cameras, scanners and microscopes. However, the equipment currently available in German institutions allows only for a moderate throughput.
 
-![Digitisation of lichens, mosses and fungi; photo by Bo Berlin](assets/images/BGBM_digitalisierung.jpg){:standalone .has-text-centered}
+![Digitisation of lichens, mosses and fungi; photo by Bo Berlin](/assets/images/BGBM_digitalisierung.jpg){:standalone .has-text-centered}
 
 Successful digitisation initiatives in other countries like the Netherlands, France and Finland have used high-throughput digitisation methods using conveyor belts on an industrial scale to digitise millions of specimens. Their experiences show that whole herbaria can be comprehensively and cost-efficiently digitised in a relatively short time due to established workflows and protocols.
 
