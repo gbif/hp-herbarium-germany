@@ -12,18 +12,18 @@ Botanical collections of plants, fungi and algae are a humongous treasure of bio
 
 <figure class="has-text-centered">
 	<a href="/data?entity=2981268752&filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNTI4NzQyNV19fQ&view=TABLE">
-		<img src="assets/images/Actinocephalus_bongardii.jpg" alt="Image of Actinocephalus bongardii" />
+		<img src="/assets/images/Actinocephalus_bongardii.jpg" alt="Image of Actinocephalus bongardii" />
 		<figcaption>Actinocephalus bongardii (A.St.-Hil.) Sano; scan by BSM</figcaption>
 	</a>
 </figure>
  
 The objects in these collections are called specimens and are very diverse, ranging from dried plants mounted on cardboard sheets or kept in envelopes (mosses and fungi), specimens preserved in fluids, wood samples, fruits, seeds, fibres, and pollen, as well as preparations on microscope slides. Other collections, such as DNA and tissue collections, as well as  living collections of botanical gardens and seed banks are not included in the Virtual Herbarium.
 
-![Iconella splendida Ehrenb., photo by RG Diatomeen, Bo Berlin](assets/images/Iconella_splendida.jpg){:standalone .has-text-centered}
+![Iconella splendida Ehrenb., photo by RG Diatomeen, Bo Berlin](/assets/images/Iconella_splendida.jpg){:standalone .has-text-centered}
 
 These specimens are a valuable source of information and material for today’s biological research, for example for getting a better understanding of past and ongoing changes (and losses) of our biodiversity, for biodiversity modelling and conservation planning. They can be the starting point for automated image recognition by artificial intelligence, thus enabling provenance research as well as education, outreach and citizen science.
 
-![Researcher working on a scanning electron microscope, photo by RG Diatomeen, Bo Berlin](assets/images/Nelida_Abarca.jpg){:standalone .has-text-centered}
+![Researcher working on a scanning electron microscope, photo by RG Diatomeen, Bo Berlin](/assets/images/Nelida_Abarca.jpg){:standalone .has-text-centered}
 
 Yet, most of them remain hidden in vaults and are invisible to the general public; only a few objects become exhibits in museums. The Virtual Herbarium aims at overcoming this constraint by enabling an easy discovery of the digitised specimens of German botanical collections. It can be used by both scientists to find specimens of interest based on a multitude of search criteria and by a wider audience through simple [browsing of records](/data) or [digital images](/data?view=GALLERY).
 
@@ -36,7 +36,7 @@ Currently <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?network
 
 <figure class="has-text-centered">
 	<a href="/data?view=MAP">
-		<img src="assets/images/map.png" />
+		<img src="/assets/images/map.png" />
 		<figcaption>Provenance of geo-referenced digital specimens of the German Virtual Herbarium</figcaption>
 	</a>
 </figure>
