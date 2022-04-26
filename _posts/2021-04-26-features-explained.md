@@ -18,7 +18,7 @@ The new portal of the German Virtual Herbarium grants access to all GBIF-mediate
 The link [Browse specimens](/data) takes you right to the map view which shows all geo-referenced records. Alternatively, you can choose the [table view](/data?view=TABLE) (showing all records) or the [gallery view](/data?view=GALLERY) (showing all records with images) by clicking on the respective tabs. The table and gallery views can be browsed by paging through records or scrolling down and clicking on *Load more*. The map view, in contrast, allows you to explore specimens geographically by zooming into a region of interest using your scroll wheel or the +/- buttons in the top left corner of the map. After a short delay, clusters will refresh – with size and colour indicating the number of records forming the respective cluster. Clicking a cluster will list the specimens in a cluster; clicking on an item will slide in the details for this specimen.
 
 <figure class="has-text-centered">
-	<img src="/assets/images/map_cluster.jpg" />
+	<img src="/assets/images/map_cluster.png" />
 	<figcaption>Specimens grouped together in a map cluster</figcaption>
 </figure>
 
