@@ -39,8 +39,8 @@ height: 50vh
 
 #### Digitalisierungsprojekte in weiteren Ländern
 
-* [Digitarium Finland (Service-Zentrum für Hochleistungsdigitalisierung)](http://www.digitarium.fi/en/content/new-plant-line-helsinki.html)
+* [Digitarium Finland (Service-Zentrum für Hochleistungsdigitalisierung)](http://www.digitarium.fi/en.1.html)
 * [iDigBio (Integrated Digitized Biocollections)](https://www.idigbio.org/)
-* [Naturalis](https://science.naturalis.nl/en/collection/digitization/)
+* Naturalis: [Herbarium](https://www.naturalis.nl/en/en/collection/digitizing-herbarium-largest-and-most-efficient-digistreet), [Insekten](https://www.naturalis.nl/en/over-ons/media/persberichten/naturalis-and-picturae-will-digitize-thousands-of-insects)
 * [Atlas of Living Australia](https://www.ala.org.au/)
 * [Muséum National d'Histoire Naturelle (Herbarium P)](http://science.mnhn.fr/institution/mnhn/collection/p/item/search/form)
