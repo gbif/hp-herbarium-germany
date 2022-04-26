@@ -39,7 +39,7 @@ height: 50vh
 
 #### Digitisation projects in other countries
 
-* [Digitarium Finland (Service centre for high performance digitisation)](http://www.digitarium.fi/en)
+* [Digitarium Finland (Service centre for high performance digitisation)](http://www.digitarium.fi/en/content/new-plant-line-helsinki.html)
 * [iDigBio (Integrated Digitized Biocollections)](https://www.idigbio.org/)
 * [Naturalis](https://science.naturalis.nl/en/collection/digitization/)
 * [Atlas of Living Australia](https://www.ala.org.au/)
