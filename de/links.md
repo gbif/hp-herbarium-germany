@@ -44,3 +44,4 @@ height: 50vh
 * Naturalis: [Herbarium](https://www.naturalis.nl/en/en/collection/digitizing-herbarium-largest-and-most-efficient-digistreet), [Insekten](https://www.naturalis.nl/en/over-ons/media/persberichten/naturalis-and-picturae-will-digitize-thousands-of-insects)
 * [Atlas of Living Australia](https://www.ala.org.au/)
 * [Muséum National d'Histoire Naturelle (Herbarium P)](http://science.mnhn.fr/institution/mnhn/collection/p/item/search/form)
+* [Schweizer Netzwerk Naturhistorische Sammlungen (SwissCollNet)](https://swisscollnet.scnat.ch/de)

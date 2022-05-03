@@ -4,7 +4,7 @@
   href: /about
 - text: Browse specimens
   href: /data
-- text: Taxgroups
+- text: Organism groups
   menu:
   - text: Algae
     href: data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNzA3MzU5MywxMDYsMzYsNzk0NzE4NCwzMzJdfX0

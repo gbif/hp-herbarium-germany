@@ -8,7 +8,7 @@ imageLicense: |
 height: 50vh
 ---
 
-* **B** - Herbarium Berolinense, [Botanischer Garten und Botanisches Museum Berlin, Freie Universität Berlin](https://www.gbif.org/publisher/57254bd0-8256-11d8-b7ed-b8a03c50a862) (einschließlich der Fotografien nomenklatorischer Typen aus den 1930er Jahren, zur Verfügung gestellt vom Field Museum, Chicago [F])
+* **B** - Herbarium Berolinense, [Botanischer Garten und Botanisches Museum Berlin, Freie Universität Berlin](https://www.gbif.org/publisher/57254bd0-8256-11d8-b7ed-b8a03c50a862) (einschließlich der Fotografien nomenklatorischer Typen aus den 1930er Jahren und zur Verfügung gestellt vom Field Museum, Chicago [F])
 
 * **BRM** - [Alfred-Wegener-Institut für Polar- und Meeresforschung Bremerhaven](https://www.gbif.org/publisher/497688a0-59d6-11db-893e-b8a03c50a862)
 

@@ -8,7 +8,7 @@ imageLicense: |
 height: 50vh
 ---
 
-Die botanischen Sammlungen von Pflanzen, Pilzen und Algen in den zahlreichen Museen und Institutionen Deutschlands bilden einen enormen Wissensschatz über die biologische Vielfalt unserer Umwelt. Von Botanikern der vergangenen Jahrhunderte zusammengetragen, wächst die Zahl der Objekte noch heute an. Jedes einzelne davon ist ein wertvolles Zeugnis der botanischen Vielfalt in Vergangenheit und Gegenwart, von noch existierenden Arten und von solchen, die bereits ausgestorben sind.
+Die botanischen Sammlungen von Pflanzen, Pilzen und Algen in den zahlreichen Museen und Institutionen Deutschlands bilden einen enormen Wissensschatz über die biologische Vielfalt unserer Umwelt. Von Botaniker*innen der vergangenen Jahrhunderte zusammengetragen, wächst die Zahl der Objekte noch heute an. Jedes einzelne davon ist ein wertvolles Zeugnis der botanischen Vielfalt in Vergangenheit und Gegenwart, von noch existierenden Arten und von solchen, die bereits ausgestorben sind.
 
 <figure class="has-text-centered">
 	<a href="/de/data?entity=2981268752&filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNTI4NzQyNV19fQ&view=TABLE">
@@ -21,13 +21,13 @@ Die in Objekte dieser Sammlungen werden als Belege bezeichnet und sind von vielf
 
 ![Iconella splendida Ehrenb., Rasterelektronenmikroskopaufnahme, Foto FG Diatomeen, Bo Berlin](/assets/images/Iconella_splendida.jpg){:standalone .has-text-centered}
 
-Die Belege sind eine wertvolle Informations- und Materialquelle für die heutige biologische Forschung, z. B. um ein besseres Verständnis der Veränderungen und Verluste unserer biologischen Vielfalt zu erlangen oder für die Modellierung der biologischen Vielfalt und die Naturschutzplanung. Sie können der Ausgangspunkt für automatische Bilderkennung mittels künstlicher Intelligenz sein und so Herkunftsforschung sowie Bildung, Öffentlichkeitsarbeit und Bürgerwissenschaft unterstützen.
+Diese Herbariumsbelege sind eine wertvolle Informations- und Materialquelle für die heutige biologische Forschung, z. B. um ein besseres Verständnis der Veränderungen und Verluste unserer biologischen Vielfalt zu erlangen oder für die Modellierung der biologischen Vielfalt und die Naturschutzplanung. Herbariumsscans können der Ausgangspunkt für automatische Bilderkennung mittels künstlicher Intelligenz sein und so Herkunftsforschung sowie Bildung, Öffentlichkeitsarbeit und Bürgerwissenschaft unterstützen.
 
 ![Forscherin am Lichtmikroskop, Foto FG Diatomeen, Bo Berlin](/assets/images/Nelida_Abarca.jpg){:standalone .has-text-centered}
 
-Jedoch bleiben die meisten dieser Belege in den Lagerräumen verborgen und sind für die Öffentlichkeit unzugänglich; nur wenige Objekte werden in Museen ausgestellt. Das Virtuelle Herbarium zielt darauf ab, dies zu überwinden und ein Betrachten der digitalisierten Exemplare der botanischen Sammlungen am eigenen Computer zu ermöglichen. Es kann sowohl von Wissenschaftlern genutzt werden, um anhand einer Vielzahl von Suchkriterien gezielt bestimmte Belege für die Forschung zu finden, als auch von einem breiteren Publikum zum bequemen Durchstöbern von [Datensätzen](/de/data?view=TABLE) oder [digitalen Bildern](/de/data?view=GALLERY).
+Jedoch bleiben die meisten dieser Belege in den Lagerräumen verborgen und sind für die Öffentlichkeit unzugänglich; nur wenige Objekte werden in Museen ausgestellt. Das Virtuelle Herbarium zielt darauf ab, dies zu überwinden und ein Betrachten der digitalisierten Exemplare der botanischen Sammlungen am eigenen Computer zu ermöglichen. Es kann von Wissenschaftler*innen genutzt werden, um anhand einer Vielzahl von Suchkriterien gezielt bestimmte Belege für die Forschung zu finden, als auch von einem breiteren Publikum zum bequemen Durchstöbern von [Datensätzen](/de/data?view=TABLE) oder [digitalen Bildern](/de/data?view=GALLERY).
 
-Die 70 Herbarien in Deutschland beherbergen schätzungsweise 22,2 Millionen Belege, das entspricht etwa 6 % der weltweiten und 13 % der in europäischen Herbarien aufbewahrten Belege. Je nach Art der Präparation (flach, auf Karton montiert versus dreidimensional und in Boxen aufbewahrt) ist der Aufwand für die Digitalisierung immens, so dass bisher nur ein Bruchteil online zugänglich ist.
+Die 70 Herbarien in Deutschland beherbergen schätzungsweise 22,2 Millionen Belege, das entspricht etwa 6 % der weltweiten und 13 % der in europäischen Herbarien aufbewahrten Belege. Große Bemühungen zur Digitalisierung aller Belege werden unternommen, jedoch sind die Ressourcen zur Digitalisierung und Datenerfassung begrenzt. Das Scannen von Herbariumsblättern (flache, auf Karton montierte, gepresste Belege) ist im Vergleich recht einfach und am weitesten fortgeschritten, während andere Belegformen (z.B. in Boxen aufbewahrte Samen und Objektträger für Mikroskope) einen deutlich höheren Aufwand erfordern, so dass bisher nur eine geringe Zahl online verfügbar ist.
 
 [Listenansicht](/de/data?view=TABLE){: .button} [Zoombare Karte](/de/data?view=MAP){: .button} [Bilder durchstöbern](/de/data?view=GALLERY){: .button}
 {: .has-text-centered}
