@@ -1,6 +1,6 @@
 ---
 title: "Neues Virtuelles Herbarium Deutschland Online"
-date:  2021-04-26 12:00:00 +0200
+date:  2022-05-03 12:00:00 +0200
 #categories: ["Einführung", "VH/de-Seite"]
 lang-ref: new_vh
 background: /assets/images/entry_page2_de.jpg
@@ -16,7 +16,7 @@ Seit 2015 bietet das Virtuelle Herbarium Deutschland einen Online-Zugang zu den 
 
 ![Galerieansicht des Virtuellen Herbariums Deutschland](/assets/images/gallery_view.jpg){:standalone .has-text-centered}
 
-Das Virtuelle Herbarium Deutschland soll einen Einblick in die deutschen Herbarien bieten. Zum Start im Dezember 2021 werden fast [eine Million digitalisierte Belege](/de/data?view=TABLE) aus [22 Herbarien](/de/data?view=DATASETS) abrufbar sein. Das Portal basiert auf der GBIF-Indexdatenbank, so dass sämtliche an GBIF angebundenen Belege der teilnehmenden deutschen Herbarien auch über das Virtuelle Herbarium abgerufen werden können. Mehr als 300.000 der Datensätze sind mit mindestens einem [digitalen Bild des Beleges](/de/data?view=GALLERY) versehen.
+Das Virtuelle Herbarium Deutschland soll einen Einblick in die deutschen Herbarien bieten. Zum Start im Mai 2022 werden fast [eine Million digitalisierte Belege](/de/data?view=TABLE) aus [22 Herbarien](/de/data?view=DATASETS) abrufbar sein. Das Portal basiert auf der GBIF-Indexdatenbank, so dass sämtliche an GBIF angebundenen Belege der teilnehmenden deutschen Herbarien auch über das Virtuelle Herbarium abgerufen werden können. Mehr als 300.000 der Datensätze sind mit mindestens einem [digitalen Bild des Beleges](/de/data?view=GALLERY) versehen.
 
 <table>
   <tr>

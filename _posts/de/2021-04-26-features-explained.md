@@ -1,6 +1,6 @@
 ---
 title:  "Funktionalitäten des neuen Virtuellen Herbariums Deutschland"
-date:   2021-04-23 15:42:42 +0200
+date:   2022-05-02 15:42:42 +0200
 #categories: ["Einführung", "VH/de"]
 lang-ref: features
 background: /assets/images/filter_scientific_name.jpg
@@ -47,7 +47,7 @@ Die acht am häufigsten verwendeten Filter werden direkt über den Datensätzen 
 	<figcaption>Über die Schaltfläche "Mehr" können weitere Filter ausgewählt werden</figcaption>
 </figure>
 
-Komplexe Filter lassen sich mithilfe eines Browser-Lesezeichens speichern. Beim späteren Aufruf des Lesezeichens wird der gespeicherte Filter mit den gesicherten Filterwerten geladen. Die Ergebnisliste ist jedoch immer aktuell, d.h. neue Belege, die nach dem Speichern des Lesezeichens hinzugekommen sind, werden in der Liste angezeigt. Der Menüpunkt *Taxgruppen* in der oberen Navigationsleiste verwendet solche gespeicherten Filter für die schnelle Suche nach Belegen gängiger taxonomischer Gruppen.
+Komplexe Filter lassen sich mithilfe eines Browser-Lesezeichens speichern. Beim späteren Aufruf des Lesezeichens wird der gespeicherte Filter mit den gesicherten Filterwerten geladen. Die Ergebnisliste ist jedoch immer aktuell, d.h. neue Belege, die nach dem Speichern des Lesezeichens hinzugekommen sind, werden in der Liste angezeigt. Der Menüpunkt *Organismengruppen* in der oberen Navigationsleiste verwendet solche gespeicherten Filter für die schnelle Suche nach Belegen gängiger taxonomischer Gruppen.
 
 <figure class="has-text-centered">
 	<a href="/de/data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNzA3MzU5MywxMDYsMzYsNzk0NzE4NCwzMzJdfX0&view=GALLERY">

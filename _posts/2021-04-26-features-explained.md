@@ -1,6 +1,6 @@
 ---
 title:  "Features of the new German Virtual Herbarium"
-date:   2021-04-23 15:42:42 +0200
+date:   2022-05-02 15:42:42 +0200
 #categories: ["Getting started", "VH/de website"]
 lang-ref: features
 background: /assets/images/filter_scientific_name.jpg
@@ -47,7 +47,7 @@ The eight filters listed directly above the records are the most commonly used f
 	<figcaption>Clicking on the "more" button allows you to choose additional filters</figcaption>
 </figure>
 
-You can save complex filters by simply adding a browser bookmark. Using the bookmark later will load the stored filter with the saved filter values. The results, however, will always be up-to-date, meaning that new specimens added after the bookmark was saved will show up in the list. The menu item *Taxgroups* in the navigation bar at the top uses such saved filters and can be used as a shortcut to find specimens of common taxonomic groups.
+You can save complex filters by simply adding a browser bookmark. Using the bookmark later will load the stored filter with the saved filter values. The results, however, will always be up-to-date, meaning that new specimens added after the bookmark was saved will show up in the list. The menu item *Organism groups* in the navigation bar at the top uses such saved filters and can be used as a shortcut to find specimens of common taxonomic groups.
 
 <figure class="has-text-centered">
 	<a href="/data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNzA3MzU5MywxMDYsMzYsNzk0NzE4NCwzMzJdfX0&view=GALLERY">

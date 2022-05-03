@@ -1,6 +1,6 @@
 ---
 title: "New German Virtual Herbarium Online"
-date:  2021-04-26 12:00:00 +0200
+date:  2021-05-03 12:00:00 +0200
 #categories: ["Getting started", "VH/de website"]
 lang-ref: new_vh
 background: /assets/images/entry_page2.jpg
@@ -16,7 +16,7 @@ Since 2015, the German Virtual Herbarium has offered online access to specimens 
 
 ![Gallery view of the German Virtual Herbarium](/assets/images/gallery_view.jpg){:standalone .has-text-centered}
 
-The German Virtual herbarium is a showcase for German herbaria. At its launch in December 2021, it allowed access to almost [one million digitised specimens](/data?view=TABLE) held in [22 herbaria](/data?view=DATASETS). The data portal is based on GBIF’s index database, meaning that all GBIF-mediated specimens of German herbaria will also be accessible through the Virtual Herbarium. Over 300,000 of the records come with at least one [digital image of the specimen](/data?view=GALLERY).
+The German Virtual herbarium is a showcase for German herbaria. At its launch in May 2022, it allowed access to almost [one million digitised specimens](/data?view=TABLE) held in [22 herbaria](/data?view=DATASETS). The data portal is based on GBIF’s index database, meaning that all GBIF-mediated specimens of German herbaria will also be accessible through the Virtual Herbarium. Over 300,000 of the records come with at least one [digital image of the specimen](/data?view=GALLERY).
 
 <table>
   <tr>
