@@ -12,7 +12,7 @@ background: /assets/images/entry_page2.jpg
 
 ---
 
-Since 2015, the German Virtual Herbarium has offered online access to specimens held in German herbaria that have been digitised so far. Even though the [old data portal](https://search.biocase.de/vh) allowed searching for specimens based on a wide range of criteria, the software was beginning to show its age with respect to both functionality and usability. For this reason, a new website has been established: founded on software developed by and hosted on servers of the [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org), it offers state-of-the-art views of the specimens as lists, on a map or in a gallery as well as filters on *all* data items (more on the features can be found in [this news item](/post/2020/features-explained/)).
+Since 2015, the German Virtual Herbarium has offered online access to specimens held in German herbaria that have been digitised so far. Even though the [old data portal](https://search.biocase.de/vh) allowed searching for specimens based on a wide range of criteria, the software was beginning to show its age with respect to both functionality and usability. For this reason, a new website has been established: founded on software developed by and hosted on servers of the [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org), it offers state-of-the-art views of the specimens as lists, on a map or in a gallery as well as filters on *all* data items (more on the features can be found in [this news item](/post/2022/features-explained/)).
 
 ![Gallery view of the German Virtual Herbarium](/assets/images/gallery_view.jpg){:standalone .has-text-centered}
 

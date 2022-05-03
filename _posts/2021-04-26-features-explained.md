@@ -6,7 +6,7 @@ lang-ref: features
 background: /assets/images/filter_scientific_name.jpg
 ---
 
-The new portal of the German Virtual Herbarium grants access to all GBIF-mediated specimens held in the [participating herbaria](/partners) that have been digitised to date. As of December 2021, this is almost one million records; about one third have at least one digital image attached.
+The new portal of the German Virtual Herbarium grants access to all GBIF-mediated specimens held in the [participating herbaria](/partners) that have been digitised to date. As of May 2022, this is almost one million records; about one third have at least one digital image attached.
 
 <figure class="has-text-centered">
 	<a href="/data?view=MAP">

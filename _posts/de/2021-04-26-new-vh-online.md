@@ -12,7 +12,7 @@ background: /assets/images/entry_page2_de.jpg
 
 ---
 
-Seit 2015 bietet das Virtuelle Herbarium Deutschland einen Online-Zugang zu den bis heute digitalisierten Belegen deutscher Herbarien. Zwar erlaubte auch schon das [bisherige Datenportal](https://search.biocase.de/vh) die Suche nach Belegen nach einer Vielzahl von Kriterien, war aber in puncto Funktionalität und Benutzerfreundlichkeit in die Jahre gekommen. Aus diesem Grund entstand eine neue Website: Diese basiert auf einer von der [Global Biodiversity Information Facility](https://www.gbif.org) entwickelten und auf deren Servern gehosteten Software und bietet eine zeitgemäße Präsentation der Belege als Liste, Karte oder in einer Galerie sowie umfassende Filtermöglichkeiten (mehr zu den Funktionalitäten [hier](/de/post/2021/features-explained/)).
+Seit 2015 bietet das Virtuelle Herbarium Deutschland einen Online-Zugang zu den bis heute digitalisierten Belegen deutscher Herbarien. Zwar erlaubte auch schon das [bisherige Datenportal](https://search.biocase.de/vh) die Suche nach Belegen nach einer Vielzahl von Kriterien, war aber in puncto Funktionalität und Benutzerfreundlichkeit in die Jahre gekommen. Aus diesem Grund entstand eine neue Website: Diese basiert auf einer von der [Global Biodiversity Information Facility](https://www.gbif.org) entwickelten und auf deren Servern gehosteten Software und bietet eine zeitgemäße Präsentation der Belege als Liste, Karte oder in einer Galerie sowie umfassende Filtermöglichkeiten (mehr zu den Funktionalitäten [hier](/de/post/2022/features-explained/)).
 
 ![Galerieansicht des Virtuellen Herbariums Deutschland](/assets/images/gallery_view.jpg){:standalone .has-text-centered}
 
