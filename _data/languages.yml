@@ -1,8 +1,8 @@
-en:
-  label: English
-  icon:  # optional
-  archive_permalink: /news/
 de:
   label: Deutsch
   icon:  # optional
   archive_permalink: /de/news/
+en:
+  label: English
+  icon:  # optional
+  archive_permalink: /news/
