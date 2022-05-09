@@ -51,7 +51,7 @@ siteMeasurements:
   termsVersion: "2022-04-25" # A version number for your terms. If you change this, then the users will see the popup again asking them to confirm/reject anew.
 
 algae:
-  rootLang: de
+  rootLang: en
   latestPostLimit: 4
   logo: /assets/images/gbif_logo.jpg    # Logo in navbar, will be displayed with 28px height
   logoAndTitle: true                    # include the title next to the logo
