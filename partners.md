@@ -32,10 +32,9 @@ height: 50vh
 
 * **MSB** - [Herbarium Systematische Botanik und Mykologie](https://www.gbif.org/dataset/7b9c52da-f762-11e1-a439-00145eb45e9a), Ludwig-Maximilians-Universität München
 
-* **REG** - [Herbarium Regensburgische Botanische Gesellschaft](https://www.gbif.org/dataset/02d03809-ca95-40a8-8767-3af423d1b5af), Universität Regensburg
+* **REG** - [Herbarium Regensburgische Botanische Gesellschaft](https://www.gbif.org/dataset/02d03809-ca95-40a8-8767-3af423d1b5af), [Flora exsiccata Bavarica](https://www.gbif.org/dataset/856f13d8-f762-11e1-a439-00145eb45e9a), Universität Regensburg
 
 * **TUB** - [Herbarium Tubingense](https://www.gbif.org/dataset/ab1de8e9-8a18-4ffe-b2c6-e13ffbec3e7e), Eberhard Karls Universität Tübingen
 
-* [Flora exsiccata Bavarica](https://www.gbif.org/dataset/856f13d8-f762-11e1-a439-00145eb45e9a), Regensburgische Botanische Gesellschaft
 
 > You can also view a [list of datasets ordered by number of specimens](/data?view=DATASETS)
