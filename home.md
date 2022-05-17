@@ -2,7 +2,7 @@
 lang-ref: home
 layout: home
 title: Virtual Herbarium Germany
-description: A showcase for the hidden treasures of German herbaria.
+description: <strong>A showcase for the hidden treasures of German herbaria.<strong>
 background: /assets/images/gin1.jpg
 imageLicense: |
   Photo by Katja Hiendlmayer
