@@ -7,7 +7,7 @@ background: /assets/images/gin1.jpg
 imageLicense: |
   Photo by Katja Hiendlmayer
 height: 75vh
-overlayColor: "#63748855"
+overlayColor: "#5f3d3d55"
 cta:
   - text: Start exploring
     href: /data
