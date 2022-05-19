@@ -1,9 +1,9 @@
 ---
 title: "New German Virtual Herbarium Online"
-date:  2021-05-03 12:00:00 +0200
+date:  2022-05-19 11:00:00 +0200
 #categories: ["Getting started", "VH/de website"]
 lang-ref: new_vh
-background: /assets/images/entry_page2.jpg
+background: /assets/images/entry_page9.jpg
 #composition:
 #  - type: postHeader # the block type
 #  - data: home.stats
