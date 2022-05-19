@@ -9,11 +9,11 @@ imageLicense: |
 height: 75vh
 overlayColor: "#5f3d3d55"
 cta:
-  - text: Belege erkunden
-    href: de/data
-    isPrimary: true
-  - text: Über das Projekt
-    href: de/uber-das-projekt
+#  - text: Belege erkunden
+#    href: de/data
+#    isPrimary: true
+#  - text: Über das Projekt
+#    href: de/uber-das-projekt
 permalink: /de/
 composition:
   - type: heroImage # the block type
