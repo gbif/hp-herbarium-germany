@@ -1,7 +1,7 @@
 ---
 lang-ref: archive
 layout: archive
-title: News but in deutch
+title: News
 description: News and events
 permalink: /de/news/
 ---
