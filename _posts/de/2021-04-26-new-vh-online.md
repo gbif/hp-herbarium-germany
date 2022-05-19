@@ -3,7 +3,7 @@ title: "Neues Virtuelles Herbarium Deutschland Online"
 date:  2022-05-19 11:00:00 +0200
 #categories: ["Einführung", "VH/de-Seite"]
 lang-ref: new_vh
-background: /assets/images/entry_page7_de.jpg
+background: /assets/images/entry_page8_de.jpg
 #composition:
 #  - type: postHeader # the block type
 #  - data: home.stats
