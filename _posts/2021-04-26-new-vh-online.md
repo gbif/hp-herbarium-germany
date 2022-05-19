@@ -16,7 +16,7 @@ About 23 million dried plants, fungi and algae are safely stored in more than 70
 
 ![Gallery view of the German Virtual Herbarium](/assets/images/gallery_view.jpg){:standalone .has-text-centered}
 
-The Virtual Herbarium Germany is curated by the Botanic Garden Berlin of Freie Universität Berlin ([contact](mailto:contact@gbif.de)), which also developed the software for the portal together with the international open data platform Global Biodiversity Information Facility (GBIF Link).
+The Virtual Herbarium Germany is curated by the Botanic Garden Berlin of Freie Universität Berlin ([contact](mailto:contact@gbif.de)), which also developed the software for the portal together with the international open data platform [Global Biodiversity Information Facility](https://www.gbif.org).
 
 <table>
   <tr>
