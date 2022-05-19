@@ -12,7 +12,7 @@ background: /assets/images/entry_page9_de.jpg
 
 ---
 
-Rund 23 Millionen getrocknete Pflanzen, Pilzen und Algen liegen sicher verwahrt in über 70 deutschen Herbarien. Eine Millionen von ihnen können Sie hier im Virtuellen Herbarium Deutschland entdecken. Mehr als 300.000 der Datensätze sind mit einem digitalen Bild  versehen. Außerdem können Sie sich die Belege als [Liste](/de/data?view=TABLE), [Karte](/de/data?view=MAP) oder in einer [Galerie](/de/data?view=GALLERY) aufrufen sowie nach verschiedenen Suchkriterien filtern (mehr zu den Funktionalitäten (mehr zu den Funktionalitäten [hier](/de/post/2022/features-explained/)).
+Rund 23 Millionen getrocknete Pflanzen, Pilzen und Algen liegen sicher verwahrt in über 70 deutschen Herbarien. Eine Million von ihnen können Sie hier im Virtuellen Herbarium Deutschland entdecken. Mehr als 300.000 der Datensätze sind mit einem digitalen Bild  versehen. Außerdem können Sie sich die Belege als [Liste](/de/data?view=TABLE), [Karte](/de/data?view=MAP) oder in einer [Galerie](/de/data?view=GALLERY) aufrufen sowie nach verschiedenen Suchkriterien filtern (mehr zu den Funktionalitäten (mehr zu den Funktionalitäten [hier](/de/post/2022/features-explained/)).
 
 ![Galerieansicht des Virtuellen Herbariums Deutschland](/assets/images/gallery_view.jpg){:standalone .has-text-centered}
 
