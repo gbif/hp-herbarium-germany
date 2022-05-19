@@ -1,6 +1,6 @@
 ---
 title: "Neues Virtuelles Herbarium Deutschland Online"
-date:  2022-05-03 12:00:00 +0200
+date:  2022-05-19 11:00:00 +0200
 #categories: ["Einführung", "VH/de-Seite"]
 lang-ref: new_vh
 background: /assets/images/entry_page2_de.jpg
@@ -12,11 +12,11 @@ background: /assets/images/entry_page2_de.jpg
 
 ---
 
-Seit 2015 bietet das Virtuelle Herbarium Deutschland einen Online-Zugang zu den bis heute digitalisierten Belegen deutscher Herbarien. Zwar erlaubte auch schon das [bisherige Datenportal](https://search.biocase.de/vh) die Suche nach Belegen nach einer Vielzahl von Kriterien, war aber in puncto Funktionalität und Benutzerfreundlichkeit in die Jahre gekommen. Aus diesem Grund entstand eine neue Website: Diese basiert auf einer von der [Global Biodiversity Information Facility](https://www.gbif.org) entwickelten und auf deren Servern gehosteten Software und bietet eine zeitgemäße Präsentation der Belege als Liste, Karte oder in einer Galerie sowie umfassende Filtermöglichkeiten (mehr zu den Funktionalitäten [hier](/de/post/2022/features-explained/)).
+Rund 23 Millionen getrocknete Pflanzen, Pilzen und Algen liegen sicher verwahrt in über 70 deutschen Herbarien. Eine Millionen von ihnen können Sie hier im Virtuellen Herbarium Deutschland entdecken. Mehr als 300.000 der Datensätze sind mit einem digitalen Bild  versehen. Außerdem können Sie sich die Belege als [Liste](/de/data?view=TABLE), [Karte](/de/data?view=MAP) oder in einer Galerie (/de/data?view=GALLERY) aufrufen sowie nach verschiedenen Suchkriterien filtern (mehr zu den Funktionalitäten (mehr zu den Funktionalitäten [hier](/de/post/2022/features-explained/)).
 
 ![Galerieansicht des Virtuellen Herbariums Deutschland](/assets/images/gallery_view.jpg){:standalone .has-text-centered}
 
-Das Virtuelle Herbarium Deutschland soll einen Einblick in die deutschen Herbarien bieten. Zum Start im Mai 2022 werden fast [eine Million digitalisierte Belege](/de/data?view=TABLE) aus [22 Herbarien](/de/data?view=DATASETS) abrufbar sein. Das Portal basiert auf der GBIF-Indexdatenbank, so dass sämtliche an GBIF angebundenen Belege der teilnehmenden deutschen Herbarien auch über das Virtuelle Herbarium abgerufen werden können. Mehr als 300.000 der Datensätze sind mit mindestens einem [digitalen Bild des Beleges](/de/data?view=GALLERY) versehen.
+Die Website wird vom Botanischen Garten Berlin der Freien Universität Berlin betreut ([Kontakt](mailto:contact@gbif.de)), der gemeinsam mit der internationalen Open Data-Plattform [Global Biodiversity Information Facility] (https://www.gbif.org) auch die Software hinter dem Portal entwickelt hat. 
 
 <table>
   <tr>
@@ -38,5 +38,3 @@ Das Virtuelle Herbarium Deutschland soll einen Einblick in die deutschen Herbari
     </td>
   </tr>
 </table>
-
-Die verwendete Software befindet sich noch in der Weiterentwicklung und wird gelegentlich um neue Funktionalitäten ergänzt. Aus diesem Grund möchten wir die Nutzer herzlich dazu ermuntern, uns Feedback zum Datenportal zu schicken, insbesondere Anmerkungen bezüglich der Benutzerfreundlichkeit und Anregungen für mögliche zukünftige Funktionalitäten. Wir freuen uns über jede Meinung zur neuen Website, die Sie uns gerne per [E-Mail](mailto:contact@gbif.de) senden können!
