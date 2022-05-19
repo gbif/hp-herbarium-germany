@@ -12,11 +12,11 @@ background: /assets/images/entry_page9.jpg
 
 ---
 
-Since 2015, the German Virtual Herbarium has offered online access to specimens held in German herbaria that have been digitised so far. Even though the [old data portal](https://search.biocase.de/vh) allowed searching for specimens based on a wide range of criteria, the software was beginning to show its age with respect to both functionality and usability. For this reason, a new website has been established: founded on software developed by and hosted on servers of the [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org), it offers state-of-the-art views of the specimens as lists, on a map or in a gallery as well as filters on *all* data items (more on the features can be found in [this news item](/post/2022/features-explained/)).
+About 23 million dried plants, fungi and algae are safely stored in more than 10 german herbaria. One million of them can be explored now in the German Virtual Herbarium. More than 300,000 of the records come with at least one digital image. The specimens can be viewed as a [list](/data?view=TABLE), [map](/data?view=MAP) or in a [gallery](/data?view=GALLERY) and can be filtered by a multitude of search criteria (more on the features can be found in [this news item](/post/2022/features-explained/)).
 
 ![Gallery view of the German Virtual Herbarium](/assets/images/gallery_view.jpg){:standalone .has-text-centered}
 
-The German Virtual herbarium is a showcase for German herbaria. At its launch in May 2022, it allowed access to almost [one million digitised specimens](/data?view=TABLE) held in [22 herbaria](/data?view=DATASETS). The data portal is based on GBIF’s index database, meaning that all GBIF-mediated specimens of German herbaria will also be accessible through the Virtual Herbarium. Over 300,000 of the records come with at least one [digital image of the specimen](/data?view=GALLERY).
+The Virtual Herbarium Germany is curated by the Botanic Garden Berlin of Freie Universität Berlin ([contact](mailto:contact@gbif.de)), which also developed the software for the portal together with the international open data platform Global Biodiversity Information Facility (GBIF Link).
 
 <table>
   <tr>
@@ -38,5 +38,3 @@ The German Virtual herbarium is a showcase for German herbaria. At its launch in
     </td>
   </tr>
 </table>
-
-The underlying software is still in its development phase, with new features being added occasionally. Hence, we strongly encourage users to send feedback on the data portal, especially comments on usability and suggestions for potential additional features. But we’re happy to hear any opinion about the new website, just send us an [email](mailto:contact@gbif.de)!
