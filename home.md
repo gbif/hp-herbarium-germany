@@ -9,11 +9,11 @@ imageLicense: |
 height: 75vh
 overlayColor: "#5f3d3d55"
 cta:
-  - text: Start exploring
-    href: /data
-    isPrimary: true
-  - text: About
-    href: /about
+  #- text: Start exploring
+  #  href: /data
+  #  isPrimary: true
+  #- text: About
+  #  href: /about
 permalink: /
 composition:
   - type: heroImage # the block type
