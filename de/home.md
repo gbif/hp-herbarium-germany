@@ -1,6 +1,7 @@
 ---
 lang-ref: home
 layout: home
+klass: home
 title: Virtuelles Herbarium Deutschland
 description: Ein Blick in die Schatzkammern der deutschen Herbarien.
 background: /assets/images/gin1.jpg
