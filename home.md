@@ -1,6 +1,7 @@
 ---
 lang-ref: home
 layout: home
+klass: home
 title: Virtual Herbarium Germany
 description: A showcase for the hidden treasures of German herbaria.
 background: /assets/images/gin1.jpg
