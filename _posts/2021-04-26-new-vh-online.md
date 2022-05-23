@@ -12,7 +12,7 @@ background: /assets/images/entry_page_withoutbuttons.jpg
 
 ---
 
-About 23 million dried plants, fungi and algae are safely stored in more than 70 german herbaria. One million of them can be explored now in the German Virtual Herbarium. More than 300,000 of the records come with at least one digital image. The specimens can be viewed as a [list](/data?view=TABLE), [map](/data?view=MAP) or in a [gallery](/data?view=GALLERY) and can be filtered by a multitude of search criteria (more on the features can be found in [this news item](/post/2022/features-explained/)).
+About 23 million dried plants, fungi and algae are safely stored in more than 70 German herbaria. One million of them can be explored now in the German Virtual Herbarium. More than 300,000 of the records come with at least one digital image. The specimens can be viewed as a [list](/data?view=TABLE), [map](/data?view=MAP) or in a [gallery](/data?view=GALLERY) and can be filtered by a multitude of search criteria (more on the features can be found in [this news item](/post/2022/features-explained/)).
 
 ![Gallery view of the German Virtual Herbarium](/assets/images/gallery_view.jpg){:standalone .has-text-centered}
 
