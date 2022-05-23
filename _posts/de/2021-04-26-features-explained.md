@@ -3,7 +3,7 @@ title:  "Funktionalitäten des neuen Virtuellen Herbariums Deutschland"
 date:   2022-05-02 15:42:42 +0200
 #categories: ["Einführung", "VH/de"]
 lang-ref: features
-background: /assets/images/filter_scientific_name.jpg
+background: /assets/images/filter_scientific_name_de.jpg
 ---
 
 Das neue Portal des Virtuellen Herbariums Deutschland bietet Zugriff auf alle Belege der [teilnehmenden Herbarien](/de/partners), die bis heute digitalisiert und über das GBIF-Netzwerk veröffentlicht wurden. Mit Stand Mai 2022 sind dies fast eine Million Belege, von denen etwa ein Drittel mit mindestens einem digitalen Bild verknüpft ist.
