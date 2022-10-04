@@ -12,10 +12,11 @@ background: /assets/images/herbarium dresdense.jpg
 
 ---
 
-As of October 5th, the Herbarium of the Technical University Dresden is now part of the Virtual Herbarium Germany. The image below shows the nomenclatural type of Bromus commutatus var. parviflorus Hack. taken from the special collection "Herbarium Regium Dresdense, Flora des Königreichs Sachsen", which is part of Herbarium Dresdense.
-
+As of October 5th, the Herbarium of the Technical University Dresden is part of the Virtual Herbarium Germany. The image below shows the nomenclatural type of Bromus commutatus var. parviflorus Hack., taken from the special collection "Herbarium Regium Dresdense, Flora des Königreichs Sachsen" of Herbarium Dresdense.
 
 ![Type specimen of Bromus commutatus var. parviflorus Hack.](/assets/images/DR_Bromus_commutatus.png){:standalone .has-text-centered}
+
+This latest addition brings the number of datasets in the Virtual Herbarium to 23, publishing more than one million specimens.
 
 <table>
   <tr>
