@@ -2,7 +2,7 @@
 title: "Herbarium Dresdense added to Virtual Herbarium"
 date:  2022-10-07 9:00:00 +0200
 #categories: ["Getting started", "VH/de website"]
-lang-ref: new_vh
+lang-ref: herbarium_dr
 background: /assets/images/herbarium_dr.png
 #composition:
 #  - type: postHeader # the block type
