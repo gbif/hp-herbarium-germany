@@ -12,9 +12,9 @@ background: /assets/images/herbarium_dr.png
 
 ---
 
-Seit dem 7. Oktober ist das [Herbarium der Technischen Universität Dresden](/de/data/?datasetKey=d446193a-7bbd-4c76-b90a-2546fcafa85c&view=GALLERY) über das Virtuelle Herbariunm verfügbar. Der nachstehende Scan zeigt den [nomenklatorischen Typ von *Bromus commutatus var. parviflorus* Hack.](/de/data/?entity=3855109401&from=50&taxonKey=2703778&view=TABLE), der Teil der Spezialsammlung "Herbarium Regium Dresdense, Flora des Königreichs Sachsen" des Herbarium Dresdense ist. 
+Seit dem 7. Oktober ist das [Herbarium der Technischen Universität Dresden](/de/data/?datasetKey=d446193a-7bbd-4c76-b90a-2546fcafa85c&view=GALLERY) über das Virtuelle Herbarium verfügbar. Der nachstehende Scan zeigt den [nomenklatorischen Typ von *Bromus commutatus var. parviflorus* Hack.](/de/data/?entity=3855109401&from=50&taxonKey=2703778&view=TABLE), der Teil der Spezialsammlung "Herbarium Regium Dresdense, Flora des Königreichs Sachsen" des Herbarium Dresdense ist. 
 
-![Typbeleg von *Bromus commutatus var. parviflorus* Hack.](/assets/images/DR_Bromus_commutatus.png){:standalone .has-text-centered}
+![Typbeleg von Bromus commutatus var. parviflorus Hack.](/assets/images/DR_Bromus_commutatus.png){:standalone .has-text-centered}
 
 Mit dem Dresdner Herbarium steigt die Zahl der verfügbaren Dataset auf 23 - mit insgesamt mehr als einer Million Belege.
 
