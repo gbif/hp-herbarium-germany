@@ -12,7 +12,7 @@ background: /assets/images/herbarium_hbg.png
 
 ---
 
-Seit 21. Februar ist ein neues Dataset des [Herbarium Hamburgense](/data/?datasetKey=85c8e444-f762-11e1-a439-00145eb45e9a&view=GALLERY) Teil des Virtuellen Herbariums Deutschland. Ein Schwerpunkt ist die umfangreiche und wertvolle Sammlung brasilianischer Pflanzen von Ernst Ule. Der nachstehende Scan zeigt einen [Typusbeleg von *Baccharis palustris* Heering](/data/?entity=1699804434&taxonKey=3129330&view=TABLE), beschrieben von dem Hamburger Botaniker und Baccharis-Spezialisten Willi Heering.
+Seit 21. Februar ist [ein neues Dataset des Herbarium Hamburgense](/data/?datasetKey=85c8e444-f762-11e1-a439-00145eb45e9a&view=GALLERY) Teil des Virtuellen Herbariums Deutschland. Ein Schwerpunkt ist die umfangreiche und wertvolle Sammlung brasilianischer Pflanzen von Ernst Ule. Der nachstehende Scan zeigt einen [Typusbeleg von *Baccharis palustris* Heering](/data/?entity=1699804434&taxonKey=3129330&view=TABLE), beschrieben von dem Hamburger Botaniker und Baccharis-Spezialisten Willi Heering.
 
 ![Typbeleg von Baccharis palustris Heering](/assets/images/HBG_Baccharis_palustris.jpg){:standalone .has-text-centered}
 
