@@ -12,9 +12,9 @@ background: /assets/images/herbarium_hal.png
 
 ---
 
-Since November 28th, the [herbarium of Martin Luther University Halle-Wittenberg](/data/?datasetKey=737dd7df-7ce6-4185-bbf2-3c0e3ed37f3b&view=GALLERY) is included in the Virtual Herbarium Germany. The herbarium of D.F.L. von Schlechtendal forms the basis of HAL. The scan below shows the [type specimen of Weldenia schultesii Schltdl.](/data/?entity=o_5895722419&view=TABLE), a species described from Mexico.
+Since November 28th, the [herbarium of Martin Luther University Halle-Wittenberg](/data/?datasetKey=737dd7df-7ce6-4185-bbf2-3c0e3ed37f3b&view=GALLERY) is included in the Virtual Herbarium Germany. The herbarium of D.F.L. von Schlechtendal forms the basis of HAL. The scan below shows the [type specimen of *Alchemilla venusta* Schltdl. & Cham.](/data/?entity=o_5895716179&view=TABLE), a species described from Mexico.
 
-![Type specimen of Weldenia schultesii Schltdl.](/assets/images/HAL_Weldenia_schultesii.jpg){:standalone .has-text-centered}
+![Type specimen of *Alchemilla venusta* Schltdl. & Cham.](/assets/images/HAL_Alchemilla_venusta.jpg){:standalone .has-text-centered}
 
 This latest addition brings the number of datasets in the Virtual Herbarium to 24, publishing more than 1.23 million specimens.
 
