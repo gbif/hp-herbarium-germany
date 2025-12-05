@@ -14,7 +14,7 @@ background: /assets/images/herbarium_hal.png
 
 Seit dem 28. Novemver ist das [Herbarium der Martin-Luther-Universität Halle-Wittenberg](/data/?datasetKey=737dd7df-7ce6-4185-bbf2-3c0e3ed37f3b&view=GALLERY) über das Virtuelle Herbarium Deutschland verfügbar. Den Grundstock von HAL stellt das Herbarium von D.F.L. von Schlechtendal dar. Der nachstehende Scan zeigt den [Typus-Beleg von *Alchemilla venusta* Schltdl. & Cham.](/data/?entity=o_5895716179&view=TABLE), einer aus Mexico beschriebenen Art.
 
-![Typus-Beleg von *Alchemilla venusta* Schltdl. & Cham.](/assets/images/HAL_Alchemilla_venusta.jpg){:standalone .has-text-centered}
+![Typus-Beleg von Alchemilla venusta Schltdl. & Cham.](/assets/images/HAL_Alchemilla_venusta.jpg){:standalone .has-text-centered}
 
 Mit dem Herbarium Halle-Wittenberg steigt die Zahl der verfügbaren Dataset auf 24 - mit insgesamt mehr als 1,23 Millionen Belegen.
 
